@@ -12,3 +12,6 @@ To be listed (work in progress)
   - [Dynamic Administrative Units - Delegate Azure AD roles to a subset of objects!](https://www.youtube.com/watch?v=EcfmYRYoXqI)
 - [Azure Bastion](https://docs.microsoft.com/en-us/azure/bastion/bastion-overview)
   - [Azure Bastion Deep Dive](https://www.youtube.com/watch?v=lZ_u57gJBNo)
+- [Azure Confidential Computing](https://docs.microsoft.com/en-us/azure/confidential-computing/overview)
+  - [Confidential Computing Deep Dive](https://www.youtube.com/watch?v=ZnoFOTbRvRg)
+  
