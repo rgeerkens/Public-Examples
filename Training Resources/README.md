@@ -2,7 +2,7 @@
 
 ## Full Courses
 
-To be listed (work in progress)
+- [SC-300 Microsoft Identity and Access Administrator](https://www.youtube.com/watch?v=LGpgqRVG65g)
 
 ## Deep Dive Content
 
@@ -15,4 +15,3 @@ To be listed (work in progress)
 - [Azure Confidential Computing](https://docs.microsoft.com/en-us/azure/confidential-computing/overview)
   - [Confidential Computing Deep Dive](https://www.youtube.com/watch?v=ZnoFOTbRvRg)
   - [Generation 2 VM and Trusted Launch](https://www.youtube.com/watch?v=SnfBV-YjDWw)
-  
