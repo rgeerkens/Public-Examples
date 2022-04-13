@@ -17,4 +17,7 @@
   - [Generation 2 VM and Trusted Launch](https://www.youtube.com/watch?v=SnfBV-YjDWw)
 - [Azure Scale Sets](https://docs.microsoft.com/en-us/azure/virtual-machine-scale-sets/overview)
   - [VMSS Flex Overview](https://www.youtube.com/watch?v=2BrckSF7ICI)
-  
+
+### Azure Platform
+
+- [Algemene stand van zaken 04/2022](https://www.youtube.com/watch?v=lEv1Af2wh0Y)
