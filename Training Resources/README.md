@@ -21,3 +21,4 @@
 ### Azure Platform
 
 - [Algemene stand van zaken 04/2022](https://www.youtube.com/watch?v=lEv1Af2wh0Y)
+- [Understanding Control vs Data Plane in Azure](https://www.youtube.com/watch?v=EeVEPrcmox4)
