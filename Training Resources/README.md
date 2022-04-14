@@ -2,7 +2,24 @@
 
 ## Full Courses
 
-- [SC-300 Microsoft Identity and Access Administrator](https://www.youtube.com/watch?v=LGpgqRVG65g)
+- [AZ-104 Azure Administrator - Full Course](https://www.youtube.com/playlist?list=PLlVtbbG169nGlGPWs9xaLKT1KfwqREHbs)
+- [AZ-104 Azure Administrator - Summary](https://www.youtube.com/watch?v=VOod_VNgdJk)
+- [SC-300 Microsoft Identity and Access Administrator - Full Course](https://www.youtube.com/playlist?list=PLlVtbbG169nGj4rfaMUQiKiBZNDlxoo0y)
+- [SC-300 Microsoft Identity and Access Administrator - Summary](https://www.youtube.com/watch?v=LGpgqRVG65g)
+- [AZ-305 Designing Microsoft Azure Infrastructure Solutions - Full Course](https://www.youtube.com/playlist?list=PLlVtbbG169nHSnaP4ae33yQUI3zcmP5nP)
+- [AZ-305 Designing Microsoft Azure Infrastructure Solutions - Summary](https://www.youtube.com/watch?v=vq9LuCM4YP4)
+- [AZ-400 DevOps Master Class](https://www.youtube.com/playlist?list=PLlVtbbG169nFr8RzQ4GIxUEznpNR53ERq)
+- [AZ-500 Microsoft Azure Security Technologies - Full Course](https://www.youtube.com/playlist?list=PLlVtbbG169nHw9T1L_CiLxC-DTwKu-BZG)
+- [AZ-500 Microsoft Azure Security Technologies - Summary](https://www.youtube.com/watch?v=6vISzj-z8k4)
+- [AZ-700 Designing And Implement Azure Networkin - Full Course](https://www.youtube.com/playlist?list=PLlVtbbG169nGeFODKRZhjqdSxFpSPXVOa)
+- [AZ-700 Designing And Implement Azure Networkin - Summary](https://www.youtube.com/watch?v=nVZYDhB_M64)
+- [AZ-900 Azure Fundamentals - Full Course](https://www.youtube.com/playlist?list=PLlVtbbG169nED0_vMEniWBQjSoxTsBYS3)
+- [AZ-900 Azure Fundamentals - Summary](https://www.youtube.com/watch?v=tQp1YkB2Tgs)
+- [AI-900 Azure Artifical Intelligence Fundamentals](https://www.youtube.com/watch?v=E9aarWMLJw0)
+- [DP-900 Azure Data Fundamentals](https://www.youtube.com/watch?v=LirvmXjZU90)
+- [MS-900 Microsoft 365 Fundamentals](https://www.youtube.com/watch?v=ZtOo7prP4_M)
+- [PL-900 Microsoft Power Platform Fundamentals](https://www.youtube.com/watch?v=lbPHM-MiEUA)
+- [SC-900 Microsoft Security, Compliance And Identity Fundamentals](https://www.youtube.com/watch?v=Bz-8jM3jg-8)
 
 ## Deep Dive Content
 
