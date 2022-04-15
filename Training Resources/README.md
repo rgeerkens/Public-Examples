@@ -29,6 +29,7 @@
   - [Dynamic Administrative Units - Delegate Azure AD roles to a subset of objects!](https://www.youtube.com/watch?v=EcfmYRYoXqI)
   - [Azure AD Cross-Tenant Access Settings Deep Dive](https://www.youtube.com/watch?v=Ku64fo7iZ4Y)
   - [Microsoft Azure AD Identity Protection Deep Dive](https://www.youtube.com/watch?v=Nx2ych3xHl0)
+  - [Workload Identity Protection with Azure AD Identity Protection](https://www.youtube.com/watch?v=TASsrY_ilWc)
 - [Azure Bastion](https://docs.microsoft.com/en-us/azure/bastion/bastion-overview)
   - [Azure Bastion Deep Dive](https://www.youtube.com/watch?v=lZ_u57gJBNo)
 - [Azure Confidential Computing](https://docs.microsoft.com/en-us/azure/confidential-computing/overview)
