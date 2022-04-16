@@ -31,6 +31,7 @@
   - [Microsoft Azure AD Identity Protection Deep Dive](https://www.youtube.com/watch?v=Nx2ych3xHl0)
   - [Workload Identity Protection with Azure AD Identity Protection](https://www.youtube.com/watch?v=TASsrY_ilWc)
   - [Azure AD Custom Security Attributes](https://www.youtube.com/watch?v=r0ta_-PpSXs)
+  - [Microsoft Azure Managed Identity Deep Dive](https://www.youtube.com/watch?v=rC1TV0_sIrM)
 - [Azure Bastion](https://docs.microsoft.com/en-us/azure/bastion/bastion-overview)
   - [Azure Bastion Deep Dive](https://www.youtube.com/watch?v=lZ_u57gJBNo)
 - [Azure Confidential Computing](https://docs.microsoft.com/en-us/azure/confidential-computing/overview)
