@@ -1,5 +1,9 @@
 # Overview Of Interesting Training Resources
 
+## Recent Changes
+
+- [AZ-400 DevOps Master Class](https://www.youtube.com/playlist?list=PLlVtbbG169nFr8RzQ4GIxUEznpNR53ERq)
+
 ## Full Courses
 
 - [AZ-104 Azure Administrator - Full Course](https://www.youtube.com/playlist?list=PLlVtbbG169nGlGPWs9xaLKT1KfwqREHbs)
@@ -77,3 +81,10 @@
 - [PostgreSQL guide - Final](https://geerkens-my.sharepoint.com/:b:/g/personal/ronny_geerkens_onmicrosoft_com/EWf55PLvRm5JiHfkQUBxc6QBae-Mb9nlsgwTuPssSdKCEg?e=6iHofm)
 - [Principles Of Data Science](https://geerkens-my.sharepoint.com/:b:/g/personal/ronny_geerkens_onmicrosoft_com/ERG8s69GZrxBvWJ5yTaR8ngBRnZTH8vahQSWoPCJBhLokQ?e=RP0zXj)
 - [The Azure Cloud-Native Architecture Mapbook](https://geerkens-my.sharepoint.com/:b:/g/personal/ronny_geerkens_onmicrosoft_com/EYzTN2gTwdpPtAMXRaiQYkgBevsCMXLk16lcUmFfal8CWg?e=MgDkmf)
+
+## Great Sites
+
+- [John Savill's Technical Training](https://www.youtube.com/c/NTFAQGuy/videos)
+- [Onboard To Azure](https://learn.onboardtoazure.com/)
+- [Azure Architecture Center](https://docs.microsoft.com/en-us/azure/architecture/)
+- [Microsoft Azure Well-Architected Framework](https://docs.microsoft.com/en-us/azure/architecture/framework/)
