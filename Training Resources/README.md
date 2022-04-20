@@ -59,6 +59,7 @@
 - [Understanding Control vs Data Plane in Azure](https://www.youtube.com/watch?v=EeVEPrcmox4)
 - [Understand Azure Processor Performance - Azure Compute Unit](https://www.youtube.com/watch?v=wBVuxzQL7PY)
 - [Understanding and Using Proximity Placement Groups](https://www.youtube.com/watch?v=rFi6iJwId6k)
+- [Microsoft Azure Reservations (Reserved Instances) Deep Dive](https://www.youtube.com/watch?v=vpTDXenagcM)
 
 ### On-Premise Services
 
