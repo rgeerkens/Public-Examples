@@ -38,6 +38,7 @@
   - [Microsoft Azure Managed Identity Deep Dive](https://www.youtube.com/watch?v=rC1TV0_sIrM)
   - [Azure AD Login to Microsoft Azure Linux VM](https://www.youtube.com/watch?v=AQeYKk9uGCg)
   - [Native Azure AD Kerberos](https://www.youtube.com/watch?v=fevwz8O954A)
+  - [Microsoft Azure AD Resiliency Deep Dive](https://www.youtube.com/watch?v=Zk7A9U39JeI)
 - [Azure Bastion](https://docs.microsoft.com/en-us/azure/bastion/bastion-overview)
   - [Azure Bastion Deep Dive](https://www.youtube.com/watch?v=lZ_u57gJBNo)
 - [Azure Confidential Computing](https://docs.microsoft.com/en-us/azure/confidential-computing/overview)
