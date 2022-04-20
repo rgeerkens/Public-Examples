@@ -42,6 +42,8 @@
 - [Azure Confidential Computing](https://docs.microsoft.com/en-us/azure/confidential-computing/overview)
   - [Confidential Computing Deep Dive](https://www.youtube.com/watch?v=ZnoFOTbRvRg)
   - [Generation 2 VM and Trusted Launch](https://www.youtube.com/watch?v=SnfBV-YjDWw)
+- [Azure Lighthouse](https://docs.microsoft.com/en-us/azure/lighthouse/overview)
+  - [Azure Lighthouse Deep Dive](https://www.youtube.com/watch?v=IrqkHOPFktM)
 - [Azure Monitor](https://docs.microsoft.com/en-us/azure/azure-monitor/overview)
   - [Microsoft Azure Monitor - Alert Processing Rules](https://www.youtube.com/watch?v=cHH4RkL-9Dg)
 - [Azure Scale Sets](https://docs.microsoft.com/en-us/azure/virtual-machine-scale-sets/overview)
