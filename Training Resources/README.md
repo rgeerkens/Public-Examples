@@ -50,6 +50,7 @@
   - [Microsoft Azure Monitor - Alert Processing Rules](https://www.youtube.com/watch?v=cHH4RkL-9Dg)
 - [Azure Private Link](https://docs.microsoft.com/en-us/azure/private-link/private-link-overview)
   - [Private Endpoint DNS Exploration](https://www.youtube.com/watch?v=rXbamGNz-xQ)
+  - [Microsoft Azure Private Link Deep Dive](https://www.youtube.com/watch?v=57ZwdztCx2w)
 - [Azure Scale Sets](https://docs.microsoft.com/en-us/azure/virtual-machine-scale-sets/overview)
   - [VMSS Flex Overview](https://www.youtube.com/watch?v=2BrckSF7ICI)
 - [Azure Storage Accounts](https://docs.microsoft.com/en-us/azure/storage/common/storage-account-overview)
