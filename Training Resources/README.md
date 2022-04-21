@@ -100,3 +100,7 @@
 - [Onboard To Azure](https://learn.onboardtoazure.com/)
 - [Azure Architecture Center](https://docs.microsoft.com/en-us/azure/architecture/)
 - [Microsoft Azure Well-Architected Framework](https://docs.microsoft.com/en-us/azure/architecture/framework/)
+
+## Other Stuff
+
+- [Use Visual Studio Code In The Browser](https://www.youtube.com/watch?v=OyZyImXt4fc)
