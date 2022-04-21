@@ -66,6 +66,7 @@
 - [Understand Azure Processor Performance - Azure Compute Unit](https://www.youtube.com/watch?v=wBVuxzQL7PY)
 - [Understanding and Using Proximity Placement Groups](https://www.youtube.com/watch?v=rFi6iJwId6k)
 - [Microsoft Azure Reservations (Reserved Instances) Deep Dive](https://www.youtube.com/watch?v=vpTDXenagcM)
+- [Microsoft Azure Capacity Reservations](https://www.youtube.com/watch?v=qcrORvSMNaA)
 
 ### On-Premise Services
 
