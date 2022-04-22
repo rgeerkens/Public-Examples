@@ -76,6 +76,7 @@
 - [Microsoft Azure Reservations (Reserved Instances) Deep Dive](https://www.youtube.com/watch?v=vpTDXenagcM)
 - [Microsoft Azure Capacity Reservations](https://www.youtube.com/watch?v=qcrORvSMNaA)
 - [Disaster Recovery in Microsoft Azure](https://www.youtube.com/watch?v=8fvO3WArG-Y)
+- [Understanding Microsoft Azure Availability Zones](https://www.youtube.com/watch?v=4nDRvZR2EjU)
 
 ### On-Premise Services
 
