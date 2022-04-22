@@ -55,6 +55,8 @@
   - [Microsoft Azure Private Link Deep Dive](https://www.youtube.com/watch?v=57ZwdztCx2w)
 - [Azure Scale Sets](https://docs.microsoft.com/en-us/azure/virtual-machine-scale-sets/overview)
   - [VMSS Flex Overview](https://www.youtube.com/watch?v=2BrckSF7ICI)
+- [Azure Spot VM](https://docs.microsoft.com/en-us/azure/virtual-machines/spot-vms)
+  - [Azure Spot VM Deep Dive](https://www.youtube.com/watch?v=LWA4SCALYCY)
 - [Azure Storage Accounts](https://docs.microsoft.com/en-us/azure/storage/common/storage-account-overview)
   - [Azure Storage Data Role Based Access Control](https://www.youtube.com/watch?v=hjaP7u5d0x8)
   - [Native SFTP in Microsoft Azure with Azure Storage](https://www.youtube.com/watch?v=-0PPA0tJLKA)
