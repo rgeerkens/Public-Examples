@@ -71,6 +71,7 @@
 - [Understanding and Using Proximity Placement Groups](https://www.youtube.com/watch?v=rFi6iJwId6k)
 - [Microsoft Azure Reservations (Reserved Instances) Deep Dive](https://www.youtube.com/watch?v=vpTDXenagcM)
 - [Microsoft Azure Capacity Reservations](https://www.youtube.com/watch?v=qcrORvSMNaA)
+- [Disaster Recovery in Microsoft Azure](https://www.youtube.com/watch?v=8fvO3WArG-Y)
 
 ### On-Premise Services
 
