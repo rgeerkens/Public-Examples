@@ -44,6 +44,8 @@
 - [Azure Confidential Computing](https://docs.microsoft.com/en-us/azure/confidential-computing/overview)
   - [Confidential Computing Deep Dive](https://www.youtube.com/watch?v=ZnoFOTbRvRg)
   - [Generation 2 VM and Trusted Launch](https://www.youtube.com/watch?v=SnfBV-YjDWw)
+- [Azure Front Door](https://docs.microsoft.com/en-us/azure/frontdoor/front-door-overview)
+  - [Azure Front Door Deep Dive](https://www.youtube.com/watch?v=DHiZbIks9i0&t=1248s)
 - [Azure Gateway Loadbalancer](https://docs.microsoft.com/en-us/azure/load-balancer/gateway-overview)
   - [Microsoft Azure Gateway Load Balancer Deep Dive](https://www.youtube.com/watch?v=JLx7ZFzjdSs)
 - [Azure Lighthouse](https://docs.microsoft.com/en-us/azure/lighthouse/overview)
