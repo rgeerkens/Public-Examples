@@ -39,6 +39,8 @@
   - [Azure AD Login to Microsoft Azure Linux VM](https://www.youtube.com/watch?v=AQeYKk9uGCg)
   - [Native Azure AD Kerberos](https://www.youtube.com/watch?v=fevwz8O954A)
   - [Microsoft Azure AD Resiliency Deep Dive](https://www.youtube.com/watch?v=Zk7A9U39JeI)
+- [Azure App Service Environment](https://docs.microsoft.com/en-us/azure/app-service/environment/overview)
+  - [Azure App Service Environment (ASE) v3 Walkthrough](https://www.youtube.com/watch?v=mtCN5yGwqe0)
 - [Azure Bastion](https://docs.microsoft.com/en-us/azure/bastion/bastion-overview)
   - [Azure Bastion Deep Dive](https://www.youtube.com/watch?v=lZ_u57gJBNo)
 - [Azure Confidential Computing](https://docs.microsoft.com/en-us/azure/confidential-computing/overview)
