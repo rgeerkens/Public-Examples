@@ -54,6 +54,8 @@
   - [Azure Lighthouse Deep Dive](https://www.youtube.com/watch?v=IrqkHOPFktM)
 - [Azure Monitor](https://docs.microsoft.com/en-us/azure/azure-monitor/overview)
   - [Microsoft Azure Monitor - Alert Processing Rules](https://www.youtube.com/watch?v=cHH4RkL-9Dg)
+- [Azure Netapp Files](https://docs.microsoft.com/en-us/azure/azure-netapp-files/azure-netapp-files-introduction)
+  - [Azure NetApp Files Deep Dive](https://www.youtube.com/watch?v=OwajZ48Pa0c)
 - [Azure Private Link](https://docs.microsoft.com/en-us/azure/private-link/private-link-overview)
   - [Private Endpoint DNS Exploration](https://www.youtube.com/watch?v=rXbamGNz-xQ)
   - [Microsoft Azure Private Link Deep Dive](https://www.youtube.com/watch?v=57ZwdztCx2w)
