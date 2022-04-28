@@ -41,6 +41,8 @@
   - [Microsoft Azure AD Resiliency Deep Dive](https://www.youtube.com/watch?v=Zk7A9U39JeI)
 - [Azure App Service Environment](https://docs.microsoft.com/en-us/azure/app-service/environment/overview)
   - [Azure App Service Environment (ASE) v3 Walkthrough](https://www.youtube.com/watch?v=mtCN5yGwqe0)
+- [Azure Application Gateway](https://docs.microsoft.com/en-us/azure/application-gateway/overview)
+  - [Azure Application Gateway Deep Dive](https://www.youtube.com/watch?v=B3O6bXu-NbM)
 - [Azure Bastion](https://docs.microsoft.com/en-us/azure/bastion/bastion-overview)
   - [Azure Bastion Deep Dive](https://www.youtube.com/watch?v=lZ_u57gJBNo)
 - [Azure Confidential Computing](https://docs.microsoft.com/en-us/azure/confidential-computing/overview)
