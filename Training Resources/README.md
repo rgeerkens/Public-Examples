@@ -39,6 +39,8 @@
   - [Azure AD Login to Microsoft Azure Linux VM](https://www.youtube.com/watch?v=AQeYKk9uGCg)
   - [Native Azure AD Kerberos](https://www.youtube.com/watch?v=fevwz8O954A)
   - [Microsoft Azure AD Resiliency Deep Dive](https://www.youtube.com/watch?v=Zk7A9U39JeI)
+- [Azure API Manager](https://docs.microsoft.com/en-us/azure/api-management/api-management-key-concepts)
+  - [Azure API Manager Automated Orchestration](https://geerkens-my.sharepoint.com/:v:/g/personal/ronny_geerkens_onmicrosoft_com/Ebys3KEacyZEi9BIjbHsad8BsnukdZ1QnKXSti6G1Czw5Q?e=JBsOgd)
 - [Azure App Service Environment](https://docs.microsoft.com/en-us/azure/app-service/environment/overview)
   - [Azure App Service Environment (ASE) v3 Walkthrough](https://www.youtube.com/watch?v=mtCN5yGwqe0)
 - [Azure Application Gateway](https://docs.microsoft.com/en-us/azure/application-gateway/overview)
