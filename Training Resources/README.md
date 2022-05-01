@@ -75,6 +75,8 @@
   - [Native SFTP in Microsoft Azure with Azure Storage](https://www.youtube.com/watch?v=-0PPA0tJLKA)
 - [Azure Virtual Machines](https://docs.microsoft.com/en-us/azure/virtual-machines/)
   - [Microsoft Azure Managed Disk LIVE Resize](https://www.youtube.com/watch?v=VrtAcOH6S-w)
+- [Azure Virtual Network vNet](https://docs.microsoft.com/en-us/azure/virtual-network/virtual-networks-overview)
+  - [Peered Virtual Network Address Space Modify in Microsoft Azure](https://www.youtube.com/watch?v=nldYMGd82EY)
 
 ### Azure Platform
 
