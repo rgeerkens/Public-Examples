@@ -125,3 +125,4 @@
 
 - [Use Visual Studio Code In The Browser](https://www.youtube.com/watch?v=OyZyImXt4fc)
 - [Azure Resource Explorer](https://resources.azure.com/)
+- [Windows 365 Deep Dive](https://www.youtube.com/watch?v=EHV9Z4it-c8)
