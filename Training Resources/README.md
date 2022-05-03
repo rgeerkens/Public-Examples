@@ -112,6 +112,7 @@
 - [PostgreSQL guide - Final](https://geerkens-my.sharepoint.com/:b:/g/personal/ronny_geerkens_onmicrosoft_com/EWf55PLvRm5JiHfkQUBxc6QBae-Mb9nlsgwTuPssSdKCEg?e=6iHofm)
 - [Principles Of Data Science](https://geerkens-my.sharepoint.com/:b:/g/personal/ronny_geerkens_onmicrosoft_com/ERG8s69GZrxBvWJ5yTaR8ngBRnZTH8vahQSWoPCJBhLokQ?e=RP0zXj)
 - [The Azure Cloud-Native Architecture Mapbook](https://geerkens-my.sharepoint.com/:b:/g/personal/ronny_geerkens_onmicrosoft_com/EYzTN2gTwdpPtAMXRaiQYkgBevsCMXLk16lcUmFfal8CWg?e=MgDkmf)
+- [The complete guide to developer-first application security](https://resources.github.com/downloads/GitHubGitHub%20Advanced%20Security%20%E2%80%93%20Secure%20development%20and%20software%20supply%20chainAdvanced%20SecurityEbook.pdf)
 
 ## Great Sites
 
