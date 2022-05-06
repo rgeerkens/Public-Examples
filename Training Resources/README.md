@@ -105,6 +105,7 @@
 
 - [Understanding and Getting Started with ZERO TRUST](https://www.youtube.com/watch?v=hhS8VdGnfOU)
 - [Protecting Your Environment](https://www.youtube.com/watch?v=1dCRq15Vpwo)
+- [Master the Azure Pricing Calculator](https://www.youtube.com/watch?v=rMKmbZ1SYQg)
 
 ## Books
 
