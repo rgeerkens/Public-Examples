@@ -78,6 +78,7 @@
 - [Azure Storage Accounts](https://docs.microsoft.com/en-us/azure/storage/common/storage-account-overview)
   - [Azure Storage Data Role Based Access Control](https://www.youtube.com/watch?v=hjaP7u5d0x8)
   - [Native SFTP in Microsoft Azure with Azure Storage](https://www.youtube.com/watch?v=-0PPA0tJLKA)
+  - [Blob Point-In-Time Restore Capability](https://www.youtube.com/watch?v=bI37sozgCDU)
 - [Azure Virtual Machines](https://docs.microsoft.com/en-us/azure/virtual-machines/)
   - [Microsoft Azure Managed Disk LIVE Resize](https://www.youtube.com/watch?v=VrtAcOH6S-w)
 - [Azure Virtual Network (vNet)](https://docs.microsoft.com/en-us/azure/virtual-network/virtual-networks-overview)
