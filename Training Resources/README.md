@@ -102,6 +102,7 @@
 ### Architecture & Strategy
 
 - [Understanding and Getting Started with ZERO TRUST](https://www.youtube.com/watch?v=hhS8VdGnfOU)
+- [Protecting Your Environment](https://www.youtube.com/watch?v=1dCRq15Vpwo)
 
 ## Books
 
