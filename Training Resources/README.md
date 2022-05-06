@@ -69,6 +69,8 @@
 - [Azure Private Link](https://docs.microsoft.com/en-us/azure/private-link/private-link-overview)
   - [Private Endpoint DNS Exploration](https://www.youtube.com/watch?v=rXbamGNz-xQ)
   - [Microsoft Azure Private Link Deep Dive](https://www.youtube.com/watch?v=57ZwdztCx2w)
+- [Azure Route Server](https://docs.microsoft.com/en-us/azure/route-server/overview)
+  - [Azure Route Server Overview](https://www.youtube.com/watch?v=c1f4rmkrF6M)
 - [Azure Scale Sets](https://docs.microsoft.com/en-us/azure/virtual-machine-scale-sets/overview)
   - [VMSS Flex Overview](https://www.youtube.com/watch?v=2BrckSF7ICI)
 - [Azure Spot VM](https://docs.microsoft.com/en-us/azure/virtual-machines/spot-vms)
