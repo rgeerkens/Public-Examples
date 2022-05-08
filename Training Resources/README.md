@@ -128,11 +128,28 @@
 
 - [John Savill's Technical Training](https://www.youtube.com/c/NTFAQGuy/videos)
 - [Onboard To Azure](https://learn.onboardtoazure.com/)
+- [Mike Tholfsen Microsoft Tips](https://www.youtube.com/c/MikeTholfsen/videos)
+- [Microsoft Azure Videos](https://www.youtube.com/c/MicrosoftAzure/videos)
 - [Azure Architecture Center](https://docs.microsoft.com/en-us/azure/architecture/)
 - [Microsoft Azure Well-Architected Framework](https://docs.microsoft.com/en-us/azure/architecture/framework/)
+
+## Good Github Repositories
+
+- [Microosft Azure Documentation](https://github.com/MicrosoftDocs/azure-docs)
+- [Github Documentation](https://docs.github.com/en/get-started)
+- [Kubernetes The Hard Way on Azure](https://github.com/ivanfioravanti/kubernetes-the-hard-way-on-azure)
+- [John Savill](https://github.com/johnthebrit)
+
+## Tools
+
+- [Bandwidth Calculator](https://www.calculator.net/bandwidth-calculator.html?downloadsize2=8&downloadsize2unit=GB&bandwidth2=5&bandwidth2unit=mb&ctype=2&x=74&y=22#download-time)
+- [TiB to TB Conversion](https://www.gbmb.org/tib-to-tb)
+- [Resize Image By KB](https://resizefile.com/resize-image-by-kb.html)
 
 ## Other Stuff
 
 - [Use Visual Studio Code In The Browser](https://www.youtube.com/watch?v=OyZyImXt4fc)
 - [Azure Resource Explorer](https://resources.azure.com/)
 - [Windows 365 Deep Dive](https://www.youtube.com/watch?v=EHV9Z4it-c8)
+- [Serverless Platform](https://www.serverless.com/)
+- [Terraform Providers](https://registry.terraform.io/browse/providers)
