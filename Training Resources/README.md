@@ -111,6 +111,10 @@
 - [Protecting Your Environment](https://www.youtube.com/watch?v=1dCRq15Vpwo)
 - [Master the Azure Pricing Calculator](https://www.youtube.com/watch?v=rMKmbZ1SYQg)
 
+### Infrastructure As Code
+
+- [Bicep - Infrastructure as Code for Azure Reinvented](https://www.youtube.com/watch?v=MlVs9OBQyYk)
+
 ## Books
 
 - [Azure AI Services At Scale For Cloud, Mobile And Edge](https://geerkens-my.sharepoint.com/:b:/g/personal/ronny_geerkens_onmicrosoft_com/EWiokcosiohDjz-qX87R13YBiVKOiV15nsIMIAsqcPUcYQ?e=RQiVdc)
