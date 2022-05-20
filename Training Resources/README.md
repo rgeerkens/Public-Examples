@@ -134,6 +134,7 @@
 - [Onboard To Azure](https://learn.onboardtoazure.com/)
 - [Mike Tholfsen Microsoft Tips](https://www.youtube.com/c/MikeTholfsen/videos)
 - [Microsoft Azure Videos](https://www.youtube.com/c/MicrosoftAzure/videos)
+- [Belgian Azure User Group Videos](https://www.youtube.com/user/azugbe/videos)
 - [Azure Architecture Center](https://docs.microsoft.com/en-us/azure/architecture/)
 - [Microsoft Azure Well-Architected Framework](https://docs.microsoft.com/en-us/azure/architecture/framework/)
 
