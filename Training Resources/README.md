@@ -108,6 +108,10 @@
 
 - [Active Directory Domain Service Deep Dive](https://www.youtube.com/watch?v=4qC7H-y7oKI)
 
+### Container Courses
+
+- [Docker Tutorial for Beginners - Full Course](https://www.youtube.com/watch?v=3c-iBn73dDE)
+
 ### Architecture & Strategy
 
 - [Understanding and Getting Started with ZERO TRUST](https://www.youtube.com/watch?v=hhS8VdGnfOU)
