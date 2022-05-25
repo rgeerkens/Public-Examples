@@ -143,6 +143,7 @@
 
 - [John Savill's Technical Training](https://www.youtube.com/c/NTFAQGuy/videos)
 - [Onboard To Azure](https://learn.onboardtoazure.com/)
+- [TechWorld With Nana](https://www.youtube.com/c/TechWorldwithNana/videos)
 - [Mike Tholfsen Microsoft Tips](https://www.youtube.com/c/MikeTholfsen/videos)
 - [Microsoft Azure Videos](https://www.youtube.com/c/MicrosoftAzure/videos)
 - [Belgian Azure User Group Videos](https://www.youtube.com/user/azugbe/videos)
