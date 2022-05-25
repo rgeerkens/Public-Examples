@@ -111,6 +111,7 @@
 ### Container Courses
 
 - [Docker Tutorial for Beginners - Full Course](https://www.youtube.com/watch?v=3c-iBn73dDE)
+- [Kubernetes Tutorial for Beginners - Full Course](https://www.youtube.com/watch?v=X48VuDVv0do)
 
 ### Architecture & Strategy
 
