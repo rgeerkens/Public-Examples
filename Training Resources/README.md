@@ -115,6 +115,9 @@
 - [Docker Tutorial for Beginners - Full Course](https://www.youtube.com/watch?v=3c-iBn73dDE)
 - [Kubernetes Tutorial for Beginners - Full Course](https://www.youtube.com/watch?v=X48VuDVv0do)
 - [ArgoCD Tutorial for Beginners | GitOps CD for Kubernetes](https://www.youtube.com/watch?v=MeU5_k9ssrs)
+- [ISTIO Service Mesh](https://istio.io/)
+  - [Istio & Service Mesh - Simply Explained](https://www.youtube.com/watch?v=16fgzklcF7Y)
+  - [Istio Setup in Kubernetes](https://www.youtube.com/watch?v=voAyroDb6xk)
 
 ### Architecture & Strategy
 
