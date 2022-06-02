@@ -33,6 +33,7 @@
 ### Azure Services
 
 - [Azure Active Directory](https://docs.microsoft.com/en-us/azure/active-directory/fundamentals/active-directory-whatis)
+  - [Azure AD Certificate-Based Authentication](https://www.youtube.com/watch?v=mjxdjTHZ8PI)
   - [Dynamic Administrative Units - Delegate Azure AD roles to a subset of objects!](https://www.youtube.com/watch?v=EcfmYRYoXqI)
   - [Azure AD Cross-Tenant Access Settings Deep Dive](https://www.youtube.com/watch?v=Ku64fo7iZ4Y)
   - [Microsoft Azure AD Identity Protection Deep Dive](https://www.youtube.com/watch?v=Nx2ych3xHl0)
