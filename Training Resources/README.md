@@ -114,6 +114,7 @@
 
 - [Docker Tutorial for Beginners - Full Course](https://www.youtube.com/watch?v=3c-iBn73dDE)
 - [Kubernetes Tutorial for Beginners - Full Course](https://www.youtube.com/watch?v=X48VuDVv0do)
+- [ArgoCD Tutorial for Beginners | GitOps CD for Kubernetes](https://www.youtube.com/watch?v=MeU5_k9ssrs)
 
 ### Architecture & Strategy
 
