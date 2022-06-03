@@ -130,6 +130,7 @@
 
 - [Bicep - Infrastructure as Code for Azure Reinvented](https://www.youtube.com/watch?v=MlVs9OBQyYk)
 - [HashiCorp Terraform Associate Certification Course](https://www.youtube.com/watch?v=V4waklkBC38)
+- [Terraform Best Practices Gitbook](https://www.terraform-best-practices.com/)
 
 ## Books
 
