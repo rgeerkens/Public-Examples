@@ -130,7 +130,6 @@
 
 - [Bicep - Infrastructure as Code for Azure Reinvented](https://www.youtube.com/watch?v=MlVs9OBQyYk)
 - [HashiCorp Terraform Associate Certification Course](https://www.youtube.com/watch?v=V4waklkBC38)
-- [Terraform Best Practices Gitbook](https://www.terraform-best-practices.com/)
 
 ## Books
 
@@ -148,6 +147,7 @@
 - [Principles Of Data Science](https://geerkens-my.sharepoint.com/:b:/g/personal/ronny_geerkens_onmicrosoft_com/ERG8s69GZrxBvWJ5yTaR8ngBRnZTH8vahQSWoPCJBhLokQ?e=RP0zXj)
 - [The Azure Cloud-Native Architecture Mapbook](https://geerkens-my.sharepoint.com/:b:/g/personal/ronny_geerkens_onmicrosoft_com/EYzTN2gTwdpPtAMXRaiQYkgBevsCMXLk16lcUmFfal8CWg?e=MgDkmf)
 - [The complete guide to developer-first application security](https://geerkens-my.sharepoint.com/:b:/g/personal/ronny_geerkens_onmicrosoft_com/EYBrwxeMaQNNgmUkEtXmJyQBU3_gJ2MgOoD5CUCEr-Stbw?e=foXdXo)
+- [Terraform Best Practices Gitbook](https://www.terraform-best-practices.com/)
 
 ## Great Sites
 
