@@ -5,7 +5,6 @@
 - [SC-100 Cybersecurity Architect Expert Certification - Summary](https://www.youtube.com/watch?v=2Qu5gQjNQh4)
 - [AZ-400 DevOps Master Class](https://www.youtube.com/playlist?list=PLlVtbbG169nFr8RzQ4GIxUEznpNR53ERq)
 - [Azure API Manager Automated Orchestration](https://geerkens-my.sharepoint.com/:v:/g/personal/ronny_geerkens_onmicrosoft_com/Ebys3KEacyZEi9BIjbHsad8BsnukdZ1QnKXSti6G1Czw5Q?e=JBsOgd)
-- [HashiCorp Terraform Associate Certification Course](https://www.youtube.com/watch?v=V4waklkBC38)
 
 ## Full Courses
 
