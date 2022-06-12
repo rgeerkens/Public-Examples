@@ -183,3 +183,4 @@
 - [Windows 365 Deep Dive](https://www.youtube.com/watch?v=EHV9Z4it-c8)
 - [Serverless Platform](https://www.serverless.com/)
 - [Terraform Providers](https://registry.terraform.io/browse/providers)
+- [Python Packages](https://pypi.org/)
