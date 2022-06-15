@@ -71,6 +71,7 @@
 - [Azure Lighthouse](https://docs.microsoft.com/en-us/azure/lighthouse/overview)
   - [Azure Lighthouse Deep Dive](https://www.youtube.com/watch?v=IrqkHOPFktM)
 - [Azure Monitor](https://docs.microsoft.com/en-us/azure/azure-monitor/overview)
+  - [Azure Monitor Logs Log Types](https://www.youtube.com/watch?v=lzVQ3NqMnTE)
   - [Microsoft Azure Monitor - Alert Processing Rules](https://www.youtube.com/watch?v=cHH4RkL-9Dg)
   - [Microsoft Azure Monitor Agent and Data Collection Rule Overview](https://www.youtube.com/watch?v=Z1zDlXCwI9k)
 - [Azure Netapp Files](https://docs.microsoft.com/en-us/azure/azure-netapp-files/azure-netapp-files-introduction)
@@ -131,6 +132,7 @@
 - [Bicep - Infrastructure as Code for Azure Reinvented](https://www.youtube.com/watch?v=MlVs9OBQyYk)
 - [HashiCorp Terraform Associate Certification Course](https://www.youtube.com/watch?v=V4waklkBC38)
 - [Python Tutorial for Beginners](https://www.youtube.com/watch?v=t8pPdKYpowI&t=1s)
+- [Using Regular Expressions](https://www.youtube.com/watch?v=UI3w3Ttw9Xo&t=56s)
 
 ## Books
 
