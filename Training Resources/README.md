@@ -186,3 +186,4 @@
 - [Serverless Platform](https://www.serverless.com/)
 - [Terraform Providers](https://registry.terraform.io/browse/providers)
 - [Python Packages](https://pypi.org/)
+- [Ethical Hacking in 12 Hours](https://www.youtube.com/watch?v=fNzpcB7ODxQ)
