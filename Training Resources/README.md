@@ -64,6 +64,8 @@
   - [Azure Firewall Deep Dive](https://www.youtube.com/watch?v=JiUerkqyW0g)
 - [Azure Front Door](https://docs.microsoft.com/en-us/azure/frontdoor/front-door-overview)
   - [Azure Front Door Deep Dive](https://www.youtube.com/watch?v=DHiZbIks9i0&t=1248s)
+- [Azure Functions](https://docs.microsoft.com/en-us/azure/azure-functions/functions-overview)
+  - [Azure Functions for the IT Admin](https://www.youtube.com/watch?v=B0vg8Bxbw3c)
 - [Azure Gateway Loadbalancer](https://docs.microsoft.com/en-us/azure/load-balancer/gateway-overview)
   - [Microsoft Azure Gateway Load Balancer Deep Dive](https://www.youtube.com/watch?v=JLx7ZFzjdSs)
 - [Microsoft Graph](https://docs.microsoft.com/en-us/graph/overview)
