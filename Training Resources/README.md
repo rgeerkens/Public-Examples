@@ -85,6 +85,7 @@
   - [Microsoft Azure Private Link Deep Dive](https://www.youtube.com/watch?v=57ZwdztCx2w)
 - [Azure Policy](https://docs.microsoft.com/en-us/azure/governance/policy/overview)
   - [Anatomy of Azure Policy](https://www.youtube.com/watch?v=4wGns611G4w)
+  - [Detailed look at Azure Policy Exemption Permission Requirements](https://www.youtube.com/watch?v=clAu7VqpacA)
 - [Azure Route Server](https://docs.microsoft.com/en-us/azure/route-server/overview)
   - [Azure Route Server Overview](https://www.youtube.com/watch?v=c1f4rmkrF6M)
 - [Azure Scale Sets](https://docs.microsoft.com/en-us/azure/virtual-machine-scale-sets/overview)
