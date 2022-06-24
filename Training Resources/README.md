@@ -2,6 +2,7 @@
 
 ## Recent Additions
 
+- [Anatomy of Azure Policy](https://www.youtube.com/watch?v=4wGns611G4w)
 - [SC-100 Cybersecurity Architect Expert Certification - Summary](https://www.youtube.com/watch?v=2Qu5gQjNQh4)
 - [AZ-400 DevOps Master Class](https://www.youtube.com/playlist?list=PLlVtbbG169nFr8RzQ4GIxUEznpNR53ERq)
 - [Azure API Manager Automated Orchestration](https://geerkens-my.sharepoint.com/:v:/g/personal/ronny_geerkens_onmicrosoft_com/Ebys3KEacyZEi9BIjbHsad8BsnukdZ1QnKXSti6G1Czw5Q?e=JBsOgd)
@@ -82,6 +83,8 @@
 - [Azure Private Link](https://docs.microsoft.com/en-us/azure/private-link/private-link-overview)
   - [Private Endpoint DNS Exploration](https://www.youtube.com/watch?v=rXbamGNz-xQ)
   - [Microsoft Azure Private Link Deep Dive](https://www.youtube.com/watch?v=57ZwdztCx2w)
+- [Azure Policy](https://docs.microsoft.com/en-us/azure/governance/policy/overview)
+  - [Anatomy of Azure Policy](https://www.youtube.com/watch?v=4wGns611G4w)
 - [Azure Route Server](https://docs.microsoft.com/en-us/azure/route-server/overview)
   - [Azure Route Server Overview](https://www.youtube.com/watch?v=c1f4rmkrF6M)
 - [Azure Scale Sets](https://docs.microsoft.com/en-us/azure/virtual-machine-scale-sets/overview)
