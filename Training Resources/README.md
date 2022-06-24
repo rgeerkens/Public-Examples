@@ -169,6 +169,7 @@
 - [Belgian Azure User Group Videos](https://www.youtube.com/user/azugbe/videos)
 - [Azure Architecture Center](https://docs.microsoft.com/en-us/azure/architecture/)
 - [Microsoft Azure Well-Architected Framework](https://docs.microsoft.com/en-us/azure/architecture/framework/)
+- [Azure Community Policies](https://github.com/Azure/Community-Policy/tree/master/Policies)
 
 ## Good Github Repositories
 
