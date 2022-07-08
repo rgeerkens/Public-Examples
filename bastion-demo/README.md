@@ -35,6 +35,12 @@ Azure bastion learns it routes via (and will not pass the Azure Firewall) :
 
 If other routes should also be known or injectected, it is possible to use an Azure Route Server to allow nva's to propogate their bgp routes if so required. This should normally not be required in our case.
 
+Depending on the mechanism used you will need to provide the correct rigths on the resources :
+
+- ip based connection : reader rights on the bastion resource
+- portal based connections to vm's in the hub network : reader rights on the bastion resource, vm node and vm nic
+- portal based connections to vm's in the peered network : reader rights on the bastion resource, peered vnet, vm node and vm nic
+
 ### Azure Firewall
 
 A standard Azure Firewall was used to protect hub-spoke connection (bastion communication excluded).
