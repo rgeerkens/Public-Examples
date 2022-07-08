@@ -2,12 +2,12 @@
 
 ## Recent Additions
 
+- [Azure Logic App Hosting Options](https://www.youtube.com/watch?v=8jd8z6SVje0)
 - [MS-900 Microsoft 365 Fundamentals](https://www.youtube.com/watch?v=np9jfnwnO2c)
 - [Anatomy of Azure Policy](https://www.youtube.com/watch?v=4wGns611G4w)
 - [SC-100 Cybersecurity Architect Expert Certification - Summary](https://www.youtube.com/watch?v=2Qu5gQjNQh4)
 - [AZ-400 DevOps Master Class](https://www.youtube.com/playlist?list=PLlVtbbG169nFr8RzQ4GIxUEznpNR53ERq)
 - [Azure API Manager Automated Orchestration](https://geerkens-my.sharepoint.com/:v:/g/personal/ronny_geerkens_onmicrosoft_com/Ebys3KEacyZEi9BIjbHsad8BsnukdZ1QnKXSti6G1Czw5Q?e=JBsOgd)
-- [Python Tutorial for Beginners](https://www.youtube.com/watch?v=t8pPdKYpowI&t=1s)
 
 ## Full Courses
 
@@ -75,6 +75,8 @@
   - [Managing with Microsoft Graph (and PowerShell)](https://www.youtube.com/watch?v=bF8vkzXJsAY)
 - [Azure Lighthouse](https://docs.microsoft.com/en-us/azure/lighthouse/overview)
   - [Azure Lighthouse Deep Dive](https://www.youtube.com/watch?v=IrqkHOPFktM)
+- [Azure Logic Apps](https://docs.microsoft.com/en-us/azure/logic-apps/logic-apps-overview)
+  - [Azure Logic App Hosting Options](https://www.youtube.com/watch?v=8jd8z6SVje0)
 - [Azure Monitor](https://docs.microsoft.com/en-us/azure/azure-monitor/overview)
   - [Azure Monitor Logs Log Types](https://www.youtube.com/watch?v=lzVQ3NqMnTE)
   - [Microsoft Azure Monitor - Alert Processing Rules](https://www.youtube.com/watch?v=cHH4RkL-9Dg)
