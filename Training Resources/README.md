@@ -2,12 +2,12 @@
 
 ## Recent Additions
 
+- [Azure Policy Remediation Deep Dive](https://www.youtube.com/watch?v=fhIn_kHz4hk)
 - [Azure Logic App Hosting Options](https://www.youtube.com/watch?v=8jd8z6SVje0)
 - [MS-900 Microsoft 365 Fundamentals](https://www.youtube.com/watch?v=np9jfnwnO2c)
 - [Anatomy of Azure Policy](https://www.youtube.com/watch?v=4wGns611G4w)
 - [SC-100 Cybersecurity Architect Expert Certification - Summary](https://www.youtube.com/watch?v=2Qu5gQjNQh4)
 - [AZ-400 DevOps Master Class](https://www.youtube.com/playlist?list=PLlVtbbG169nFr8RzQ4GIxUEznpNR53ERq)
-- [Azure API Manager Automated Orchestration](https://geerkens-my.sharepoint.com/:v:/g/personal/ronny_geerkens_onmicrosoft_com/Ebys3KEacyZEi9BIjbHsad8BsnukdZ1QnKXSti6G1Czw5Q?e=JBsOgd)
 
 ## Full Courses
 
@@ -87,6 +87,7 @@
   - [Private Endpoint DNS Exploration](https://www.youtube.com/watch?v=rXbamGNz-xQ)
   - [Microsoft Azure Private Link Deep Dive](https://www.youtube.com/watch?v=57ZwdztCx2w)
 - [Azure Policy](https://docs.microsoft.com/en-us/azure/governance/policy/overview)
+  - [Azure Policy Remediation Deep Dive](https://www.youtube.com/watch?v=fhIn_kHz4hk)
   - [Anatomy of Azure Policy](https://www.youtube.com/watch?v=4wGns611G4w)
   - [Detailed look at Azure Policy Exemption Permission Requirements](https://www.youtube.com/watch?v=clAu7VqpacA)
 - [Azure Route Server](https://docs.microsoft.com/en-us/azure/route-server/overview)
