@@ -2,6 +2,7 @@
 
 ## Recent Additions
 
+- [Azure Data Lake Storage Gen 2 Overview](https://www.youtube.com/watch?v=NHn5GAkvlwg)
 - [Azure Logic Apps - A Complete Guide](https://www.youtube.com/watch?v=8cFNtL538lc)
 - [Azure Policy Remediation Deep Dive](https://www.youtube.com/watch?v=fhIn_kHz4hk)
 - [Azure Logic App Hosting Options](https://www.youtube.com/watch?v=8jd8z6SVje0)
@@ -58,6 +59,8 @@
 - [Azure Confidential Computing](https://docs.microsoft.com/en-us/azure/confidential-computing/overview)
   - [Confidential Computing Deep Dive](https://www.youtube.com/watch?v=ZnoFOTbRvRg)
   - [Generation 2 VM and Trusted Launch](https://www.youtube.com/watch?v=SnfBV-YjDWw)
+- [Azure Data Lake](https://docs.microsoft.com/en-us/azure/storage/blobs/data-lake-storage-introduction)
+  - [Azure Data Lake Storage Gen 2 Overview](https://www.youtube.com/watch?v=NHn5GAkvlwg)
 - [Azure DNS](https://docs.microsoft.com/en-us/azure/dns/dns-overview)
   - [Azure DNS Private Resolver Deep Dive](https://www.youtube.com/watch?v=V8ChsYAyxTc)
   - [Private Endpoint DNS Exploration](https://www.youtube.com/watch?v=rXbamGNz-xQ)
