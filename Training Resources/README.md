@@ -2,13 +2,13 @@
 
 ## Recent Additions
 
+- [Azure AD Joined SSO Access to AD Joined Resources](https://www.youtube.com/watch?v=4Ip3h4kJxmw)
 - [Azure Data Lake Storage Gen 2 Overview](https://www.youtube.com/watch?v=NHn5GAkvlwg)
 - [Azure Logic Apps - A Complete Guide](https://www.youtube.com/watch?v=8cFNtL538lc)
 - [Azure Policy Remediation Deep Dive](https://www.youtube.com/watch?v=fhIn_kHz4hk)
 - [Azure Logic App Hosting Options](https://www.youtube.com/watch?v=8jd8z6SVje0)
 - [MS-900 Microsoft 365 Fundamentals](https://www.youtube.com/watch?v=np9jfnwnO2c)
 - [Anatomy of Azure Policy](https://www.youtube.com/watch?v=4wGns611G4w)
-- [SC-100 Cybersecurity Architect Expert Certification - Summary](https://www.youtube.com/watch?v=2Qu5gQjNQh4)
 
 ## Full Courses
 
@@ -48,6 +48,7 @@
   - [Native Azure AD Kerberos](https://www.youtube.com/watch?v=fevwz8O954A)
   - [Microsoft Azure AD Resiliency Deep Dive](https://www.youtube.com/watch?v=Zk7A9U39JeI)
   - [Azure AD App Registrations, Enterprise Apps and Service Principals](https://www.youtube.com/watch?v=WVNvoiA_ktw)
+  - [Azure AD Joined SSO Access to AD Joined Resources](https://www.youtube.com/watch?v=4Ip3h4kJxmw)
 - [Azure API Manager](https://docs.microsoft.com/en-us/azure/api-management/api-management-key-concepts)
   - [Azure API Manager Automated Orchestration](https://geerkens-my.sharepoint.com/:v:/g/personal/ronny_geerkens_onmicrosoft_com/Ebys3KEacyZEi9BIjbHsad8BsnukdZ1QnKXSti6G1Czw5Q?e=JBsOgd)
 - [Azure App Service Environment](https://docs.microsoft.com/en-us/azure/app-service/environment/overview)
