@@ -198,6 +198,7 @@
 ## Other Stuff
 
 - [Use Visual Studio Code In The Browser](https://www.youtube.com/watch?v=OyZyImXt4fc)
+- [Using Browser Profiles - Multiple configurations and identities made easy](https://www.youtube.com/watch?v=pZHGf89I0pI)
 - [Azure Resource Explorer](https://resources.azure.com/)
 - [Windows 365 Deep Dive](https://www.youtube.com/watch?v=EHV9Z4it-c8)
 - [Serverless Platform](https://www.serverless.com/)
