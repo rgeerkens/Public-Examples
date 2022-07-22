@@ -4,8 +4,8 @@
 
 - [AZ-204 Azure Developer - Full Course](https://www.youtube.com/watch?v=anef67apIEA)
 - [MS-500 Microsoft 365 Security Administrattion - Full Course](https://www.youtube.com/watch?v=cG00gMyvwfo)
-- [AZ-104 Azure Administrator - Technical Approach](https://www.youtube.com/watch?v=I1zvntPHNMk)
-- [AZ-900 Azure Fundamentals - Technical Approach](https://www.youtube.com/watch?v=j26eNpUU0zM)
+- [AZ-104 Azure Administrator - Hands-On Approach](https://www.youtube.com/watch?v=I1zvntPHNMk)
+- [AZ-900 Azure Fundamentals - Hands-On Approach](https://www.youtube.com/watch?v=j26eNpUU0zM)
 - [Azure AD Joined SSO Access to AD Joined Resources](https://www.youtube.com/watch?v=4Ip3h4kJxmw)
 - [Azure Data Lake Storage Gen 2 Overview](https://www.youtube.com/watch?v=NHn5GAkvlwg)
 - [Azure Logic Apps - A Complete Guide](https://www.youtube.com/watch?v=8cFNtL538lc)
@@ -18,7 +18,7 @@
 
 - [SC-100 Cybersecurity Architect Expert Certification - Summary](https://www.youtube.com/watch?v=2Qu5gQjNQh4)
 - [AZ-104 Azure Administrator - Full Course](https://www.youtube.com/playlist?list=PLlVtbbG169nGlGPWs9xaLKT1KfwqREHbs)
-- [AZ-104 Azure Administrator - Technical Approach](https://www.youtube.com/watch?v=I1zvntPHNMk)
+- [AZ-104 Azure Administrator - Hands-On Approach](https://www.youtube.com/watch?v=I1zvntPHNMk)
 - [AZ-104 Azure Administrator - Summary](https://www.youtube.com/watch?v=VOod_VNgdJk)
 - [AZ-204 Azure Developer - Full Course](https://www.youtube.com/watch?v=anef67apIEA)
 - [SC-300 Microsoft Identity and Access Administrator - Full Course](https://www.youtube.com/playlist?list=PLlVtbbG169nGj4rfaMUQiKiBZNDlxoo0y)
@@ -34,7 +34,7 @@
 - [MS-700 Managing Microsoft Teams - Full Course](https://www.youtube.com/watch?v=-Gs3dmS-jnE)
 - [AI-900 Azure Artifical Intelligence Fundamentals](https://www.youtube.com/watch?v=E9aarWMLJw0)
 - [AZ-900 Azure Fundamentals - Full Course](https://www.youtube.com/playlist?list=PLlVtbbG169nED0_vMEniWBQjSoxTsBYS3)
-- [AZ-900 Azure Fundamentals - Technical Approach](https://www.youtube.com/watch?v=j26eNpUU0zM)
+- [AZ-900 Azure Fundamentals - Hands-On Approach](https://www.youtube.com/watch?v=j26eNpUU0zM)
 - [AZ-900 Azure Fundamentals - Summary](https://www.youtube.com/watch?v=tQp1YkB2Tgs)
 - [DP-900 Azure Data Fundamentals](https://www.youtube.com/watch?v=LirvmXjZU90)
 - [MS-900 Microsoft 365 Fundamentals](https://www.youtube.com/watch?v=np9jfnwnO2c)
