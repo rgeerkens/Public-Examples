@@ -12,7 +12,6 @@
 - [Azure Policy Remediation Deep Dive](https://www.youtube.com/watch?v=fhIn_kHz4hk)
 - [Azure Logic App Hosting Options](https://www.youtube.com/watch?v=8jd8z6SVje0)
 - [MS-900 Microsoft 365 Fundamentals](https://www.youtube.com/watch?v=np9jfnwnO2c)
-- [Anatomy of Azure Policy](https://www.youtube.com/watch?v=4wGns611G4w)
 
 ## Full Courses
 
