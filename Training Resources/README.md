@@ -2,6 +2,7 @@
 
 ## Recent Additions
 
+- [Premium SSD v2 Quick Peek](https://www.youtube.com/watch?v=GFfztuVtjpI)
 - [AZ-204 Azure Developer - Full Course](https://www.youtube.com/watch?v=anef67apIEA)
 - [MS-500 Microsoft 365 Security Administrattion - Full Course](https://www.youtube.com/watch?v=cG00gMyvwfo)
 - [AZ-104 Azure Administrator - Hands-On Approach](https://www.youtube.com/watch?v=I1zvntPHNMk)
@@ -11,7 +12,6 @@
 - [Azure Logic Apps - A Complete Guide](https://www.youtube.com/watch?v=8cFNtL538lc)
 - [Azure Policy Remediation Deep Dive](https://www.youtube.com/watch?v=fhIn_kHz4hk)
 - [Azure Logic App Hosting Options](https://www.youtube.com/watch?v=8jd8z6SVje0)
-- [MS-900 Microsoft 365 Fundamentals](https://www.youtube.com/watch?v=np9jfnwnO2c)
 
 ## Full Courses
 
@@ -113,10 +113,11 @@
   - [Azure Spot VM Deep Dive](https://www.youtube.com/watch?v=LWA4SCALYCY)
 - [Azure Static Web Apps](https://docs.microsoft.com/en-us/azure/static-web-apps/overview)
   - [Azure Static Web Apps Deep Dive](https://www.youtube.com/watch?v=8SjErjeCdu0)
-- [Azure Storage Accounts](https://docs.microsoft.com/en-us/azure/storage/common/storage-account-overview)
+- [Azure Storage Accounts / Disks](https://docs.microsoft.com/en-us/azure/storage/common/storage-account-overview)
   - [Azure Storage Data Role Based Access Control](https://www.youtube.com/watch?v=hjaP7u5d0x8)
   - [Native SFTP in Microsoft Azure with Azure Storage](https://www.youtube.com/watch?v=-0PPA0tJLKA)
   - [Blob Point-In-Time Restore Deep Dive](https://www.youtube.com/watch?v=kRfK8sTJoSE)
+  - [Premium SSD v2 Quick Peek](https://www.youtube.com/watch?v=GFfztuVtjpI)
 - [Azure Virtual Machines](https://docs.microsoft.com/en-us/azure/virtual-machines/)
   - [Microsoft Azure Managed Disk LIVE Resize](https://www.youtube.com/watch?v=VrtAcOH6S-w)
 - [Azure Virtual Network (vNet)](https://docs.microsoft.com/en-us/azure/virtual-network/virtual-networks-overview)
