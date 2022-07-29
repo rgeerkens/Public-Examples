@@ -160,6 +160,7 @@
 - [HashiCorp Terraform Associate Certification Course](https://www.youtube.com/watch?v=V4waklkBC38)
 - [Python Tutorial for Beginners](https://www.youtube.com/watch?v=t8pPdKYpowI&t=1s)
 - [Using Regular Expressions](https://www.youtube.com/watch?v=UI3w3Ttw9Xo&t=56s)
+- [Python Packages For Azure](https://azure.github.io/azure-sdk/releases/latest/all/python.html)
 
 ## Books
 
