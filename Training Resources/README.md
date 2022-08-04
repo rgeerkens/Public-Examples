@@ -2,6 +2,7 @@
 
 ## Recent Additions
 
+- [Windows Autopatch Service](https://www.youtube.com/watch?v=5uJB1q_iSsI)
 - [Azure Virtual Network Manager Deep Dive](https://www.youtube.com/watch?v=qNn83S55WHQ)
 - [Premium SSD v2 Quick Peek](https://www.youtube.com/watch?v=GFfztuVtjpI)
 - [AZ-204 Azure Developer - Full Course](https://www.youtube.com/watch?v=anef67apIEA)
@@ -11,7 +12,6 @@
 - [Azure AD Joined SSO Access to AD Joined Resources](https://www.youtube.com/watch?v=4Ip3h4kJxmw)
 - [Azure Data Lake Storage Gen 2 Overview](https://www.youtube.com/watch?v=NHn5GAkvlwg)
 - [Azure Logic Apps - A Complete Guide](https://www.youtube.com/watch?v=8cFNtL538lc)
-- [Azure Policy Remediation Deep Dive](https://www.youtube.com/watch?v=fhIn_kHz4hk)
 
 ## Full Courses
 
@@ -83,8 +83,6 @@
   - [Azure Functions for the IT Admin](https://www.youtube.com/watch?v=B0vg8Bxbw3c)
 - [Azure Gateway Loadbalancer](https://docs.microsoft.com/en-us/azure/load-balancer/gateway-overview)
   - [Microsoft Azure Gateway Load Balancer Deep Dive](https://www.youtube.com/watch?v=JLx7ZFzjdSs)
-- [Microsoft Graph](https://docs.microsoft.com/en-us/graph/overview)
-  - [Managing with Microsoft Graph (and PowerShell)](https://www.youtube.com/watch?v=bF8vkzXJsAY)
 - [Azure Lighthouse](https://docs.microsoft.com/en-us/azure/lighthouse/overview)
   - [Azure Lighthouse Deep Dive](https://www.youtube.com/watch?v=IrqkHOPFktM)
 - [Azure Logic Apps](https://docs.microsoft.com/en-us/azure/logic-apps/logic-apps-overview)
@@ -135,6 +133,13 @@
 - [Microsoft Azure Capacity Reservations](https://www.youtube.com/watch?v=qcrORvSMNaA)
 - [Disaster Recovery in Microsoft Azure](https://www.youtube.com/watch?v=8fvO3WArG-Y)
 - [Understanding Microsoft Azure Availability Zones](https://www.youtube.com/watch?v=4nDRvZR2EjU)
+
+### Office 365 Platform
+
+- [Windows 365 Deep Dive](https://www.youtube.com/watch?v=EHV9Z4it-c8)
+- [Microsoft Graph](https://docs.microsoft.com/en-us/graph/overview)
+  - [Managing with Microsoft Graph (and PowerShell)](https://www.youtube.com/watch?v=bF8vkzXJsAY)
+- [Windows Autopatch Service](https://www.youtube.com/watch?v=5uJB1q_iSsI)
 
 ### On-Premise Services
 
@@ -214,7 +219,6 @@
 - [Use Visual Studio Code In The Browser](https://www.youtube.com/watch?v=OyZyImXt4fc)
 - [Using Browser Profiles - Multiple configurations and identities made easy](https://www.youtube.com/watch?v=pZHGf89I0pI)
 - [Azure Resource Explorer](https://resources.azure.com/)
-- [Windows 365 Deep Dive](https://www.youtube.com/watch?v=EHV9Z4it-c8)
 - [Serverless Platform](https://www.serverless.com/)
 - [Terraform Providers](https://registry.terraform.io/browse/providers)
 - [Python Packages](https://pypi.org/)
