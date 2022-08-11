@@ -74,6 +74,7 @@
   - [Azure DNS Private Resolver Deep Dive](https://www.youtube.com/watch?v=V8ChsYAyxTc)
   - [Private Endpoint DNS Exploration](https://www.youtube.com/watch?v=rXbamGNz-xQ)
 - [Azure ExpressRoute](https://docs.microsoft.com/en-gb/azure/expressroute/expressroute-introduction)
+  - [ExpressRoute Deep Dive](https://www.youtube.com/watch?v=oevwZZ1YFS0)
   - [Understanding ExpressRoute Latency](https://www.youtube.com/watch?v=OQu472BgI4Y)
 - [Azure Firewall](https://docs.microsoft.com/en-us/azure/firewall/overview)
   - [Azure Firewall Deep Dive](https://www.youtube.com/watch?v=JiUerkqyW0g)
