@@ -2,6 +2,7 @@
 
 ## Recent Additions
 
+- [Relationship Between Logic Apps & Power Automate](https://www.youtube.com/watch?v=3OixNSZkcuo)
 - [Windows Autopatch Service](https://www.youtube.com/watch?v=5uJB1q_iSsI)
 - [Azure Virtual Network Manager Deep Dive](https://www.youtube.com/watch?v=qNn83S55WHQ)
 - [Premium SSD v2 Quick Peek](https://www.youtube.com/watch?v=GFfztuVtjpI)
@@ -11,7 +12,6 @@
 - [AZ-900 Azure Fundamentals - Hands-On Approach](https://www.youtube.com/watch?v=j26eNpUU0zM)
 - [Azure AD Joined SSO Access to AD Joined Resources](https://www.youtube.com/watch?v=4Ip3h4kJxmw)
 - [Azure Data Lake Storage Gen 2 Overview](https://www.youtube.com/watch?v=NHn5GAkvlwg)
-- [Azure Logic Apps - A Complete Guide](https://www.youtube.com/watch?v=8cFNtL538lc)
 
 ## Full Courses
 
@@ -88,6 +88,7 @@
 - [Azure Logic Apps](https://docs.microsoft.com/en-us/azure/logic-apps/logic-apps-overview)
   - [Azure Logic App Hosting Options](https://www.youtube.com/watch?v=8jd8z6SVje0)
   - [Azure Logic Apps - A Complete Guide](https://www.youtube.com/watch?v=8cFNtL538lc)
+  - [Relationship Between Logic Apps & Power Automate](https://www.youtube.com/watch?v=3OixNSZkcuo)
 - [Azure Monitor](https://docs.microsoft.com/en-us/azure/azure-monitor/overview)
   - [Azure Monitor Logs Log Types](https://www.youtube.com/watch?v=lzVQ3NqMnTE)
   - [Microsoft Azure Monitor - Alert Processing Rules](https://www.youtube.com/watch?v=cHH4RkL-9Dg)
@@ -140,6 +141,7 @@
 - [Microsoft Graph](https://docs.microsoft.com/en-us/graph/overview)
   - [Managing with Microsoft Graph (and PowerShell)](https://www.youtube.com/watch?v=bF8vkzXJsAY)
 - [Windows Autopatch Service](https://www.youtube.com/watch?v=5uJB1q_iSsI)
+- [Relationship Between Logic Apps & Power Automate](https://www.youtube.com/watch?v=3OixNSZkcuo)
 
 ### On-Premise Services
 
