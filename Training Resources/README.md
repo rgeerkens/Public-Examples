@@ -83,6 +83,8 @@
   - [Azure Functions for the IT Admin](https://www.youtube.com/watch?v=B0vg8Bxbw3c)
 - [Azure Gateway Loadbalancer](https://docs.microsoft.com/en-us/azure/load-balancer/gateway-overview)
   - [Microsoft Azure Gateway Load Balancer Deep Dive](https://www.youtube.com/watch?v=JLx7ZFzjdSs)
+- [Azure Key Vault](https://docs.microsoft.com/en-us/azure/key-vault/general/overview)
+  - [Azure Key Vault Deep Dive](https://www.youtube.com/watch?v=kP7KpfToMkg)
 - [Azure Lighthouse](https://docs.microsoft.com/en-us/azure/lighthouse/overview)
   - [Azure Lighthouse Deep Dive](https://www.youtube.com/watch?v=IrqkHOPFktM)
 - [Azure Logic Apps](https://docs.microsoft.com/en-us/azure/logic-apps/logic-apps-overview)
