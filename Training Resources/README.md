@@ -145,6 +145,7 @@
 - [Disaster Recovery in Microsoft Azure](https://www.youtube.com/watch?v=8fvO3WArG-Y)
 - [Understanding Microsoft Azure Availability Zones](https://www.youtube.com/watch?v=4nDRvZR2EjU)
 - [Azure Service-Level Agreements](https://azure.microsoft.com/en-us/support/legal/sla/)
+- [Azure Cost Optimization Deep Dive](https://www.youtube.com/watch?v=RjuTQvGm1zQ)
 
 ### Office 365 Platform
 
