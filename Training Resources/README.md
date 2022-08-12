@@ -90,6 +90,7 @@
   - [Azure Key Vault Deep Dive](https://www.youtube.com/watch?v=kP7KpfToMkg)
 - [Azure Kubernetes Services](https://docs.microsoft.com/en-us/azure/aks/intro-kubernetes)
   - [Azure Kubernetes Services (AKS) Overview](https://www.youtube.com/watch?v=c4nTKMU6fBU)
+  - [Azure Kubernetes Service (AKS) Networking Deep Dive](https://www.youtube.com/watch?v=6TZsd4toIbg)
 - [Azure Lighthouse](https://docs.microsoft.com/en-us/azure/lighthouse/overview)
   - [Azure Lighthouse Deep Dive](https://www.youtube.com/watch?v=IrqkHOPFktM)
 - [Azure Logic Apps](https://docs.microsoft.com/en-us/azure/logic-apps/logic-apps-overview)
