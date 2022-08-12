@@ -63,6 +63,8 @@
   - [Azure App Service Environment (ASE) v3 Walkthrough](https://www.youtube.com/watch?v=mtCN5yGwqe0)
 - [Azure Application Gateway](https://docs.microsoft.com/en-us/azure/application-gateway/overview)
   - [Azure Application Gateway Deep Dive](https://www.youtube.com/watch?v=B3O6bXu-NbM)
+- [Azure ARC](https://docs.microsoft.com/en-us/azure/azure-arc/overview)
+  - [The Purpose Of Azure ARC](https://www.youtube.com/watch?v=cW6_rvDYSHg&t=18s)
 - [Azure Bastion](https://docs.microsoft.com/en-us/azure/bastion/bastion-overview)
   - [Azure Bastion Deep Dive](https://www.youtube.com/watch?v=lZ_u57gJBNo)
 - [Azure Confidential Computing](https://docs.microsoft.com/en-us/azure/confidential-computing/overview)
