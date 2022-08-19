@@ -147,6 +147,7 @@
 - [Understanding Microsoft Azure Availability Zones](https://www.youtube.com/watch?v=4nDRvZR2EjU)
 - [Azure Service-Level Agreements](https://azure.microsoft.com/en-us/support/legal/sla/)
 - [Azure Cost Optimization Deep Dive](https://www.youtube.com/watch?v=RjuTQvGm1zQ)
+- [Least Privileged Roles By Task In Azure Active Directory](https://docs.microsoft.com/en-us/azure/active-directory/roles/delegate-by-task)
 
 ### Office 365 Platform
 
