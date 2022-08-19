@@ -2,6 +2,7 @@
 
 ## Recent Additions
 
+- [IOPS, Throughput & Latency Explained](https://www.youtube.com/watch?v=HovW_gov6Qc)
 - [Entra Permissions Management](https://www.youtube.com/watch?v=lWUV4KZNzIk)
 - [Relationship Between Logic Apps & Power Automate](https://www.youtube.com/watch?v=3OixNSZkcuo)
 - [Windows Autopatch Service](https://www.youtube.com/watch?v=5uJB1q_iSsI)
@@ -11,7 +12,6 @@
 - [MS-500 Microsoft 365 Security Administrattion - Full Course](https://www.youtube.com/watch?v=cG00gMyvwfo)
 - [AZ-104 Azure Administrator - Hands-On Approach](https://www.youtube.com/watch?v=I1zvntPHNMk)
 - [AZ-900 Azure Fundamentals - Hands-On Approach](https://www.youtube.com/watch?v=j26eNpUU0zM)
-- [Azure AD Joined SSO Access to AD Joined Resources](https://www.youtube.com/watch?v=4Ip3h4kJxmw)
 
 ## Full Courses
 
@@ -174,6 +174,7 @@
 - [Understanding and Getting Started with ZERO TRUST](https://www.youtube.com/watch?v=hhS8VdGnfOU)
 - [Protecting Your Environment](https://www.youtube.com/watch?v=1dCRq15Vpwo)
 - [Master the Azure Pricing Calculator](https://www.youtube.com/watch?v=rMKmbZ1SYQg)
+- [IOPS, Throughput & Latency Explained](https://www.youtube.com/watch?v=HovW_gov6Qc)
 
 ### Infrastructure As Code
 
