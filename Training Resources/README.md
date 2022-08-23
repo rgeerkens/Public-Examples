@@ -9,7 +9,7 @@
 - [Windows Autopatch Service](https://www.youtube.com/watch?v=5uJB1q_iSsI)
 - [Azure Virtual Network Manager Deep Dive](https://www.youtube.com/watch?v=qNn83S55WHQ)
 - [Premium SSD v2 Quick Peek](https://www.youtube.com/watch?v=GFfztuVtjpI)
-- [AZ-204 Azure Developer - Full Course](https://www.youtube.com/watch?v=anef67apIEA)
+- [AZ-204 Azure Developer - Full Course](https://www.youtube.com/watch?v=jZx8PMQjobk)
 - [MS-500 Microsoft 365 Security Administrattion - Full Course](https://www.youtube.com/watch?v=cG00gMyvwfo)
 - [AZ-104 Azure Administrator - Hands-On Approach](https://www.youtube.com/watch?v=I1zvntPHNMk)
 
@@ -19,7 +19,7 @@
 - [AZ-104 Azure Administrator - Full Course](https://www.youtube.com/playlist?list=PLlVtbbG169nGlGPWs9xaLKT1KfwqREHbs)
 - [AZ-104 Azure Administrator - Hands-On Approach](https://www.youtube.com/watch?v=I1zvntPHNMk)
 - [AZ-104 Azure Administrator - Summary](https://www.youtube.com/watch?v=VOod_VNgdJk)
-- [AZ-204 Azure Developer - Full Course](https://www.youtube.com/watch?v=anef67apIEA)
+- [AZ-204 Azure Developer - Full Course](https://www.youtube.com/watch?v=jZx8PMQjobk)
 - [SC-300 Microsoft Identity and Access Administrator - Full Course](https://www.youtube.com/playlist?list=PLlVtbbG169nGj4rfaMUQiKiBZNDlxoo0y)
 - [SC-300 Microsoft Identity and Access Administrator - Summary](https://www.youtube.com/watch?v=LGpgqRVG65g)
 - [AZ-305 Designing Microsoft Azure Infrastructure Solutions - Full Course](https://www.youtube.com/playlist?list=PLlVtbbG169nHSnaP4ae33yQUI3zcmP5nP)
