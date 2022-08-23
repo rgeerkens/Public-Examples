@@ -148,6 +148,7 @@
 - [Azure Service-Level Agreements](https://azure.microsoft.com/en-us/support/legal/sla/)
 - [Azure Cost Optimization Deep Dive](https://www.youtube.com/watch?v=RjuTQvGm1zQ)
 - [Least Privileged Roles By Task In Azure Active Directory](https://docs.microsoft.com/en-us/azure/active-directory/roles/delegate-by-task)
+- [Azure Technology Choices](https://docs.microsoft.com/en-us/azure/architecture/guide/technology-choices/technology-choices-overview)
 
 ### Office 365 Platform
 
