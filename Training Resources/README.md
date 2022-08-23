@@ -2,6 +2,7 @@
 
 ## Recent Additions
 
+- [Azure Technology Choices](https://docs.microsoft.com/en-us/azure/architecture/guide/technology-choices/technology-choices-overview)
 - [IOPS, Throughput & Latency Explained](https://www.youtube.com/watch?v=HovW_gov6Qc)
 - [Entra Permissions Management](https://www.youtube.com/watch?v=lWUV4KZNzIk)
 - [Relationship Between Logic Apps & Power Automate](https://www.youtube.com/watch?v=3OixNSZkcuo)
@@ -11,7 +12,6 @@
 - [AZ-204 Azure Developer - Full Course](https://www.youtube.com/watch?v=anef67apIEA)
 - [MS-500 Microsoft 365 Security Administrattion - Full Course](https://www.youtube.com/watch?v=cG00gMyvwfo)
 - [AZ-104 Azure Administrator - Hands-On Approach](https://www.youtube.com/watch?v=I1zvntPHNMk)
-- [AZ-900 Azure Fundamentals - Hands-On Approach](https://www.youtube.com/watch?v=j26eNpUU0zM)
 
 ## Full Courses
 
