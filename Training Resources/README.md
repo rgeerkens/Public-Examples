@@ -2,6 +2,7 @@
 
 ## Recent Additions
 
+- [Multi-Availability Zone Option In Portal For Virtual Machines](https://www.youtube.com/watch?v=4Au2QW6lsYI)
 - [Azure Technology Choices](https://docs.microsoft.com/en-us/azure/architecture/guide/technology-choices/technology-choices-overview)
 - [IOPS, Throughput & Latency Explained](https://www.youtube.com/watch?v=HovW_gov6Qc)
 - [Entra Permissions Management](https://www.youtube.com/watch?v=lWUV4KZNzIk)
@@ -11,7 +12,6 @@
 - [Premium SSD v2 Quick Peek](https://www.youtube.com/watch?v=GFfztuVtjpI)
 - [AZ-204 Azure Developer - Full Course](https://www.youtube.com/watch?v=jZx8PMQjobk)
 - [MS-500 Microsoft 365 Security Administrattion - Full Course](https://www.youtube.com/watch?v=cG00gMyvwfo)
-- [AZ-104 Azure Administrator - Hands-On Approach](https://www.youtube.com/watch?v=I1zvntPHNMk)
 
 ## Full Courses
 
@@ -130,6 +130,7 @@
   - [Premium SSD v2 Quick Peek](https://www.youtube.com/watch?v=GFfztuVtjpI)
 - [Azure Virtual Machines](https://docs.microsoft.com/en-us/azure/virtual-machines/)
   - [Microsoft Azure Managed Disk LIVE Resize](https://www.youtube.com/watch?v=VrtAcOH6S-w)
+  - [Multi-Availability Zone Option In Portal For Virtual Machines](https://www.youtube.com/watch?v=4Au2QW6lsYI)
 - [Azure Virtual Network (vNet)](https://docs.microsoft.com/en-us/azure/virtual-network/virtual-networks-overview)
   - [Peered Virtual Network Address Space Modify in Microsoft Azure](https://www.youtube.com/watch?v=nldYMGd82EY)
   - [Azure Virtual Network Manager Deep Dive](https://www.youtube.com/watch?v=qNn83S55WHQ)
