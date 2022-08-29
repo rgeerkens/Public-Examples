@@ -2,6 +2,7 @@
 
 ## Recent Additions
 
+- [Study Guide To Prepare The GitHub Certifications](https://github.com/lgmorand/github-certification-preparation-guide)
 - [Multi-Availability Zone Option In Portal For Virtual Machines](https://www.youtube.com/watch?v=4Au2QW6lsYI)
 - [Azure Technology Choices](https://docs.microsoft.com/en-us/azure/architecture/guide/technology-choices/technology-choices-overview)
 - [IOPS, Throughput & Latency Explained](https://www.youtube.com/watch?v=HovW_gov6Qc)
@@ -11,7 +12,6 @@
 - [Azure Virtual Network Manager Deep Dive](https://www.youtube.com/watch?v=qNn83S55WHQ)
 - [Premium SSD v2 Quick Peek](https://www.youtube.com/watch?v=GFfztuVtjpI)
 - [AZ-204 Azure Developer - Full Course](https://www.youtube.com/watch?v=jZx8PMQjobk)
-- [MS-500 Microsoft 365 Security Administrattion - Full Course](https://www.youtube.com/watch?v=cG00gMyvwfo)
 
 ## Full Courses
 
@@ -225,6 +225,7 @@
 - [Github Documentation](https://docs.github.com/en/get-started)
 - [Kubernetes The Hard Way on Azure](https://github.com/ivanfioravanti/kubernetes-the-hard-way-on-azure)
 - [John Savill](https://github.com/johnthebrit)
+- [Study Guide To Prepare The GitHub Certifications](https://github.com/lgmorand/github-certification-preparation-guide)
 
 ## Tools
 
