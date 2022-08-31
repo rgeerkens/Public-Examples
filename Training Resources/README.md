@@ -2,6 +2,7 @@
 
 ## Recent Additions
 
+- [DP-900 Azure Data Fundamentals - Updated Version](https://www.youtube.com/watch?v=0gtpasITVnk)
 - [Study Guide To Prepare The GitHub Certifications](https://github.com/lgmorand/github-certification-preparation-guide)
 - [Multi-Availability Zone Option In Portal For Virtual Machines](https://www.youtube.com/watch?v=4Au2QW6lsYI)
 - [Azure Technology Choices](https://docs.microsoft.com/en-us/azure/architecture/guide/technology-choices/technology-choices-overview)
@@ -11,7 +12,6 @@
 - [Windows Autopatch Service](https://www.youtube.com/watch?v=5uJB1q_iSsI)
 - [Azure Virtual Network Manager Deep Dive](https://www.youtube.com/watch?v=qNn83S55WHQ)
 - [Premium SSD v2 Quick Peek](https://www.youtube.com/watch?v=GFfztuVtjpI)
-- [AZ-204 Azure Developer - Full Course](https://www.youtube.com/watch?v=jZx8PMQjobk)
 
 ## Full Courses
 
@@ -35,7 +35,7 @@
 - [AZ-900 Azure Fundamentals - Full Course](https://www.youtube.com/playlist?list=PLlVtbbG169nED0_vMEniWBQjSoxTsBYS3)
 - [AZ-900 Azure Fundamentals - Hands-On Approach](https://www.youtube.com/watch?v=j26eNpUU0zM)
 - [AZ-900 Azure Fundamentals - Summary](https://www.youtube.com/watch?v=tQp1YkB2Tgs)
-- [DP-900 Azure Data Fundamentals](https://www.youtube.com/watch?v=LirvmXjZU90)
+- [DP-900 Azure Data Fundamentals](https://www.youtube.com/watch?v=0gtpasITVnk)
 - [MS-900 Microsoft 365 Fundamentals](https://www.youtube.com/watch?v=np9jfnwnO2c)
 - [PL-900 Microsoft Power Platform Fundamentals](https://www.youtube.com/watch?v=lbPHM-MiEUA)
 - [SC-900 Microsoft Security, Compliance And Identity Fundamentals](https://www.youtube.com/watch?v=Bz-8jM3jg-8)
