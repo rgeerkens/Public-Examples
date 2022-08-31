@@ -124,6 +124,8 @@
 - [Azure Static Web Apps](https://docs.microsoft.com/en-us/azure/static-web-apps/overview)
   - [Azure Static Web Apps Deep Dive](https://www.youtube.com/watch?v=8SjErjeCdu0)
 - [Azure Storage Accounts / Disks](https://docs.microsoft.com/en-us/azure/storage/common/storage-account-overview)
+  - [Azure Files AD Authentication Integration](https://www.youtube.com/watch?v=LWKkva4ksdg&t=663s)
+  - [Azure Blob Data Permissions Deep Dive](https://www.youtube.com/watch?v=iIUF2E-Ogaw)
   - [Azure Storage Data Role Based Access Control](https://www.youtube.com/watch?v=hjaP7u5d0x8)
   - [Native SFTP in Microsoft Azure with Azure Storage](https://www.youtube.com/watch?v=-0PPA0tJLKA)
   - [Blob Point-In-Time Restore Deep Dive](https://www.youtube.com/watch?v=kRfK8sTJoSE)
