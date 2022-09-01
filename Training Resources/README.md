@@ -66,6 +66,7 @@
   - [Azure Application Gateway Deep Dive](https://www.youtube.com/watch?v=B3O6bXu-NbM)
 - [Azure ARC](https://docs.microsoft.com/en-us/azure/azure-arc/overview)
   - [The Purpose Of Azure ARC](https://www.youtube.com/watch?v=cW6_rvDYSHg&t=18s)
+  - [Bare Metal And Azure ARC](https://www.youtube.com/watch?v=405qOUBnbsg)
 - [Azure Bastion](https://docs.microsoft.com/en-us/azure/bastion/bastion-overview)
   - [Azure Bastion Deep Dive](https://www.youtube.com/watch?v=lZ_u57gJBNo)
 - [Azure Confidential Computing](https://docs.microsoft.com/en-us/azure/confidential-computing/overview)
