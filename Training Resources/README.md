@@ -2,6 +2,7 @@
 
 ## Recent Additions
 
+- [Kusto Query Language Overview](https://www.youtube.com/watch?v=Pl8n6GaWEo0)
 - [DP-900 Azure Data Fundamentals - Updated Version](https://www.youtube.com/watch?v=0gtpasITVnk)
 - [Study Guide To Prepare The GitHub Certifications](https://github.com/lgmorand/github-certification-preparation-guide)
 - [Multi-Availability Zone Option In Portal For Virtual Machines](https://www.youtube.com/watch?v=4Au2QW6lsYI)
@@ -11,7 +12,6 @@
 - [Relationship Between Logic Apps & Power Automate](https://www.youtube.com/watch?v=3OixNSZkcuo)
 - [Windows Autopatch Service](https://www.youtube.com/watch?v=5uJB1q_iSsI)
 - [Azure Virtual Network Manager Deep Dive](https://www.youtube.com/watch?v=qNn83S55WHQ)
-- [Premium SSD v2 Quick Peek](https://www.youtube.com/watch?v=GFfztuVtjpI)
 
 ## Full Courses
 
@@ -190,6 +190,7 @@
 - [Python Tutorial for Beginners](https://www.youtube.com/watch?v=t8pPdKYpowI&t=1s)
 - [Using Regular Expressions](https://www.youtube.com/watch?v=UI3w3Ttw9Xo&t=56s)
 - [Python Packages For Azure](https://azure.github.io/azure-sdk/releases/latest/all/python.html)
+- [Kusto Query Language Overview](https://www.youtube.com/watch?v=Pl8n6GaWEo0)
 
 ## Books
 
