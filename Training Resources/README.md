@@ -226,7 +226,7 @@
 
 ## Good Github Repositories
 
-- [Microosft Azure Documentation](https://github.com/MicrosoftDocs/azure-docs)
+- [Microsoft Azure Documentation](https://github.com/MicrosoftDocs/azure-docs)
 - [Github Documentation](https://docs.github.com/en/get-started)
 - [Kubernetes The Hard Way on Azure](https://github.com/ivanfioravanti/kubernetes-the-hard-way-on-azure)
 - [John Savill](https://github.com/johnthebrit)
