@@ -2,6 +2,7 @@
 
 ## Recent Additions
 
+- [Staying Safe Online](https://www.youtube.com/watch?v=sh2bAlontcg)
 - [Kusto Query Language Overview](https://www.youtube.com/watch?v=Pl8n6GaWEo0)
 - [DP-900 Azure Data Fundamentals - Updated Version](https://www.youtube.com/watch?v=0gtpasITVnk)
 - [Study Guide To Prepare The GitHub Certifications](https://github.com/lgmorand/github-certification-preparation-guide)
@@ -11,7 +12,6 @@
 - [Entra Permissions Management](https://www.youtube.com/watch?v=lWUV4KZNzIk)
 - [Relationship Between Logic Apps & Power Automate](https://www.youtube.com/watch?v=3OixNSZkcuo)
 - [Windows Autopatch Service](https://www.youtube.com/watch?v=5uJB1q_iSsI)
-- [Azure Virtual Network Manager Deep Dive](https://www.youtube.com/watch?v=qNn83S55WHQ)
 
 ## Full Courses
 
@@ -250,3 +250,4 @@
 - [Python Packages](https://pypi.org/)
 - [Ethical Hacking in 12 Hours](https://www.youtube.com/watch?v=fNzpcB7ODxQ)
 - [Check Health State Of Several Service Providers In Belgium](https://allestoringen.be/)
+- [Staying Safe Online](https://www.youtube.com/watch?v=sh2bAlontcg)
