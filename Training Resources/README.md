@@ -167,6 +167,7 @@
 ### On-Premise Services
 
 - [Active Directory Domain Service Deep Dive](https://www.youtube.com/watch?v=4qC7H-y7oKI)
+- [The Purpose Of Azure ARC](https://www.youtube.com/watch?v=cW6_rvDYSHg&t=18s)
 
 ### Container Courses
 
