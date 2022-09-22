@@ -2,6 +2,7 @@
 
 ## Recent Additions
 
+- [Azure Data Explorer Overview](https://www.youtube.com/watch?v=2wFC9Kiu6Q8)
 - [Staying Safe Online](https://www.youtube.com/watch?v=sh2bAlontcg)
 - [Kusto Query Language Overview](https://www.youtube.com/watch?v=Pl8n6GaWEo0)
 - [DP-900 Azure Data Fundamentals - Updated Version](https://www.youtube.com/watch?v=0gtpasITVnk)
@@ -11,7 +12,6 @@
 - [IOPS, Throughput & Latency Explained](https://www.youtube.com/watch?v=HovW_gov6Qc)
 - [Entra Permissions Management](https://www.youtube.com/watch?v=lWUV4KZNzIk)
 - [Relationship Between Logic Apps & Power Automate](https://www.youtube.com/watch?v=3OixNSZkcuo)
-- [Windows Autopatch Service](https://www.youtube.com/watch?v=5uJB1q_iSsI)
 
 ## Full Courses
 
@@ -193,6 +193,7 @@
 - [Using Regular Expressions](https://www.youtube.com/watch?v=UI3w3Ttw9Xo&t=56s)
 - [Python Packages For Azure](https://azure.github.io/azure-sdk/releases/latest/all/python.html)
 - [Kusto Query Language Overview](https://www.youtube.com/watch?v=Pl8n6GaWEo0)
+- [Azure Data Explorer Overview](https://www.youtube.com/watch?v=2wFC9Kiu6Q8)
 - [Demo Azure Rest API Call](https://github.com/johnthebrit/RandomStuff/blob/master/AzureVMs/CheckCreationDate.ps1)
 
 ## Books
