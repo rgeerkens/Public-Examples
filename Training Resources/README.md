@@ -72,6 +72,8 @@
 - [Azure Confidential Computing](https://docs.microsoft.com/en-us/azure/confidential-computing/overview)
   - [Confidential Computing Deep Dive](https://www.youtube.com/watch?v=ZnoFOTbRvRg)
   - [Generation 2 VM and Trusted Launch](https://www.youtube.com/watch?v=SnfBV-YjDWw)
+- [Azure Data Explorer-ADX](https://learn.microsoft.com/en-us/azure/data-explorer/data-explorer-overview)
+  - [Azure Data Explorer Overview](https://www.youtube.com/watch?v=2wFC9Kiu6Q8)
 - [Azure Data Lake](https://docs.microsoft.com/en-us/azure/storage/blobs/data-lake-storage-introduction)
   - [Azure Data Lake Storage Gen 2 Overview](https://www.youtube.com/watch?v=NHn5GAkvlwg)
 - [Azure DNS](https://docs.microsoft.com/en-us/azure/dns/dns-overview)
@@ -193,7 +195,6 @@
 - [Using Regular Expressions](https://www.youtube.com/watch?v=UI3w3Ttw9Xo&t=56s)
 - [Python Packages For Azure](https://azure.github.io/azure-sdk/releases/latest/all/python.html)
 - [Kusto Query Language Overview](https://www.youtube.com/watch?v=Pl8n6GaWEo0)
-- [Azure Data Explorer Overview](https://www.youtube.com/watch?v=2wFC9Kiu6Q8)
 - [Demo Azure Rest API Call](https://github.com/johnthebrit/RandomStuff/blob/master/AzureVMs/CheckCreationDate.ps1)
 
 ## Books
