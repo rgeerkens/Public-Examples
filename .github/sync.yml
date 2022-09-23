@@ -1,0 +1,3 @@
+rgeerkens/documentation:
+  - source : Training Resources/README.md
+    dest : docs/training/README.md
