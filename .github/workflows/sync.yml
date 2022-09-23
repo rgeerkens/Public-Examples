@@ -1,4 +1,4 @@
-name: Push Documenation
+name: Push Documentation
 on:
   #push:
   #  branches:
