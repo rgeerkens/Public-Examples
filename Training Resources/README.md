@@ -1,4 +1,4 @@
-# Overview Of Interesting Training Resource
+# Overview Of Interesting Training Resources
 
 ## Recent Additions
 
