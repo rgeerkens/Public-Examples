@@ -1,3 +1,5 @@
 rgeerkens/documentation:
   - source : Training Resources/README.md
     dest : docs/training/README.md
+  - source : bastion-demo/
+    dest : docs/bastion-demo/
