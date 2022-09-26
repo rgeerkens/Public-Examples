@@ -255,3 +255,4 @@
 - [Ethical Hacking in 12 Hours](https://www.youtube.com/watch?v=fNzpcB7ODxQ)
 - [Check Health State Of Several Service Providers In Belgium](https://allestoringen.be/)
 - [Staying Safe Online](https://www.youtube.com/watch?v=sh2bAlontcg)
+- [Complete list of github markdown emoji markup](https://gist.github.com/rxaviers/7360908)
