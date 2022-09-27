@@ -243,6 +243,7 @@
 - [TiB to TB Conversion](https://www.gbmb.org/tib-to-tb)
 - [Resize Image By KB](https://resizefile.com/resize-image-by-kb.html)
 - [Subnet Calculator](https://www.subnet-calculator.com/)
+- [Check Internet Speed](https://www.speedcheck.org/)
 
 ## Other Stuff
 
