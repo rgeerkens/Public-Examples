@@ -2,6 +2,7 @@
 
 ## Recent Additions
 
+- [Azure Kubernetes Services (AKS) Networking - Update](https://www.youtube.com/watch?v=54y986U1uYM)
 - [Azure Data Explorer Overview](https://www.youtube.com/watch?v=2wFC9Kiu6Q8)
 - [Staying Safe Online](https://www.youtube.com/watch?v=sh2bAlontcg)
 - [Kusto Query Language Overview](https://www.youtube.com/watch?v=Pl8n6GaWEo0)
@@ -11,7 +12,6 @@
 - [Azure Technology Choices](https://docs.microsoft.com/en-us/azure/architecture/guide/technology-choices/technology-choices-overview)
 - [IOPS, Throughput & Latency Explained](https://www.youtube.com/watch?v=HovW_gov6Qc)
 - [Entra Permissions Management](https://www.youtube.com/watch?v=lWUV4KZNzIk)
-- [Relationship Between Logic Apps & Power Automate](https://www.youtube.com/watch?v=3OixNSZkcuo)
 
 ## Full Courses
 
@@ -94,7 +94,7 @@
   - [Azure Key Vault Deep Dive](https://www.youtube.com/watch?v=kP7KpfToMkg)
 - [Azure Kubernetes Services](https://docs.microsoft.com/en-us/azure/aks/intro-kubernetes)
   - [Azure Kubernetes Services (AKS) Overview](https://www.youtube.com/watch?v=c4nTKMU6fBU)
-  - [Azure Kubernetes Services (AKS) Networking Deep Dive](https://www.youtube.com/watch?v=6TZsd4toIbg)
+  - [Azure Kubernetes Services (AKS) Networking](https://www.youtube.com/watch?v=54y986U1uYM)
   - [Azure Kubernetes Services (AKS) High Availability](https://www.youtube.com/watch?v=gksFrKiZjMc)
   - [Azure Kubernetes Services (AKS) Stop And Start](https://www.youtube.com/watch?v=WWTaGEgHCg4)
 - [Azure Lighthouse](https://docs.microsoft.com/en-us/azure/lighthouse/overview)
