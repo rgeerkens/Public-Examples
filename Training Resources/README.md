@@ -94,6 +94,7 @@
   - [Azure Key Vault Deep Dive](https://www.youtube.com/watch?v=kP7KpfToMkg)
 - [Azure Kubernetes Services](https://docs.microsoft.com/en-us/azure/aks/intro-kubernetes)
   - [Azure Kubernetes Services (AKS) Overview](https://www.youtube.com/watch?v=c4nTKMU6fBU)
+  - [Azure Kubernetes Services (AKS) Networking - Deep Dive 2020](https://www.youtube.com/watch?v=6TZsd4toIbg&t=4s)
   - [Azure Kubernetes Services (AKS) Networking](https://www.youtube.com/watch?v=54y986U1uYM)
   - [Azure Kubernetes Services (AKS) High Availability](https://www.youtube.com/watch?v=gksFrKiZjMc)
   - [Azure Kubernetes Services (AKS) Stop And Start](https://www.youtube.com/watch?v=WWTaGEgHCg4)
