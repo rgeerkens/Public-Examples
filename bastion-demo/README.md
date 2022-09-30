@@ -1,4 +1,4 @@
-# Demo Bastion test
+# Demo Bastion
 
 Demo to demonstrate Azure Bastion functionalities
 
