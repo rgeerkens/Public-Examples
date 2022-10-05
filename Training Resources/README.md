@@ -2,6 +2,7 @@
 
 ## Recent Additions
 
+- [Azure VM Isolation Options](https://www.youtube.com/watch?v=aL63LSZT480)
 - [Azure Kubernetes Services (AKS) Networking - Update](https://www.youtube.com/watch?v=54y986U1uYM)
 - [Azure Data Explorer Overview](https://www.youtube.com/watch?v=2wFC9Kiu6Q8)
 - [Staying Safe Online](https://www.youtube.com/watch?v=sh2bAlontcg)
@@ -11,7 +12,6 @@
 - [Multi-Availability Zone Option In Portal For Virtual Machines](https://www.youtube.com/watch?v=4Au2QW6lsYI)
 - [Azure Technology Choices](https://docs.microsoft.com/en-us/azure/architecture/guide/technology-choices/technology-choices-overview)
 - [IOPS, Throughput & Latency Explained](https://www.youtube.com/watch?v=HovW_gov6Qc)
-- [Entra Permissions Management](https://www.youtube.com/watch?v=lWUV4KZNzIk)
 
 ## Full Courses
 
@@ -138,6 +138,7 @@
 - [Azure Virtual Machines](https://docs.microsoft.com/en-us/azure/virtual-machines/)
   - [Microsoft Azure Managed Disk LIVE Resize](https://www.youtube.com/watch?v=VrtAcOH6S-w)
   - [Multi-Availability Zone Option In Portal For Virtual Machines](https://www.youtube.com/watch?v=4Au2QW6lsYI)
+  - [Azure VM Isolation Options](https://www.youtube.com/watch?v=aL63LSZT480)
 - [Azure Virtual Network (vNet)](https://docs.microsoft.com/en-us/azure/virtual-network/virtual-networks-overview)
   - [Peered Virtual Network Address Space Modify in Microsoft Azure](https://www.youtube.com/watch?v=nldYMGd82EY)
   - [Azure Virtual Network Manager Deep Dive](https://www.youtube.com/watch?v=qNn83S55WHQ)
