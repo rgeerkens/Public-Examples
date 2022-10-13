@@ -232,6 +232,10 @@
 - [Azure Architecture Center](https://docs.microsoft.com/en-us/azure/architecture/)
 - [Microsoft Azure Well-Architected Framework](https://docs.microsoft.com/en-us/azure/architecture/framework/)
 - [Azure Community Policies](https://github.com/Azure/Community-Policy/tree/master/Policies)
+- [Azure Hybrid Cloud Study Hall](https://www.youtube.com/playlist?list=PLlrxD0HtieHiOKfpI9oWUQ051MLO-BzEt)
+- [DevOps On Azure](https://www.youtube.com/c/AzureDevOps/videos)
+- [Microsoft Azure Channel](https://www.youtube.com/c/MicrosoftAzure/videos)
+- [Github Channel](https://www.youtube.com/c/GitHub/videos)
 
 ## Good Github Repositories
 
