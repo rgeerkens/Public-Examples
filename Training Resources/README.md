@@ -149,7 +149,6 @@
 
 - [Azure Health Status](https://azure.status.microsoft/en-us/status)
 - [Reserved Instance and Capacity Reservations](https://www.youtube.com/watch?v=43wX15ypp9Y)
-- [Platform State 04/2022](https://www.youtube.com/watch?v=lEv1Af2wh0Y)
 - [Understanding Control vs Data Plane in Azure](https://www.youtube.com/watch?v=EeVEPrcmox4)
 - [Understand Azure Processor Performance - Azure Compute Unit](https://www.youtube.com/watch?v=wBVuxzQL7PY)
 - [Understanding and Using Proximity Placement Groups](https://www.youtube.com/watch?v=rFi6iJwId6k)
