@@ -162,6 +162,10 @@
 - [Azure Technology Choices](https://docs.microsoft.com/en-us/azure/architecture/guide/technology-choices/technology-choices-overview)
 - [Understanding Azure Savings Plan for Compute](https://www.youtube.com/watch?v=lBnKBV2r6lI)
 
+### Azure Workbooks
+
+- [Azure Orphan Resources](https://github.com/dolevshor/azure-orphan-resources)
+
 ### Office 365 Platform
 
 - [Windows 365 Deep Dive](https://www.youtube.com/watch?v=EHV9Z4it-c8)
