@@ -2,6 +2,7 @@
 
 ## Recent Additions
 
+- [Stronger Azure AD Authentication](https://www.youtube.com/watch?v=ns_94ZXrbPI)
 - [Understanding Azure Savings Plan for Compute](https://www.youtube.com/watch?v=lBnKBV2r6lI)
 - [Azure VM Isolation Options](https://www.youtube.com/watch?v=aL63LSZT480)
 - [Azure Kubernetes Services (AKS) Networking - Update](https://www.youtube.com/watch?v=54y986U1uYM)
@@ -11,7 +12,6 @@
 - [DP-900 Azure Data Fundamentals - Updated Version](https://www.youtube.com/watch?v=0gtpasITVnk)
 - [Study Guide To Prepare The GitHub Certifications](https://github.com/lgmorand/github-certification-preparation-guide)
 - [Multi-Availability Zone Option In Portal For Virtual Machines](https://www.youtube.com/watch?v=4Au2QW6lsYI)
-- [Azure Technology Choices](https://docs.microsoft.com/en-us/azure/architecture/guide/technology-choices/technology-choices-overview)
 
 ## Full Courses
 
@@ -58,6 +58,7 @@
   - [Azure AD App Registrations, Enterprise Apps and Service Principals](https://www.youtube.com/watch?v=WVNvoiA_ktw)
   - [Azure AD Joined SSO Access to AD Joined Resources](https://www.youtube.com/watch?v=4Ip3h4kJxmw)
   - [Entra Permissions Management](https://www.youtube.com/watch?v=lWUV4KZNzIk)
+  - [Stronger Azure AD Authentication](https://www.youtube.com/watch?v=ns_94ZXrbPI)
 - [Azure API Manager](https://docs.microsoft.com/en-us/azure/api-management/api-management-key-concepts)
   - [Azure API Manager Automated Orchestration](https://geerkens-my.sharepoint.com/:v:/g/personal/ronny_geerkens_onmicrosoft_com/Ebys3KEacyZEi9BIjbHsad8BsnukdZ1QnKXSti6G1Czw5Q?e=JBsOgd)
 - [Azure App Service Environment](https://docs.microsoft.com/en-us/azure/app-service/environment/overview)
