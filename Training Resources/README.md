@@ -2,6 +2,7 @@
 
 ## Recent Additions
 
+- [Secrets of Performance Tuning Java on Kubernetes](https://www.youtube.com/watch?v=wApqCjHWF8Q)
 - [Azure AD Lifecycle Workflows](https://www.youtube.com/watch?v=wjcw7hRrMDM)
 - [Stronger Azure AD Authentication](https://www.youtube.com/watch?v=ns_94ZXrbPI)
 - [Understanding Azure Savings Plan for Compute](https://www.youtube.com/watch?v=lBnKBV2r6lI)
@@ -11,7 +12,6 @@
 - [Staying Safe Online](https://www.youtube.com/watch?v=sh2bAlontcg)
 - [Kusto Query Language Overview](https://www.youtube.com/watch?v=Pl8n6GaWEo0)
 - [DP-900 Azure Data Fundamentals - Updated Version](https://www.youtube.com/watch?v=0gtpasITVnk)
-- [Study Guide To Prepare The GitHub Certifications](https://github.com/lgmorand/github-certification-preparation-guide)
 
 ## Full Courses
 
@@ -189,6 +189,7 @@
 - [ISTIO Service Mesh](https://istio.io/)
   - [Istio & Service Mesh - Simply Explained](https://www.youtube.com/watch?v=16fgzklcF7Y)
   - [Istio Setup in Kubernetes](https://www.youtube.com/watch?v=voAyroDb6xk)
+- [Secrets of Performance Tuning Java on Kubernetes](https://www.youtube.com/watch?v=wApqCjHWF8Q)
 
 ### Architecture & Strategy
 
