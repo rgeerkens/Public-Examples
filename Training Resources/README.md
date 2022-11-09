@@ -243,6 +243,7 @@
 - [DevOps On Azure](https://www.youtube.com/c/AzureDevOps/videos)
 - [Microsoft Azure Channel](https://www.youtube.com/c/MicrosoftAzure/videos)
 - [Github Channel](https://www.youtube.com/c/GitHub/videos)
+- [Devoxx](https://www.youtube.com/c/Devoxx2015/videos)
 
 ## Good Github Repositories
 
