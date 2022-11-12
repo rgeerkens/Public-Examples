@@ -2,6 +2,7 @@
 
 ## Recent Additions
 
+- [Upgrading and Maintaining your Azure Kubernetes Service (AKS) Cluster](https://www.youtube.com/watch?v=soLCemusoE8)
 - [Secrets of Performance Tuning Java on Kubernetes](https://www.youtube.com/watch?v=wApqCjHWF8Q)
 - [Azure AD Lifecycle Workflows](https://www.youtube.com/watch?v=wjcw7hRrMDM)
 - [Stronger Azure AD Authentication](https://www.youtube.com/watch?v=ns_94ZXrbPI)
@@ -11,7 +12,6 @@
 - [Azure Data Explorer Overview](https://www.youtube.com/watch?v=2wFC9Kiu6Q8)
 - [Staying Safe Online](https://www.youtube.com/watch?v=sh2bAlontcg)
 - [Kusto Query Language Overview](https://www.youtube.com/watch?v=Pl8n6GaWEo0)
-- [DP-900 Azure Data Fundamentals - Updated Version](https://www.youtube.com/watch?v=0gtpasITVnk)
 
 ## Full Courses
 
@@ -102,6 +102,7 @@
   - [Azure Kubernetes Services (AKS) Networking](https://www.youtube.com/watch?v=54y986U1uYM)
   - [Azure Kubernetes Services (AKS) High Availability](https://www.youtube.com/watch?v=gksFrKiZjMc)
   - [Azure Kubernetes Services (AKS) Stop And Start](https://www.youtube.com/watch?v=WWTaGEgHCg4)
+  - [Upgrading and Maintaining your Azure Kubernetes Service (AKS) Cluster](https://www.youtube.com/watch?v=soLCemusoE8)
 - [Azure Lighthouse](https://docs.microsoft.com/en-us/azure/lighthouse/overview)
   - [Azure Lighthouse Deep Dive](https://www.youtube.com/watch?v=IrqkHOPFktM)
 - [Azure Logic Apps](https://docs.microsoft.com/en-us/azure/logic-apps/logic-apps-overview)
