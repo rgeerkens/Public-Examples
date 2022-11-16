@@ -2,6 +2,7 @@
 
 ## Recent Additions
 
+- [Using Multiple Azure Regions](https://www.youtube.com/watch?v=qZ6cwTpQc54)
 - [Upgrading and Maintaining your Azure Kubernetes Service (AKS) Cluster](https://www.youtube.com/watch?v=soLCemusoE8)
 - [Secrets of Performance Tuning Java on Kubernetes](https://www.youtube.com/watch?v=wApqCjHWF8Q)
 - [Azure AD Lifecycle Workflows](https://www.youtube.com/watch?v=wjcw7hRrMDM)
@@ -11,7 +12,6 @@
 - [Azure Kubernetes Services (AKS) Networking - Update](https://www.youtube.com/watch?v=54y986U1uYM)
 - [Azure Data Explorer Overview](https://www.youtube.com/watch?v=2wFC9Kiu6Q8)
 - [Staying Safe Online](https://www.youtube.com/watch?v=sh2bAlontcg)
-- [Kusto Query Language Overview](https://www.youtube.com/watch?v=Pl8n6GaWEo0)
 
 ## Full Courses
 
@@ -164,6 +164,7 @@
 - [Least Privileged Roles By Task In Azure Active Directory](https://docs.microsoft.com/en-us/azure/active-directory/roles/delegate-by-task)
 - [Azure Technology Choices](https://docs.microsoft.com/en-us/azure/architecture/guide/technology-choices/technology-choices-overview)
 - [Understanding Azure Savings Plan for Compute](https://www.youtube.com/watch?v=lBnKBV2r6lI)
+- [Using Multiple Azure Regions](https://www.youtube.com/watch?v=qZ6cwTpQc54)
 
 ### Azure Workbooks
 
