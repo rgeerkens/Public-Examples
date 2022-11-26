@@ -2,6 +2,7 @@
 
 ## Recent Additions
 
+- [Understanding and Using Verifiable Credentials](https://www.youtube.com/watch?v=BxLSSH_EHjo)
 - [Overview of Azure Hybrid Benefit](https://www.youtube.com/watch?v=dt4LDm-ptQk)
 - [Using Multiple Azure Regions](https://www.youtube.com/watch?v=qZ6cwTpQc54)
 - [Upgrading and Maintaining your Azure Kubernetes Service (AKS) Cluster](https://www.youtube.com/watch?v=soLCemusoE8)
@@ -11,7 +12,6 @@
 - [Understanding Azure Savings Plan for Compute](https://www.youtube.com/watch?v=lBnKBV2r6lI)
 - [Azure VM Isolation Options](https://www.youtube.com/watch?v=aL63LSZT480)
 - [Azure Kubernetes Services (AKS) Networking - Update](https://www.youtube.com/watch?v=54y986U1uYM)
-- [Azure Data Explorer Overview](https://www.youtube.com/watch?v=2wFC9Kiu6Q8)
 
 ## Full Courses
 
@@ -200,6 +200,7 @@
 - [Protecting Your Environment](https://www.youtube.com/watch?v=1dCRq15Vpwo)
 - [Master the Azure Pricing Calculator](https://www.youtube.com/watch?v=rMKmbZ1SYQg)
 - [IOPS, Throughput & Latency Explained](https://www.youtube.com/watch?v=HovW_gov6Qc)
+- [Understanding and Using Verifiable Credentials](https://www.youtube.com/watch?v=BxLSSH_EHjo)
 
 ### Infrastructure As Code
 
