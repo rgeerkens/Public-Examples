@@ -2,6 +2,7 @@
 
 ## Recent Additions
 
+- [Composite SLA v2](https://www.youtube.com/watch?v=3pSue9nm3Bg)
 - [Architecting for Application Requirements](https://www.youtube.com/watch?v=lQlHWacM1N0)
 - [Understanding and Using Verifiable Credentials](https://www.youtube.com/watch?v=BxLSSH_EHjo)
 - [Overview of Azure Hybrid Benefit](https://www.youtube.com/watch?v=dt4LDm-ptQk)
@@ -11,7 +12,6 @@
 - [Azure AD Lifecycle Workflows](https://www.youtube.com/watch?v=wjcw7hRrMDM)
 - [Stronger Azure AD Authentication](https://www.youtube.com/watch?v=ns_94ZXrbPI)
 - [Understanding Azure Savings Plan for Compute](https://www.youtube.com/watch?v=lBnKBV2r6lI)
-- [Azure VM Isolation Options](https://www.youtube.com/watch?v=aL63LSZT480)
 
 ## Full Courses
 
@@ -202,6 +202,7 @@
 - [IOPS, Throughput & Latency Explained](https://www.youtube.com/watch?v=HovW_gov6Qc)
 - [Understanding and Using Verifiable Credentials](https://www.youtube.com/watch?v=BxLSSH_EHjo)
 - [Architecting for Application Requirements](https://www.youtube.com/watch?v=lQlHWacM1N0)
+- [Composite SLA v2](https://www.youtube.com/watch?v=3pSue9nm3Bg)
 
 ### Infrastructure As Code
 
