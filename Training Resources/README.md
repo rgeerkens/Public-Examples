@@ -2,6 +2,7 @@
 
 ## Recent Additions
 
+- [Azure SQL IaaS VM Extension Overview](https://www.youtube.com/watch?v=ckSvoe6Ho3g)
 - [Composite SLA v2](https://www.youtube.com/watch?v=3pSue9nm3Bg)
 - [Architecting for Application Requirements](https://www.youtube.com/watch?v=lQlHWacM1N0)
 - [Understanding and Using Verifiable Credentials](https://www.youtube.com/watch?v=BxLSSH_EHjo)
@@ -11,7 +12,6 @@
 - [Secrets of Performance Tuning Java on Kubernetes](https://www.youtube.com/watch?v=wApqCjHWF8Q)
 - [Azure AD Lifecycle Workflows](https://www.youtube.com/watch?v=wjcw7hRrMDM)
 - [Stronger Azure AD Authentication](https://www.youtube.com/watch?v=ns_94ZXrbPI)
-- [Understanding Azure Savings Plan for Compute](https://www.youtube.com/watch?v=lBnKBV2r6lI)
 
 ## Full Courses
 
@@ -131,6 +131,8 @@
   - [Microsoft Sentinel Bootcamp](https://www.youtube.com/watch?v=NJlaqBaqahc)
 - [Azure Spot VM](https://docs.microsoft.com/en-us/azure/virtual-machines/spot-vms)
   - [Azure Spot VM Deep Dive](https://www.youtube.com/watch?v=LWA4SCALYCY)
+- [Azure SQL](https://learn.microsoft.com/en-us/azure/azure-sql/azure-sql-iaas-vs-paas-what-is-overview?view=azuresql)
+  - [Azure SQL IaaS VM Extension Overview](https://www.youtube.com/watch?v=ckSvoe6Ho3g)
 - [Azure Static Web Apps](https://docs.microsoft.com/en-us/azure/static-web-apps/overview)
   - [Azure Static Web Apps Deep Dive](https://www.youtube.com/watch?v=8SjErjeCdu0)
 - [Azure Storage Accounts / Disks](https://docs.microsoft.com/en-us/azure/storage/common/storage-account-overview)
