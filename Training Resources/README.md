@@ -2,6 +2,7 @@
 
 ## Recent Additions
 
+- [Block Deletes Using the New DenyAction Azure Policy Effect](https://www.youtube.com/watch?v=ZVshBqY8kts)
 - [Azure SQL IaaS VM Extension Overview](https://www.youtube.com/watch?v=ckSvoe6Ho3g)
 - [Composite SLA v2](https://www.youtube.com/watch?v=3pSue9nm3Bg)
 - [Architecting for Application Requirements](https://www.youtube.com/watch?v=lQlHWacM1N0)
@@ -11,7 +12,6 @@
 - [Upgrading and Maintaining your Azure Kubernetes Service (AKS) Cluster](https://www.youtube.com/watch?v=soLCemusoE8)
 - [Secrets of Performance Tuning Java on Kubernetes](https://www.youtube.com/watch?v=wApqCjHWF8Q)
 - [Azure AD Lifecycle Workflows](https://www.youtube.com/watch?v=wjcw7hRrMDM)
-- [Stronger Azure AD Authentication](https://www.youtube.com/watch?v=ns_94ZXrbPI)
 
 ## Full Courses
 
@@ -123,6 +123,7 @@
   - [Azure Policy Remediation Deep Dive](https://www.youtube.com/watch?v=fhIn_kHz4hk)
   - [Anatomy of Azure Policy](https://www.youtube.com/watch?v=4wGns611G4w)
   - [Detailed look at Azure Policy Exemption Permission Requirements](https://www.youtube.com/watch?v=clAu7VqpacA)
+  - [Block Deletes Using the New DenyAction Azure Policy Effect](https://www.youtube.com/watch?v=ZVshBqY8kts)
 - [Azure Route Server](https://docs.microsoft.com/en-us/azure/route-server/overview)
   - [Azure Route Server Overview](https://www.youtube.com/watch?v=c1f4rmkrF6M)
 - [Azure Scale Sets](https://docs.microsoft.com/en-us/azure/virtual-machine-scale-sets/overview)
