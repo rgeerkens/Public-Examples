@@ -2,6 +2,7 @@
 
 ## Recent Additions
 
+- [Azure Master Class v2](https://www.youtube.com/playlist?list=PLlVtbbG169nGccbp8VSpAozu3w9xSQJoY)
 - [Block Deletes Using the New DenyAction Azure Policy Effect](https://www.youtube.com/watch?v=ZVshBqY8kts)
 - [Azure SQL IaaS VM Extension Overview](https://www.youtube.com/watch?v=ckSvoe6Ho3g)
 - [Composite SLA v2](https://www.youtube.com/watch?v=3pSue9nm3Bg)
@@ -11,7 +12,6 @@
 - [Using Multiple Azure Regions](https://www.youtube.com/watch?v=qZ6cwTpQc54)
 - [Upgrading and Maintaining your Azure Kubernetes Service (AKS) Cluster](https://www.youtube.com/watch?v=soLCemusoE8)
 - [Secrets of Performance Tuning Java on Kubernetes](https://www.youtube.com/watch?v=wApqCjHWF8Q)
-- [Azure AD Lifecycle Workflows](https://www.youtube.com/watch?v=wjcw7hRrMDM)
 
 ## Full Courses
 
@@ -39,6 +39,7 @@
 - [MS-900 Microsoft 365 Fundamentals](https://www.youtube.com/watch?v=np9jfnwnO2c)
 - [PL-900 Microsoft Power Platform Fundamentals](https://www.youtube.com/watch?v=lbPHM-MiEUA)
 - [SC-900 Microsoft Security, Compliance And Identity Fundamentals](https://www.youtube.com/watch?v=Bz-8jM3jg-8)
+- [Azure Master Class v2](https://www.youtube.com/playlist?list=PLlVtbbG169nGccbp8VSpAozu3w9xSQJoY)
 
 ## Deep Dive Content
 
