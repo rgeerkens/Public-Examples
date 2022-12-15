@@ -2,6 +2,7 @@
 
 ## Recent Additions
 
+- [Azure Function to Bulk Stop and Start Azure Resources in Order](https://www.youtube.com/watch?v=PbzUBtkkdlk)
 - [Azure Master Class v2](https://www.youtube.com/playlist?list=PLlVtbbG169nGccbp8VSpAozu3w9xSQJoY)
 - [Block Deletes Using the New DenyAction Azure Policy Effect](https://www.youtube.com/watch?v=ZVshBqY8kts)
 - [Azure SQL IaaS VM Extension Overview](https://www.youtube.com/watch?v=ckSvoe6Ho3g)
@@ -11,7 +12,6 @@
 - [Overview of Azure Hybrid Benefit](https://www.youtube.com/watch?v=dt4LDm-ptQk)
 - [Using Multiple Azure Regions](https://www.youtube.com/watch?v=qZ6cwTpQc54)
 - [Upgrading and Maintaining your Azure Kubernetes Service (AKS) Cluster](https://www.youtube.com/watch?v=soLCemusoE8)
-- [Secrets of Performance Tuning Java on Kubernetes](https://www.youtube.com/watch?v=wApqCjHWF8Q)
 
 ## Full Courses
 
@@ -93,6 +93,7 @@
   - [Azure Front Door Deep Dive](https://www.youtube.com/watch?v=DHiZbIks9i0&t=1248s)
 - [Azure Functions](https://docs.microsoft.com/en-us/azure/azure-functions/functions-overview)
   - [Azure Functions for the IT Admin](https://www.youtube.com/watch?v=B0vg8Bxbw3c)
+  - [Azure Function to Bulk Stop and Start Azure Resources in Order](https://www.youtube.com/watch?v=PbzUBtkkdlk)
 - [Azure Gateway Loadbalancer](https://docs.microsoft.com/en-us/azure/load-balancer/gateway-overview)
   - [Microsoft Azure Gateway Load Balancer Deep Dive](https://www.youtube.com/watch?v=JLx7ZFzjdSs)
 - [Azure Key Vault](https://docs.microsoft.com/en-us/azure/key-vault/general/overview)
