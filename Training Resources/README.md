@@ -2,6 +2,7 @@
 
 ## Recent Additions
 
+- [Azure AD Branding Customization](https://www.youtube.com/watch?v=ADsRECxcHWM)
 - [Azure Function to Bulk Stop and Start Azure Resources in Order](https://www.youtube.com/watch?v=PbzUBtkkdlk)
 - [Azure Master Class v2](https://www.youtube.com/playlist?list=PLlVtbbG169nGccbp8VSpAozu3w9xSQJoY)
 - [Block Deletes Using the New DenyAction Azure Policy Effect](https://www.youtube.com/watch?v=ZVshBqY8kts)
@@ -11,7 +12,6 @@
 - [Understanding and Using Verifiable Credentials](https://www.youtube.com/watch?v=BxLSSH_EHjo)
 - [Overview of Azure Hybrid Benefit](https://www.youtube.com/watch?v=dt4LDm-ptQk)
 - [Using Multiple Azure Regions](https://www.youtube.com/watch?v=qZ6cwTpQc54)
-- [Upgrading and Maintaining your Azure Kubernetes Service (AKS) Cluster](https://www.youtube.com/watch?v=soLCemusoE8)
 
 ## Full Courses
 
@@ -61,6 +61,7 @@
   - [Entra Permissions Management](https://www.youtube.com/watch?v=lWUV4KZNzIk)
   - [Stronger Azure AD Authentication](https://www.youtube.com/watch?v=ns_94ZXrbPI)
   - [Azure AD Lifecycle Workflows](https://www.youtube.com/watch?v=wjcw7hRrMDM)
+  - [Azure AD Branding Customization](https://www.youtube.com/watch?v=ADsRECxcHWM)
 - [Azure API Manager](https://docs.microsoft.com/en-us/azure/api-management/api-management-key-concepts)
   - [Azure API Manager Automated Orchestration](https://geerkens-my.sharepoint.com/:v:/g/personal/ronny_geerkens_onmicrosoft_com/Ebys3KEacyZEi9BIjbHsad8BsnukdZ1QnKXSti6G1Czw5Q?e=JBsOgd)
 - [Azure App Service Environment](https://docs.microsoft.com/en-us/azure/app-service/environment/overview)
