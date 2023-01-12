@@ -2,6 +2,7 @@
 
 ## Recent Additions
 
+- [CRON Expressions](https://www.youtube.com/watch?v=MlNeVGC0GUs)
 - [Azure AD Branding Customization](https://www.youtube.com/watch?v=ADsRECxcHWM)
 - [Azure Function to Bulk Stop and Start Azure Resources in Order](https://www.youtube.com/watch?v=PbzUBtkkdlk)
 - [Azure Master Class v2](https://www.youtube.com/playlist?list=PLlVtbbG169nGccbp8VSpAozu3w9xSQJoY)
@@ -11,7 +12,6 @@
 - [Architecting for Application Requirements](https://www.youtube.com/watch?v=lQlHWacM1N0)
 - [Understanding and Using Verifiable Credentials](https://www.youtube.com/watch?v=BxLSSH_EHjo)
 - [Overview of Azure Hybrid Benefit](https://www.youtube.com/watch?v=dt4LDm-ptQk)
-- [Using Multiple Azure Regions](https://www.youtube.com/watch?v=qZ6cwTpQc54)
 
 ## Full Courses
 
@@ -219,6 +219,7 @@
 - [Python Packages For Azure](https://azure.github.io/azure-sdk/releases/latest/all/python.html)
 - [Kusto Query Language Overview](https://www.youtube.com/watch?v=Pl8n6GaWEo0)
 - [Demo Azure Rest API Call](https://github.com/johnthebrit/RandomStuff/blob/master/AzureVMs/CheckCreationDate.ps1)
+- [CRON Expressions](https://www.youtube.com/watch?v=MlNeVGC0GUs)
 
 ## Books
 
