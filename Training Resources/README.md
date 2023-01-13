@@ -2,6 +2,7 @@
 
 ## Recent Additions
 
+- [Azure Datacenter Architecture](https://www.youtube.com/watch?v=69PrhWQorEM)
 - [CRON Expressions](https://www.youtube.com/watch?v=MlNeVGC0GUs)
 - [Azure AD Branding Customization](https://www.youtube.com/watch?v=ADsRECxcHWM)
 - [Azure Function to Bulk Stop and Start Azure Resources in Order](https://www.youtube.com/watch?v=PbzUBtkkdlk)
@@ -11,7 +12,6 @@
 - [Composite SLA v2](https://www.youtube.com/watch?v=3pSue9nm3Bg)
 - [Architecting for Application Requirements](https://www.youtube.com/watch?v=lQlHWacM1N0)
 - [Understanding and Using Verifiable Credentials](https://www.youtube.com/watch?v=BxLSSH_EHjo)
-- [Overview of Azure Hybrid Benefit](https://www.youtube.com/watch?v=dt4LDm-ptQk)
 
 ## Full Courses
 
@@ -172,6 +172,7 @@
 - [Understanding Azure Savings Plan for Compute](https://www.youtube.com/watch?v=lBnKBV2r6lI)
 - [Using Multiple Azure Regions](https://www.youtube.com/watch?v=qZ6cwTpQc54)
 - [Overview of Azure Hybrid Benefit](https://www.youtube.com/watch?v=dt4LDm-ptQk)
+- [Azure Datacenter Architecture](https://www.youtube.com/watch?v=69PrhWQorEM)
 
 ### Azure Workbooks
 
