@@ -259,6 +259,7 @@
 - [Microsoft Azure Channel](https://www.youtube.com/c/MicrosoftAzure/videos)
 - [Github Channel](https://www.youtube.com/c/GitHub/videos)
 - [Devoxx](https://www.youtube.com/c/Devoxx2015/videos)
+- [AI Show](https://learn.microsoft.com/en-us/shows/ai-show/?WT.mc_id=AZ-MVP-5004796)
 
 ## Good Github Repositories
 
