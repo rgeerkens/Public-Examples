@@ -262,6 +262,7 @@
 - [AI Show](https://learn.microsoft.com/en-us/shows/ai-show/?WT.mc_id=AZ-MVP-5004796)
 - [Ask The Expert](https://learn.microsoft.com/en-us/shows/ask-the-expert/?WT.mc_id=AZ-MVP-5004796)
 - [The Azure Enablement Show](https://learn.microsoft.com/en-us/shows/azure-enablement/?WT.mc_id=AZ-MVP-5004796)
+- [Azure Friday](https://learn.microsoft.com/en-us/shows/azure-friday/?WT.mc_id=AZ-MVP-5004796)
 
 ## Good Github Repositories
 
