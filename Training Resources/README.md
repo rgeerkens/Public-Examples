@@ -209,6 +209,7 @@
 - [Understanding and Using Verifiable Credentials](https://www.youtube.com/watch?v=BxLSSH_EHjo)
 - [Architecting for Application Requirements](https://www.youtube.com/watch?v=lQlHWacM1N0)
 - [Composite SLA v2](https://www.youtube.com/watch?v=3pSue9nm3Bg)
+- [Technology Choices For Azure Solutions](https://learn.microsoft.com/en-us/azure/architecture/guide/technology-choices/technology-choices-overview)
 
 ### Infrastructure As Code
 
