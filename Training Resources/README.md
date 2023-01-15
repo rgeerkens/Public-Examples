@@ -288,7 +288,7 @@
 - [Aweseome Azure Policy](https://github.com/globalbao/awesome-azure-policy)
 - [Awesome Azure Learning](https://github.com/ddneves/awesome-azure-learning)
 
-## Tools
+## General Tools
 
 - [Bandwidth Calculator](https://www.calculator.net/bandwidth-calculator.html?downloadsize2=8&downloadsize2unit=GB&bandwidth2=5&bandwidth2unit=mb&ctype=2&x=74&y=22#download-time)
 - [TiB to TB Conversion](https://www.gbmb.org/tib-to-tb)
