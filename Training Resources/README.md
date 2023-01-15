@@ -187,6 +187,7 @@
 - [Azure VM Price Comparison](https://azureprice.net/?region=westeurope&currency=EUR)
 - [Azure Periodic Table](https://azureservices.io/#)
 - [Azure Workbench](https://www.azureworkbench.com/)
+- [Microsoft Portals](https://msportals.io/?search=)
 
 ### Office 365 Platform
 
@@ -282,6 +283,7 @@
 - [Kubernetes The Hard Way on Azure](https://github.com/ivanfioravanti/kubernetes-the-hard-way-on-azure)
 - [John Savill](https://github.com/johnthebrit)
 - [Study Guide To Prepare The GitHub Certifications](https://github.com/lgmorand/github-certification-preparation-guide)
+- [Awesome Azure Architecture](https://github.com/lukemurraynz/awesome-azure-architecture)
 
 ## Tools
 
