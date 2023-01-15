@@ -174,9 +174,16 @@
 - [Overview of Azure Hybrid Benefit](https://www.youtube.com/watch?v=dt4LDm-ptQk)
 - [Azure Datacenter Architecture](https://www.youtube.com/watch?v=69PrhWQorEM)
 
-### Azure Workbooks
+### Azure Workbooks & Tools
 
 - [Azure Orphan Resources](https://github.com/dolevshor/azure-orphan-resources)
+- [The Microsoft Cloud command line - cmd.ms](https://cmd.ms/)
+- [AzAdvertizer](https://www.azadvertizer.net/index.html)
+- [Azure ArcBox](https://azurearcjumpstart.io/azure_jumpstart_arcbox/)
+- [Azure Services Powerview](https://azurecharts.com/overview?m=adv)
+- [Azure Composite SLA Estimator](https://slaestimator.aztoso.com/)
+- [Azure Deprication Dashboard](https://github.com/azure-deprecation/dashboard/issues/)
+
 
 ### Office 365 Platform
 
