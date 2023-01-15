@@ -275,6 +275,7 @@
 - [Ask The Expert](https://learn.microsoft.com/en-us/shows/ask-the-expert/?WT.mc_id=AZ-MVP-5004796)
 - [The Azure Enablement Show](https://learn.microsoft.com/en-us/shows/azure-enablement/?WT.mc_id=AZ-MVP-5004796)
 - [Azure Friday](https://learn.microsoft.com/en-us/shows/azure-friday/?WT.mc_id=AZ-MVP-5004796)
+- [Azure Tips And Tricks](https://www.youtube.com/playlist?list=PLLasX02E8BPCNCK8Thcxu-Y-XcBUbhFWC)
 
 ## Good Github Repositories
 
