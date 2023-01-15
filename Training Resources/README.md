@@ -284,6 +284,7 @@
 - [John Savill](https://github.com/johnthebrit)
 - [Study Guide To Prepare The GitHub Certifications](https://github.com/lgmorand/github-certification-preparation-guide)
 - [Awesome Azure Architecture](https://github.com/lukemurraynz/awesome-azure-architecture)
+- [Aweseome Azure Policy](https://github.com/globalbao/awesome-azure-policy)
 
 ## Tools
 
