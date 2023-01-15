@@ -186,6 +186,7 @@
 - [Azure IP Ranges](https://azureipranges.azurewebsites.net/)
 - [Azure VM Price Comparison](https://azureprice.net/?region=westeurope&currency=EUR)
 - [Azure Periodic Table](https://azureservices.io/#)
+- [Azure Workbench](https://www.azureworkbench.com/)
 
 ### Office 365 Platform
 
