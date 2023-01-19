@@ -2,6 +2,7 @@
 
 ## Recent Additions
 
+- [How DNS Works](https://www.youtube.com/watch?v=Ah7fYex6Ups)
 - [Azure Datacenter Architecture](https://www.youtube.com/watch?v=69PrhWQorEM)
 - [CRON Expressions](https://www.youtube.com/watch?v=MlNeVGC0GUs)
 - [Azure AD Branding Customization](https://www.youtube.com/watch?v=ADsRECxcHWM)
@@ -11,7 +12,6 @@
 - [Azure SQL IaaS VM Extension Overview](https://www.youtube.com/watch?v=ckSvoe6Ho3g)
 - [Composite SLA v2](https://www.youtube.com/watch?v=3pSue9nm3Bg)
 - [Architecting for Application Requirements](https://www.youtube.com/watch?v=lQlHWacM1N0)
-- [Understanding and Using Verifiable Credentials](https://www.youtube.com/watch?v=BxLSSH_EHjo)
 
 ## Full Courses
 
@@ -310,3 +310,4 @@
 - [Complete list of github markdown emoji markup](https://gist.github.com/rxaviers/7360908)
 - [MkDocs Plugins](https://github.com/mkdocs/mkdocs/wiki/MkDocs-Plugins)
 - [Archimate Modeling Language](https://www.youtube.com/watch?v=COqo6UJ2WWY&list=PLB8F2ECDADEE616AA&index=19)
+- [How DNS Works](https://www.youtube.com/watch?v=Ah7fYex6Ups)
