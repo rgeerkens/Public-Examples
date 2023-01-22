@@ -288,6 +288,7 @@
 - [Awesome Azure Architecture](https://github.com/lukemurraynz/awesome-azure-architecture)
 - [Aweseome Azure Policy](https://github.com/globalbao/awesome-azure-policy)
 - [Awesome Azure Learning](https://github.com/ddneves/awesome-azure-learning)
+- [Azure landing zones Terraform module](https://github.com/Azure/terraform-azurerm-caf-enterprise-scale)
 
 ## General Tools
 
