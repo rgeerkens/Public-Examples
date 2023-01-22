@@ -2,6 +2,7 @@
 
 ## Recent Additions
 
+- [How GitHub builds GitHub](https://www.youtube.com/watch?v=1LoZvxoWVow)
 - [Learn Live - Introduction to Azure Arc-enabled data services](https://www.youtube.com/watch?v=mxgmMx_WsCI&list=PLlrxD0HtieHiOKfpI9oWUQ051MLO-BzEt&index=13)
 - [How DNS Works](https://www.youtube.com/watch?v=Ah7fYex6Ups)
 - [Azure Datacenter Architecture](https://www.youtube.com/watch?v=69PrhWQorEM)
@@ -11,7 +12,6 @@
 - [Azure Master Class v2](https://www.youtube.com/playlist?list=PLlVtbbG169nGccbp8VSpAozu3w9xSQJoY)
 - [Block Deletes Using the New DenyAction Azure Policy Effect](https://www.youtube.com/watch?v=ZVshBqY8kts)
 - [Azure SQL IaaS VM Extension Overview](https://www.youtube.com/watch?v=ckSvoe6Ho3g)
-- [Composite SLA v2](https://www.youtube.com/watch?v=3pSue9nm3Bg)
 
 ## Full Courses
 
@@ -313,3 +313,4 @@
 - [MkDocs Plugins](https://github.com/mkdocs/mkdocs/wiki/MkDocs-Plugins)
 - [Archimate Modeling Language](https://www.youtube.com/watch?v=COqo6UJ2WWY&list=PLB8F2ECDADEE616AA&index=19)
 - [How DNS Works](https://www.youtube.com/watch?v=Ah7fYex6Ups)
+- [How GitHub builds GitHub](https://www.youtube.com/watch?v=1LoZvxoWVow)
