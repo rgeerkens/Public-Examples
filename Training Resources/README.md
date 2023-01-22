@@ -2,6 +2,7 @@
 
 ## Recent Additions
 
+- [Learn Live - Introduction to Azure Arc-enabled data services](https://www.youtube.com/watch?v=mxgmMx_WsCI&list=PLlrxD0HtieHiOKfpI9oWUQ051MLO-BzEt&index=13)
 - [How DNS Works](https://www.youtube.com/watch?v=Ah7fYex6Ups)
 - [Azure Datacenter Architecture](https://www.youtube.com/watch?v=69PrhWQorEM)
 - [CRON Expressions](https://www.youtube.com/watch?v=MlNeVGC0GUs)
@@ -11,7 +12,6 @@
 - [Block Deletes Using the New DenyAction Azure Policy Effect](https://www.youtube.com/watch?v=ZVshBqY8kts)
 - [Azure SQL IaaS VM Extension Overview](https://www.youtube.com/watch?v=ckSvoe6Ho3g)
 - [Composite SLA v2](https://www.youtube.com/watch?v=3pSue9nm3Bg)
-- [Architecting for Application Requirements](https://www.youtube.com/watch?v=lQlHWacM1N0)
 
 ## Full Courses
 
@@ -73,6 +73,7 @@
   - [Bare Metal And Azure ARC](https://www.youtube.com/watch?v=405qOUBnbsg)
   - [Azure ARC - Jumpstart ArcBox](https://azurearcjumpstart.io/azure_jumpstart_arcbox/)
   - [Introduction to Azure Arc enabled servers](https://www.youtube.com/watch?v=l4YLl3x_h7A)
+  - [Learn Live - Introduction to Azure Arc-enabled data services](https://www.youtube.com/watch?v=mxgmMx_WsCI&list=PLlrxD0HtieHiOKfpI9oWUQ051MLO-BzEt&index=13)
 - [Azure Bastion](https://docs.microsoft.com/en-us/azure/bastion/bastion-overview)
   - [Azure Bastion Deep Dive](https://www.youtube.com/watch?v=lZ_u57gJBNo)
 - [Azure Confidential Computing](https://docs.microsoft.com/en-us/azure/confidential-computing/overview)
