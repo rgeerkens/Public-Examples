@@ -189,6 +189,7 @@
 - [Azure Periodic Table](https://azureservices.io/#)
 - [Azure Workbench](https://www.azureworkbench.com/)
 - [Microsoft Portals](https://msportals.io/?search=)
+- [Azure Key Vault Explorer](https://github.com/microsoft/AzureKeyVaultExplorer)
 
 ### Office 365 Platform
 
