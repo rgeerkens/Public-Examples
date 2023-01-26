@@ -2,6 +2,8 @@
 
 ## Recent Additions
 
+- [AZ-900 Azure Fundamentals - Update](https://www.youtube.com/playlist?list=PLlVtbbG169nED0_vMEniWBQjSoxTsBYS3)
+- [Azure Master Class v2 Update](https://www.youtube.com/playlist?list=PLlVtbbG169nGccbp8VSpAozu3w9xSQJoY)
 - [How GitHub builds GitHub](https://www.youtube.com/watch?v=1LoZvxoWVow)
 - [Learn Live - Introduction to Azure Arc-enabled data services](https://www.youtube.com/watch?v=mxgmMx_WsCI&list=PLlrxD0HtieHiOKfpI9oWUQ051MLO-BzEt&index=13)
 - [How DNS Works](https://www.youtube.com/watch?v=Ah7fYex6Ups)
@@ -9,9 +11,7 @@
 - [CRON Expressions](https://www.youtube.com/watch?v=MlNeVGC0GUs)
 - [Azure AD Branding Customization](https://www.youtube.com/watch?v=ADsRECxcHWM)
 - [Azure Function to Bulk Stop and Start Azure Resources in Order](https://www.youtube.com/watch?v=PbzUBtkkdlk)
-- [Azure Master Class v2](https://www.youtube.com/playlist?list=PLlVtbbG169nGccbp8VSpAozu3w9xSQJoY)
 - [Block Deletes Using the New DenyAction Azure Policy Effect](https://www.youtube.com/watch?v=ZVshBqY8kts)
-- [Azure SQL IaaS VM Extension Overview](https://www.youtube.com/watch?v=ckSvoe6Ho3g)
 
 ## Full Courses
 
