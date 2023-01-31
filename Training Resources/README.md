@@ -2,6 +2,7 @@
 
 ## Recent Additions
 
+- [How Encryption Works](https://www.youtube.com/watch?v=h1qf_tBaXtg)
 - [AZ-900 Azure Fundamentals - Update](https://www.youtube.com/playlist?list=PLlVtbbG169nED0_vMEniWBQjSoxTsBYS3)
 - [Azure Master Class v2 Update](https://www.youtube.com/playlist?list=PLlVtbbG169nGccbp8VSpAozu3w9xSQJoY)
 - [How GitHub builds GitHub](https://www.youtube.com/watch?v=1LoZvxoWVow)
@@ -11,7 +12,6 @@
 - [CRON Expressions](https://www.youtube.com/watch?v=MlNeVGC0GUs)
 - [Azure AD Branding Customization](https://www.youtube.com/watch?v=ADsRECxcHWM)
 - [Azure Function to Bulk Stop and Start Azure Resources in Order](https://www.youtube.com/watch?v=PbzUBtkkdlk)
-- [Block Deletes Using the New DenyAction Azure Policy Effect](https://www.youtube.com/watch?v=ZVshBqY8kts)
 
 ## Full Courses
 
@@ -317,3 +317,4 @@
 - [Archimate Modeling Language](https://www.youtube.com/watch?v=COqo6UJ2WWY&list=PLB8F2ECDADEE616AA&index=19)
 - [How DNS Works](https://www.youtube.com/watch?v=Ah7fYex6Ups)
 - [How GitHub builds GitHub](https://www.youtube.com/watch?v=1LoZvxoWVow)
+- [How Encryption Works](https://www.youtube.com/watch?v=h1qf_tBaXtg)
