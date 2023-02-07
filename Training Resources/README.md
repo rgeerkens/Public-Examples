@@ -2,9 +2,9 @@
 
 ## Recent Additions
 
+- [Azure Master Class v2 Update](https://www.youtube.com/playlist?list=PLlVtbbG169nGccbp8VSpAozu3w9xSQJoY)
 - [How Encryption Works](https://www.youtube.com/watch?v=h1qf_tBaXtg)
 - [AZ-900 Azure Fundamentals - Update](https://www.youtube.com/playlist?list=PLlVtbbG169nED0_vMEniWBQjSoxTsBYS3)
-- [Azure Master Class v2 Update](https://www.youtube.com/playlist?list=PLlVtbbG169nGccbp8VSpAozu3w9xSQJoY)
 - [How GitHub builds GitHub](https://www.youtube.com/watch?v=1LoZvxoWVow)
 - [Learn Live - Introduction to Azure Arc-enabled data services](https://www.youtube.com/watch?v=mxgmMx_WsCI&list=PLlrxD0HtieHiOKfpI9oWUQ051MLO-BzEt&index=13)
 - [How DNS Works](https://www.youtube.com/watch?v=Ah7fYex6Ups)
