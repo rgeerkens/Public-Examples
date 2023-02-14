@@ -2,8 +2,8 @@
 
 ## Recent Additions
 
-- [Azure AD Cross-Tenant Sync](https://www.youtube.com/watch?v=z0J5kteqUVQ)
 - [Azure Master Class v2 Update](https://www.youtube.com/playlist?list=PLlVtbbG169nGccbp8VSpAozu3w9xSQJoY)
+- [Azure AD Cross-Tenant Sync](https://www.youtube.com/watch?v=z0J5kteqUVQ)
 - [How Encryption Works](https://www.youtube.com/watch?v=h1qf_tBaXtg)
 - [AZ-900 Azure Fundamentals - Update](https://www.youtube.com/playlist?list=PLlVtbbG169nED0_vMEniWBQjSoxTsBYS3)
 - [How GitHub builds GitHub](https://www.youtube.com/watch?v=1LoZvxoWVow)
