@@ -2,6 +2,7 @@
 
 ## Recent Additions
 
+- [Azure Key Vault Key Rotation Policies](https://www.youtube.com/watch?v=EA_Bc805k4k)
 - [Azure Master Class v2 Update](https://www.youtube.com/playlist?list=PLlVtbbG169nGccbp8VSpAozu3w9xSQJoY)
 - [Azure AD Cross-Tenant Sync](https://www.youtube.com/watch?v=z0J5kteqUVQ)
 - [How Encryption Works](https://www.youtube.com/watch?v=h1qf_tBaXtg)
@@ -11,7 +12,6 @@
 - [How DNS Works](https://www.youtube.com/watch?v=Ah7fYex6Ups)
 - [Azure Datacenter Architecture](https://www.youtube.com/watch?v=69PrhWQorEM)
 - [CRON Expressions](https://www.youtube.com/watch?v=MlNeVGC0GUs)
-- [Azure AD Branding Customization](https://www.youtube.com/watch?v=ADsRECxcHWM)
 
 ## Full Courses
 
@@ -101,6 +101,7 @@
   - [Microsoft Azure Gateway Load Balancer Deep Dive](https://www.youtube.com/watch?v=JLx7ZFzjdSs)
 - [Azure Key Vault](https://docs.microsoft.com/en-us/azure/key-vault/general/overview)
   - [Azure Key Vault Deep Dive](https://www.youtube.com/watch?v=kP7KpfToMkg)
+  - [Azure Key Vault Key Rotation Policies](https://www.youtube.com/watch?v=EA_Bc805k4k)
 - [Azure Kubernetes Services](https://docs.microsoft.com/en-us/azure/aks/intro-kubernetes)
   - [Azure Kubernetes Services (AKS) Overview](https://www.youtube.com/watch?v=c4nTKMU6fBU)
   - [Azure Kubernetes Services (AKS) Networking - Deep Dive 2020](https://www.youtube.com/watch?v=6TZsd4toIbg&t=4s)
