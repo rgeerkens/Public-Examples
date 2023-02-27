@@ -2,8 +2,8 @@
 
 ## Recent Additions
 
-- [Azure Key Vault Key Rotation Policies](https://www.youtube.com/watch?v=EA_Bc805k4k)
 - [Azure Master Class v2 Update](https://www.youtube.com/playlist?list=PLlVtbbG169nGccbp8VSpAozu3w9xSQJoY)
+- [Azure Key Vault Key Rotation Policies](https://www.youtube.com/watch?v=EA_Bc805k4k)
 - [Azure AD Cross-Tenant Sync](https://www.youtube.com/watch?v=z0J5kteqUVQ)
 - [How Encryption Works](https://www.youtube.com/watch?v=h1qf_tBaXtg)
 - [AZ-900 Azure Fundamentals - Update](https://www.youtube.com/playlist?list=PLlVtbbG169nED0_vMEniWBQjSoxTsBYS3)
