@@ -2,6 +2,7 @@
 
 ## Recent Additions
 
+- [Azure VM SKU Modifiers](https://www.youtube.com/watch?v=E8Fx0mji5Ss)
 - [ChatGPT Explained](https://www.youtube.com/watch?v=_B3-OtAHzIU)
 - [Azure Master Class v2 Update](https://www.youtube.com/playlist?list=PLlVtbbG169nGccbp8VSpAozu3w9xSQJoY)
 - [Azure Key Vault Key Rotation Policies](https://www.youtube.com/watch?v=EA_Bc805k4k)
@@ -11,7 +12,6 @@
 - [How GitHub builds GitHub](https://www.youtube.com/watch?v=1LoZvxoWVow)
 - [Learn Live - Introduction to Azure Arc-enabled data services](https://www.youtube.com/watch?v=mxgmMx_WsCI&list=PLlrxD0HtieHiOKfpI9oWUQ051MLO-BzEt&index=13)
 - [How DNS Works](https://www.youtube.com/watch?v=Ah7fYex6Ups)
-- [Azure Datacenter Architecture](https://www.youtube.com/watch?v=69PrhWQorEM)
 
 ## Full Courses
 
@@ -176,6 +176,7 @@
 - [Using Multiple Azure Regions](https://www.youtube.com/watch?v=qZ6cwTpQc54)
 - [Overview of Azure Hybrid Benefit](https://www.youtube.com/watch?v=dt4LDm-ptQk)
 - [Azure Datacenter Architecture](https://www.youtube.com/watch?v=69PrhWQorEM)
+- [Azure VM SKU Modifiers](https://www.youtube.com/watch?v=E8Fx0mji5Ss)
 
 ### Azure Workbooks & Tools
 
