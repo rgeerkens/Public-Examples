@@ -2,6 +2,7 @@
 
 ## Recent Additions
 
+- [Nested Virtualization Overview](https://www.youtube.com/watch?v=hIIzA8Gm4T0)
 - [Azure AD HR-Driven Provisioning](https://www.youtube.com/watch?v=WDXY_mF-Ads)
 - [Azure VM SKU Modifiers](https://www.youtube.com/watch?v=E8Fx0mji5Ss)
 - [ChatGPT Explained](https://www.youtube.com/watch?v=_B3-OtAHzIU)
@@ -229,6 +230,7 @@
 - [Architecting for Application Requirements](https://www.youtube.com/watch?v=lQlHWacM1N0)
 - [Composite SLA v2](https://www.youtube.com/watch?v=3pSue9nm3Bg)
 - [Technology Choices For Azure Solutions](https://learn.microsoft.com/en-us/azure/architecture/guide/technology-choices/technology-choices-overview)
+- [Nested Virtualization Overview](https://www.youtube.com/watch?v=hIIzA8Gm4T0)
 
 ### Infrastructure As Code
 
