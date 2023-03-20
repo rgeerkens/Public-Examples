@@ -2,6 +2,7 @@
 
 ## Recent Additions
 
+- [Azure AD Dynamic Groups](https://www.youtube.com/watch?v=DkhDM5jJZqM)
 - [Nested Virtualization Overview](https://www.youtube.com/watch?v=hIIzA8Gm4T0)
 - [Azure AD HR-Driven Provisioning](https://www.youtube.com/watch?v=WDXY_mF-Ads)
 - [Azure VM SKU Modifiers](https://www.youtube.com/watch?v=E8Fx0mji5Ss)
@@ -12,7 +13,6 @@
 - [How Encryption Works](https://www.youtube.com/watch?v=h1qf_tBaXtg)
 - [AZ-900 Azure Fundamentals - Update](https://www.youtube.com/playlist?list=PLlVtbbG169nED0_vMEniWBQjSoxTsBYS3)
 - [How GitHub builds GitHub](https://www.youtube.com/watch?v=1LoZvxoWVow)
-- [Learn Live - Introduction to Azure Arc-enabled data services](https://www.youtube.com/watch?v=mxgmMx_WsCI&list=PLlrxD0HtieHiOKfpI9oWUQ051MLO-BzEt&index=13)
 
 ## Full Courses
 
@@ -65,6 +65,7 @@
   - [Azure AD Branding Customization](https://www.youtube.com/watch?v=ADsRECxcHWM)
   - [Azure AD Cross-Tenant Sync](https://www.youtube.com/watch?v=z0J5kteqUVQ)
   - [Azure AD HR-Driven Provisioning](https://www.youtube.com/watch?v=WDXY_mF-Ads)
+  - [Azure AD Dynamic Groups](https://www.youtube.com/watch?v=DkhDM5jJZqM)
 - [Azure API Manager](https://docs.microsoft.com/en-us/azure/api-management/api-management-key-concepts)
   - [Azure API Manager Automated Orchestration](https://geerkens-my.sharepoint.com/:v:/g/personal/ronny_geerkens_onmicrosoft_com/Ebys3KEacyZEi9BIjbHsad8BsnukdZ1QnKXSti6G1Czw5Q?e=JBsOgd)
 - [Azure App Service Environment](https://docs.microsoft.com/en-us/azure/app-service/environment/overview)
