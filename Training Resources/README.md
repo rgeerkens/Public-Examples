@@ -2,6 +2,7 @@
 
 ## Recent Additions
 
+- [VMSS Flex Spot Mix](https://www.youtube.com/watch?v=E0Zatk8oamY)
 - [Azure AD Dynamic Groups](https://www.youtube.com/watch?v=DkhDM5jJZqM)
 - [Nested Virtualization Overview](https://www.youtube.com/watch?v=hIIzA8Gm4T0)
 - [Azure AD HR-Driven Provisioning](https://www.youtube.com/watch?v=WDXY_mF-Ads)
@@ -12,7 +13,6 @@
 - [Azure AD Cross-Tenant Sync](https://www.youtube.com/watch?v=z0J5kteqUVQ)
 - [How Encryption Works](https://www.youtube.com/watch?v=h1qf_tBaXtg)
 - [AZ-900 Azure Fundamentals - Update](https://www.youtube.com/playlist?list=PLlVtbbG169nED0_vMEniWBQjSoxTsBYS3)
-- [How GitHub builds GitHub](https://www.youtube.com/watch?v=1LoZvxoWVow)
 
 ## Full Courses
 
@@ -137,10 +137,12 @@
   - [Azure Route Server Overview](https://www.youtube.com/watch?v=c1f4rmkrF6M)
 - [Azure Scale Sets](https://docs.microsoft.com/en-us/azure/virtual-machine-scale-sets/overview)
   - [VMSS Flex Overview](https://www.youtube.com/watch?v=2BrckSF7ICI)
+  - [VMSS Flex Spot Mix](https://www.youtube.com/watch?v=E0Zatk8oamY)
 - [Azure Sentinel](https://docs.microsoft.com/en-us/azure/sentinel/overview)
   - [Microsoft Sentinel Bootcamp](https://www.youtube.com/watch?v=NJlaqBaqahc)
 - [Azure Spot VM](https://docs.microsoft.com/en-us/azure/virtual-machines/spot-vms)
   - [Azure Spot VM Deep Dive](https://www.youtube.com/watch?v=LWA4SCALYCY)
+  - [VMSS Flex Spot Mix](https://www.youtube.com/watch?v=E0Zatk8oamY)
 - [Azure SQL](https://learn.microsoft.com/en-us/azure/azure-sql/azure-sql-iaas-vs-paas-what-is-overview?view=azuresql)
   - [Azure SQL IaaS VM Extension Overview](https://www.youtube.com/watch?v=ckSvoe6Ho3g)
 - [Azure Static Web Apps](https://docs.microsoft.com/en-us/azure/static-web-apps/overview)
