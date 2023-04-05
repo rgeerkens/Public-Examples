@@ -2,6 +2,7 @@
 
 ## Recent Additions
 
+- [GitHub Azure AD OIDC Authentication](https://www.youtube.com/watch?v=XkhkkLBkAT4)
 - [Azure AD Guest Management](https://www.youtube.com/watch?v=9uhMLrIvPbg)
 - [VMSS Flex Spot Mix](https://www.youtube.com/watch?v=E0Zatk8oamY)
 - [Azure AD Dynamic Groups](https://www.youtube.com/watch?v=DkhDM5jJZqM)
@@ -12,7 +13,6 @@
 - [Azure Master Class v2 Update](https://www.youtube.com/playlist?list=PLlVtbbG169nGccbp8VSpAozu3w9xSQJoY)
 - [Azure Key Vault Key Rotation Policies](https://www.youtube.com/watch?v=EA_Bc805k4k)
 - [Azure AD Cross-Tenant Sync](https://www.youtube.com/watch?v=z0J5kteqUVQ)
-- [How Encryption Works](https://www.youtube.com/watch?v=h1qf_tBaXtg)
 
 ## Full Courses
 
@@ -67,6 +67,7 @@
   - [Azure AD HR-Driven Provisioning](https://www.youtube.com/watch?v=WDXY_mF-Ads)
   - [Azure AD Dynamic Groups](https://www.youtube.com/watch?v=DkhDM5jJZqM)
   - [Azure AD Guest Management](https://www.youtube.com/watch?v=9uhMLrIvPbg)
+  - [GitHub Azure AD OIDC Authentication](https://www.youtube.com/watch?v=XkhkkLBkAT4)
 - [Azure API Manager](https://docs.microsoft.com/en-us/azure/api-management/api-management-key-concepts)
   - [Azure API Manager Automated Orchestration](https://geerkens-my.sharepoint.com/:v:/g/personal/ronny_geerkens_onmicrosoft_com/Ebys3KEacyZEi9BIjbHsad8BsnukdZ1QnKXSti6G1Czw5Q?e=JBsOgd)
 - [Azure App Service Environment](https://docs.microsoft.com/en-us/azure/app-service/environment/overview)
@@ -246,6 +247,7 @@
 - [Kusto Query Language Overview](https://www.youtube.com/watch?v=Pl8n6GaWEo0)
 - [Demo Azure Rest API Call](https://github.com/johnthebrit/RandomStuff/blob/master/AzureVMs/CheckCreationDate.ps1)
 - [CRON Expressions](https://www.youtube.com/watch?v=MlNeVGC0GUs)
+- [GitHub Azure AD OIDC Authentication](https://www.youtube.com/watch?v=XkhkkLBkAT4)
 
 ## Books
 
