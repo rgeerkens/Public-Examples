@@ -2,7 +2,7 @@
 
 ## Recent Additions
 
-- [What ARE Containers? (and Docker ...)](https://www.youtube.com/watch?v=1T2HMSQ2Bs4)
+- [What are Containers? (and Docker ...)](https://www.youtube.com/watch?v=1T2HMSQ2Bs4)
 - [GitHub Azure AD OIDC Authentication](https://www.youtube.com/watch?v=XkhkkLBkAT4)
 - [Azure AD Guest Management](https://www.youtube.com/watch?v=9uhMLrIvPbg)
 - [VMSS Flex Spot Mix](https://www.youtube.com/watch?v=E0Zatk8oamY)
@@ -224,7 +224,7 @@
   - [Istio & Service Mesh - Simply Explained](https://www.youtube.com/watch?v=16fgzklcF7Y)
   - [Istio Setup in Kubernetes](https://www.youtube.com/watch?v=voAyroDb6xk)
 - [Secrets of Performance Tuning Java on Kubernetes](https://www.youtube.com/watch?v=wApqCjHWF8Q)
-- [What ARE Containers? (and Docker ...)](https://www.youtube.com/watch?v=1T2HMSQ2Bs4)
+- [What are Containers? (and Docker ...)](https://www.youtube.com/watch?v=1T2HMSQ2Bs4)
 
 ### Architecture & Strategy
 
