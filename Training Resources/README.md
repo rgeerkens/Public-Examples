@@ -2,6 +2,7 @@
 
 ## Recent Additions
 
+- [The Purpose Of Azure ARC](https://www.youtube.com/watch?v=cW6_rvDYSHg&t=18s)
 - [GitHub Azure AD OIDC Authentication](https://www.youtube.com/watch?v=XkhkkLBkAT4)
 - [Azure AD Guest Management](https://www.youtube.com/watch?v=9uhMLrIvPbg)
 - [VMSS Flex Spot Mix](https://www.youtube.com/watch?v=E0Zatk8oamY)
@@ -12,7 +13,6 @@
 - [ChatGPT Explained](https://www.youtube.com/watch?v=_B3-OtAHzIU)
 - [Azure Master Class v2 Update](https://www.youtube.com/playlist?list=PLlVtbbG169nGccbp8VSpAozu3w9xSQJoY)
 - [Azure Key Vault Key Rotation Policies](https://www.youtube.com/watch?v=EA_Bc805k4k)
-- [Azure AD Cross-Tenant Sync](https://www.youtube.com/watch?v=z0J5kteqUVQ)
 
 ## Full Courses
 
@@ -224,6 +224,7 @@
   - [Istio & Service Mesh - Simply Explained](https://www.youtube.com/watch?v=16fgzklcF7Y)
   - [Istio Setup in Kubernetes](https://www.youtube.com/watch?v=voAyroDb6xk)
 - [Secrets of Performance Tuning Java on Kubernetes](https://www.youtube.com/watch?v=wApqCjHWF8Q)
+- [What ARE Containers? (and Docker ...)](https://www.youtube.com/watch?v=1T2HMSQ2Bs4)
 
 ### Architecture & Strategy
 
