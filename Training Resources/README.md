@@ -2,6 +2,7 @@
 
 ## Recent Additions
 
+- [Finding Duplicate Private Endpoints!](https://www.youtube.com/watch?v=i2xLbNKAqGY)
 - [Azure AD App Proxy Deep Dive](https://www.youtube.com/watch?v=dcAY-qrzTYA)
 - [What are Containers? (and Docker ...)](https://www.youtube.com/watch?v=1T2HMSQ2Bs4)
 - [GitHub Azure AD OIDC Authentication](https://www.youtube.com/watch?v=XkhkkLBkAT4)
@@ -12,7 +13,6 @@
 - [Azure AD HR-Driven Provisioning](https://www.youtube.com/watch?v=WDXY_mF-Ads)
 - [Azure VM SKU Modifiers](https://www.youtube.com/watch?v=E8Fx0mji5Ss)
 - [ChatGPT Explained](https://www.youtube.com/watch?v=_B3-OtAHzIU)
-- [Azure Master Class v2 Update](https://www.youtube.com/playlist?list=PLlVtbbG169nGccbp8VSpAozu3w9xSQJoY)
 
 ## Full Courses
 
@@ -131,6 +131,7 @@
 - [Azure Private Link](https://docs.microsoft.com/en-us/azure/private-link/private-link-overview)
   - [Private Endpoint DNS Exploration](https://www.youtube.com/watch?v=rXbamGNz-xQ)
   - [Microsoft Azure Private Link Deep Dive](https://www.youtube.com/watch?v=57ZwdztCx2w)
+  - [Finding Duplicate Private Endpoints!](https://www.youtube.com/watch?v=i2xLbNKAqGY)
 - [Azure Policy](https://docs.microsoft.com/en-us/azure/governance/policy/overview)
   - [Azure Policy Remediation Deep Dive](https://www.youtube.com/watch?v=fhIn_kHz4hk)
   - [Anatomy of Azure Policy](https://www.youtube.com/watch?v=4wGns611G4w)
