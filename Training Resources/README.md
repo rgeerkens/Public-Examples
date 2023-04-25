@@ -2,6 +2,7 @@
 
 ## Recent Additions
 
+- [Using Windows Subsystem for Linux v2](https://www.youtube.com/watch?v=RTv7G79YYPU)
 - [Finding Duplicate Private Endpoints!](https://www.youtube.com/watch?v=i2xLbNKAqGY)
 - [Azure AD App Proxy Deep Dive](https://www.youtube.com/watch?v=dcAY-qrzTYA)
 - [What are Containers? (and Docker ...)](https://www.youtube.com/watch?v=1T2HMSQ2Bs4)
@@ -12,7 +13,6 @@
 - [Nested Virtualization Overview](https://www.youtube.com/watch?v=hIIzA8Gm4T0)
 - [Azure AD HR-Driven Provisioning](https://www.youtube.com/watch?v=WDXY_mF-Ads)
 - [Azure VM SKU Modifiers](https://www.youtube.com/watch?v=E8Fx0mji5Ss)
-- [ChatGPT Explained](https://www.youtube.com/watch?v=_B3-OtAHzIU)
 
 ## Full Courses
 
@@ -317,6 +317,7 @@
 - [Resize Image By KB](https://resizefile.com/resize-image-by-kb.html)
 - [Subnet Calculator](https://www.subnet-calculator.com/)
 - [Check Internet Speed](https://www.speedcheck.org/)
+- [Using Windows Subsystem for Linux v2](https://www.youtube.com/watch?v=RTv7G79YYPU)
 
 ## Other Stuff
 
