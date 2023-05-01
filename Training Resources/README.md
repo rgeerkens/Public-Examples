@@ -2,6 +2,7 @@
 
 ## Recent Additions
 
+- [Windows Local Administrator Password Solution (LAPS)](https://www.youtube.com/watch?v=QkLwZI76SN4)
 - [Using Windows Subsystem for Linux v2](https://www.youtube.com/watch?v=RTv7G79YYPU)
 - [Finding Duplicate Private Endpoints!](https://www.youtube.com/watch?v=i2xLbNKAqGY)
 - [Azure AD App Proxy Deep Dive](https://www.youtube.com/watch?v=dcAY-qrzTYA)
@@ -12,7 +13,6 @@
 - [Azure AD Dynamic Groups](https://www.youtube.com/watch?v=DkhDM5jJZqM)
 - [Nested Virtualization Overview](https://www.youtube.com/watch?v=hIIzA8Gm4T0)
 - [Azure AD HR-Driven Provisioning](https://www.youtube.com/watch?v=WDXY_mF-Ads)
-- [Azure VM SKU Modifiers](https://www.youtube.com/watch?v=E8Fx0mji5Ss)
 
 ## Full Courses
 
@@ -217,6 +217,7 @@
 - [Active Directory Domain Service Deep Dive](https://www.youtube.com/watch?v=4qC7H-y7oKI)
 - [The Purpose Of Azure ARC](https://www.youtube.com/watch?v=cW6_rvDYSHg&t=18s)
 - [Azure AD App Proxy Deep Dive](https://www.youtube.com/watch?v=dcAY-qrzTYA)
+- [Windows Local Administrator Password Solution (LAPS)](https://www.youtube.com/watch?v=QkLwZI76SN4)
 
 ### Container Courses
 
