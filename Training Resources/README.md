@@ -2,6 +2,7 @@
 
 ## Recent Additions
 
+- [Understanding Azure AD Hybrid Join](https://www.youtube.com/watch?v=Q15ZXyvzQfs)
 - [Windows Local Administrator Password Solution (LAPS)](https://www.youtube.com/watch?v=QkLwZI76SN4)
 - [Using Windows Subsystem for Linux v2](https://www.youtube.com/watch?v=RTv7G79YYPU)
 - [Finding Duplicate Private Endpoints!](https://www.youtube.com/watch?v=i2xLbNKAqGY)
@@ -12,7 +13,6 @@
 - [VMSS Flex Spot Mix](https://www.youtube.com/watch?v=E0Zatk8oamY)
 - [Azure AD Dynamic Groups](https://www.youtube.com/watch?v=DkhDM5jJZqM)
 - [Nested Virtualization Overview](https://www.youtube.com/watch?v=hIIzA8Gm4T0)
-- [Azure AD HR-Driven Provisioning](https://www.youtube.com/watch?v=WDXY_mF-Ads)
 
 ## Full Courses
 
@@ -69,6 +69,7 @@
   - [Azure AD Guest Management](https://www.youtube.com/watch?v=9uhMLrIvPbg)
   - [GitHub Azure AD OIDC Authentication](https://www.youtube.com/watch?v=XkhkkLBkAT4)
   - [Azure AD App Proxy Deep Dive](https://www.youtube.com/watch?v=dcAY-qrzTYA)
+  - [Understanding Azure AD Hybrid Join](https://www.youtube.com/watch?v=Q15ZXyvzQfs)
 - [Azure API Manager](https://docs.microsoft.com/en-us/azure/api-management/api-management-key-concepts)
   - [Azure API Manager Automated Orchestration](https://geerkens-my.sharepoint.com/:v:/g/personal/ronny_geerkens_onmicrosoft_com/Ebys3KEacyZEi9BIjbHsad8BsnukdZ1QnKXSti6G1Czw5Q?e=JBsOgd)
 - [Azure App Service Environment](https://docs.microsoft.com/en-us/azure/app-service/environment/overview)
