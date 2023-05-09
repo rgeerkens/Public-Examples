@@ -2,6 +2,7 @@
 
 ## Recent Additions
 
+- [Setting up Service Health Alerts](https://www.youtube.com/watch?v=KwQBBvyOblk)
 - [Understanding Azure AD Hybrid Join](https://www.youtube.com/watch?v=Q15ZXyvzQfs)
 - [Windows Local Administrator Password Solution (LAPS)](https://www.youtube.com/watch?v=QkLwZI76SN4)
 - [Using Windows Subsystem for Linux v2](https://www.youtube.com/watch?v=RTv7G79YYPU)
@@ -12,7 +13,6 @@
 - [Azure AD Guest Management](https://www.youtube.com/watch?v=9uhMLrIvPbg)
 - [VMSS Flex Spot Mix](https://www.youtube.com/watch?v=E0Zatk8oamY)
 - [Azure AD Dynamic Groups](https://www.youtube.com/watch?v=DkhDM5jJZqM)
-- [Nested Virtualization Overview](https://www.youtube.com/watch?v=hIIzA8Gm4T0)
 
 ## Full Courses
 
@@ -145,6 +145,8 @@
   - [VMSS Flex Spot Mix](https://www.youtube.com/watch?v=E0Zatk8oamY)
 - [Azure Sentinel](https://docs.microsoft.com/en-us/azure/sentinel/overview)
   - [Microsoft Sentinel Bootcamp](https://www.youtube.com/watch?v=NJlaqBaqahc)
+- [Azure Service Health](https://learn.microsoft.com/nl-nl/azure/service-health/)
+  - [Setting up Service Health Alerts](https://www.youtube.com/watch?v=KwQBBvyOblk)
 - [Azure Spot VM](https://docs.microsoft.com/en-us/azure/virtual-machines/spot-vms)
   - [Azure Spot VM Deep Dive](https://www.youtube.com/watch?v=LWA4SCALYCY)
   - [VMSS Flex Spot Mix](https://www.youtube.com/watch?v=E0Zatk8oamY)
