@@ -2,6 +2,7 @@
 
 ## Recent Additions
 
+- [Cold Storage Tier](https://www.youtube.com/watch?v=4dKzFFwtPbA)
 - [Setting up Service Health Alerts](https://www.youtube.com/watch?v=KwQBBvyOblk)
 - [Understanding Azure AD Hybrid Join](https://www.youtube.com/watch?v=Q15ZXyvzQfs)
 - [Windows Local Administrator Password Solution (LAPS)](https://www.youtube.com/watch?v=QkLwZI76SN4)
@@ -12,7 +13,6 @@
 - [GitHub Azure AD OIDC Authentication](https://www.youtube.com/watch?v=XkhkkLBkAT4)
 - [Azure AD Guest Management](https://www.youtube.com/watch?v=9uhMLrIvPbg)
 - [VMSS Flex Spot Mix](https://www.youtube.com/watch?v=E0Zatk8oamY)
-- [Azure AD Dynamic Groups](https://www.youtube.com/watch?v=DkhDM5jJZqM)
 
 ## Full Courses
 
@@ -161,6 +161,7 @@
   - [Native SFTP in Microsoft Azure with Azure Storage](https://www.youtube.com/watch?v=-0PPA0tJLKA)
   - [Blob Point-In-Time Restore Deep Dive](https://www.youtube.com/watch?v=kRfK8sTJoSE)
   - [Premium SSD v2 Quick Peek](https://www.youtube.com/watch?v=GFfztuVtjpI)
+  - [Cold Storage Tier](https://www.youtube.com/watch?v=4dKzFFwtPbA)
 - [Azure Virtual Machines](https://docs.microsoft.com/en-us/azure/virtual-machines/)
   - [Microsoft Azure Managed Disk LIVE Resize](https://www.youtube.com/watch?v=VrtAcOH6S-w)
   - [Multi-Availability Zone Option In Portal For Virtual Machines](https://www.youtube.com/watch?v=4Au2QW6lsYI)
