@@ -2,6 +2,7 @@
 
 ## Recent Additions
 
+- [Using Winget Package Manager in Windows](https://www.youtube.com/watch?v=15fg5-I3CI4)
 - [Cold Storage Tier](https://www.youtube.com/watch?v=4dKzFFwtPbA)
 - [Setting up Service Health Alerts](https://www.youtube.com/watch?v=KwQBBvyOblk)
 - [Understanding Azure AD Hybrid Join](https://www.youtube.com/watch?v=Q15ZXyvzQfs)
@@ -12,7 +13,6 @@
 - [What are Containers? (and Docker ...)](https://www.youtube.com/watch?v=1T2HMSQ2Bs4)
 - [GitHub Azure AD OIDC Authentication](https://www.youtube.com/watch?v=XkhkkLBkAT4)
 - [Azure AD Guest Management](https://www.youtube.com/watch?v=9uhMLrIvPbg)
-- [VMSS Flex Spot Mix](https://www.youtube.com/watch?v=E0Zatk8oamY)
 
 ## Full Courses
 
@@ -258,6 +258,7 @@
 - [Demo Azure Rest API Call](https://github.com/johnthebrit/RandomStuff/blob/master/AzureVMs/CheckCreationDate.ps1)
 - [CRON Expressions](https://www.youtube.com/watch?v=MlNeVGC0GUs)
 - [GitHub Azure AD OIDC Authentication](https://www.youtube.com/watch?v=XkhkkLBkAT4)
+- [Using Winget Package Manager in Windows](https://www.youtube.com/watch?v=15fg5-I3CI4)
 
 ## Books
 
