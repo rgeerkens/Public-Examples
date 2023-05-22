@@ -207,6 +207,7 @@
 - [Microsoft Portals](https://msportals.io/?search=)
 - [Azure Key Vault Explorer](https://github.com/microsoft/AzureKeyVaultExplorer)
 - [Azure VM Selector](https://azure.microsoft.com/en-us/pricing/vm-selector/)
+- [The Azure FinOps Guide](https://techcommunity.microsoft.com/t5/fasttrack-for-azure/the-azure-finops-guide/ba-p/3704132)
 
 ### Office 365 Platform
 
