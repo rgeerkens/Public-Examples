@@ -2,6 +2,7 @@
 
 ## Recent Additions
 
+- [Maximize Azure Reliability](https://www.youtube.com/watch?v=-aOeUed54kg)
 - [Using Winget Package Manager in Windows](https://www.youtube.com/watch?v=15fg5-I3CI4)
 - [Cold Storage Tier](https://www.youtube.com/watch?v=4dKzFFwtPbA)
 - [Setting up Service Health Alerts](https://www.youtube.com/watch?v=KwQBBvyOblk)
@@ -12,7 +13,6 @@
 - [Azure AD App Proxy Deep Dive](https://www.youtube.com/watch?v=dcAY-qrzTYA)
 - [What are Containers? (and Docker ...)](https://www.youtube.com/watch?v=1T2HMSQ2Bs4)
 - [GitHub Azure AD OIDC Authentication](https://www.youtube.com/watch?v=XkhkkLBkAT4)
-- [Azure AD Guest Management](https://www.youtube.com/watch?v=9uhMLrIvPbg)
 
 ## Full Courses
 
@@ -246,6 +246,7 @@
 - [Composite SLA v2](https://www.youtube.com/watch?v=3pSue9nm3Bg)
 - [Technology Choices For Azure Solutions](https://learn.microsoft.com/en-us/azure/architecture/guide/technology-choices/technology-choices-overview)
 - [Nested Virtualization Overview](https://www.youtube.com/watch?v=hIIzA8Gm4T0)
+- [Maximize Azure Reliability](https://www.youtube.com/watch?v=-aOeUed54kg)
 
 ### Infrastructure As Code
 
