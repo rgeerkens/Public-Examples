@@ -2,6 +2,7 @@
 
 ## Recent Additions
 
+- [Application Custom Attribute Driven Conditional Access](https://www.youtube.com/watch?v=VJRj4X5Ypfs)
 - [Maximize Azure Reliability](https://www.youtube.com/watch?v=-aOeUed54kg)
 - [Using Winget Package Manager in Windows](https://www.youtube.com/watch?v=15fg5-I3CI4)
 - [Cold Storage Tier](https://www.youtube.com/watch?v=4dKzFFwtPbA)
@@ -12,7 +13,6 @@
 - [Finding Duplicate Private Endpoints!](https://www.youtube.com/watch?v=i2xLbNKAqGY)
 - [Azure AD App Proxy Deep Dive](https://www.youtube.com/watch?v=dcAY-qrzTYA)
 - [What are Containers? (and Docker ...)](https://www.youtube.com/watch?v=1T2HMSQ2Bs4)
-- [GitHub Azure AD OIDC Authentication](https://www.youtube.com/watch?v=XkhkkLBkAT4)
 
 ## Full Courses
 
@@ -70,6 +70,7 @@
   - [GitHub Azure AD OIDC Authentication](https://www.youtube.com/watch?v=XkhkkLBkAT4)
   - [Azure AD App Proxy Deep Dive](https://www.youtube.com/watch?v=dcAY-qrzTYA)
   - [Understanding Azure AD Hybrid Join](https://www.youtube.com/watch?v=Q15ZXyvzQfs)
+  - [Application Custom Attribute Driven Conditional Access](https://www.youtube.com/watch?v=VJRj4X5Ypfs)
 - [Azure API Manager](https://docs.microsoft.com/en-us/azure/api-management/api-management-key-concepts)
   - [Azure API Manager Automated Orchestration](https://geerkens-my.sharepoint.com/:v:/g/personal/ronny_geerkens_onmicrosoft_com/Ebys3KEacyZEi9BIjbHsad8BsnukdZ1QnKXSti6G1Czw5Q?e=JBsOgd)
 - [Azure App Service Environment](https://docs.microsoft.com/en-us/azure/app-service/environment/overview)
