@@ -2,6 +2,7 @@
 
 ## Recent Additions
 
+- [What happens when multiple conditional access policies apply?](https://www.youtube.com/watch?v=OTvzzopaEBY)
 - [Application Custom Attribute Driven Conditional Access](https://www.youtube.com/watch?v=VJRj4X5Ypfs)
 - [Maximize Azure Reliability](https://www.youtube.com/watch?v=-aOeUed54kg)
 - [Using Winget Package Manager in Windows](https://www.youtube.com/watch?v=15fg5-I3CI4)
@@ -12,7 +13,6 @@
 - [Using Windows Subsystem for Linux v2](https://www.youtube.com/watch?v=RTv7G79YYPU)
 - [Finding Duplicate Private Endpoints!](https://www.youtube.com/watch?v=i2xLbNKAqGY)
 - [Azure AD App Proxy Deep Dive](https://www.youtube.com/watch?v=dcAY-qrzTYA)
-- [What are Containers? (and Docker ...)](https://www.youtube.com/watch?v=1T2HMSQ2Bs4)
 
 ## Full Courses
 
@@ -70,7 +70,6 @@
   - [GitHub Azure AD OIDC Authentication](https://www.youtube.com/watch?v=XkhkkLBkAT4)
   - [Azure AD App Proxy Deep Dive](https://www.youtube.com/watch?v=dcAY-qrzTYA)
   - [Understanding Azure AD Hybrid Join](https://www.youtube.com/watch?v=Q15ZXyvzQfs)
-  - [Application Custom Attribute Driven Conditional Access](https://www.youtube.com/watch?v=VJRj4X5Ypfs)
 - [Azure API Manager](https://docs.microsoft.com/en-us/azure/api-management/api-management-key-concepts)
   - [Azure API Manager Automated Orchestration](https://geerkens-my.sharepoint.com/:v:/g/personal/ronny_geerkens_onmicrosoft_com/Ebys3KEacyZEi9BIjbHsad8BsnukdZ1QnKXSti6G1Czw5Q?e=JBsOgd)
 - [Azure App Service Environment](https://docs.microsoft.com/en-us/azure/app-service/environment/overview)
@@ -85,6 +84,9 @@
   - [Learn Live - Introduction to Azure Arc-enabled data services](https://www.youtube.com/watch?v=mxgmMx_WsCI&list=PLlrxD0HtieHiOKfpI9oWUQ051MLO-BzEt&index=13)
 - [Azure Bastion](https://docs.microsoft.com/en-us/azure/bastion/bastion-overview)
   - [Azure Bastion Deep Dive](https://www.youtube.com/watch?v=lZ_u57gJBNo)
+- [Azure Conditional Access](https://learn.microsoft.com/en-us/azure/active-directory/conditional-access/overview)
+  - [Application Custom Attribute Driven Conditional Access](https://www.youtube.com/watch?v=VJRj4X5Ypfs)
+  - [What happens when multiple conditional access policies apply?](https://www.youtube.com/watch?v=OTvzzopaEBY)
 - [Azure Confidential Computing](https://docs.microsoft.com/en-us/azure/confidential-computing/overview)
   - [Confidential Computing Deep Dive](https://www.youtube.com/watch?v=ZnoFOTbRvRg)
   - [Generation 2 VM and Trusted Launch](https://www.youtube.com/watch?v=SnfBV-YjDWw)
