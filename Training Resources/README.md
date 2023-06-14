@@ -2,6 +2,7 @@
 
 ## Recent Additions
 
+- [Trusting Your Co-Pilot](https://www.youtube.com/watch?v=7zT_T5TtZqs)
 - [Defender For AWS & GCP](https://www.youtube.com/watch?v=PT3dQ6lCOyY)
 - [What happens when multiple conditional access policies apply?](https://www.youtube.com/watch?v=OTvzzopaEBY)
 - [Application Custom Attribute Driven Conditional Access](https://www.youtube.com/watch?v=VJRj4X5Ypfs)
@@ -11,9 +12,6 @@
 - [Setting up Service Health Alerts](https://www.youtube.com/watch?v=KwQBBvyOblk)
 - [Understanding Azure AD Hybrid Join](https://www.youtube.com/watch?v=Q15ZXyvzQfs)
 - [Windows Local Administrator Password Solution (LAPS)](https://www.youtube.com/watch?v=QkLwZI76SN4)
-- [Using Windows Subsystem for Linux v2](https://www.youtube.com/watch?v=RTv7G79YYPU)
-- [Finding Duplicate Private Endpoints!](https://www.youtube.com/watch?v=i2xLbNKAqGY)
-- [Azure AD App Proxy Deep Dive](https://www.youtube.com/watch?v=dcAY-qrzTYA)
 
 ## Full Courses
 
@@ -222,6 +220,7 @@
   - [Managing with Microsoft Graph (and PowerShell)](https://www.youtube.com/watch?v=bF8vkzXJsAY)
 - [Windows Autopatch Service](https://www.youtube.com/watch?v=5uJB1q_iSsI)
 - [Relationship Between Logic Apps & Power Automate](https://www.youtube.com/watch?v=3OixNSZkcuo)
+- [Trusting Your Co-Pilot](https://www.youtube.com/watch?v=7zT_T5TtZqs)
 
 ### On-Premise Services
 
