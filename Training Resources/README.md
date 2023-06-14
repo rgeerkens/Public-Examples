@@ -2,6 +2,7 @@
 
 ## Recent Additions
 
+- [Defender For AWS & GCP](https://www.youtube.com/watch?v=PT3dQ6lCOyY)
 - [What happens when multiple conditional access policies apply?](https://www.youtube.com/watch?v=OTvzzopaEBY)
 - [Application Custom Attribute Driven Conditional Access](https://www.youtube.com/watch?v=VJRj4X5Ypfs)
 - [Maximize Azure Reliability](https://www.youtube.com/watch?v=-aOeUed54kg)
@@ -94,6 +95,8 @@
   - [Azure Data Explorer Overview](https://www.youtube.com/watch?v=2wFC9Kiu6Q8)
 - [Azure Data Lake](https://docs.microsoft.com/en-us/azure/storage/blobs/data-lake-storage-introduction)
   - [Azure Data Lake Storage Gen 2 Overview](https://www.youtube.com/watch?v=NHn5GAkvlwg)
+- [Azure Defender](https://learn.microsoft.com/en-us/azure/defender-for-cloud/defender-for-cloud-introduction)
+  - [Defender For AWS & GCP](https://www.youtube.com/watch?v=PT3dQ6lCOyY)
 - [Azure DNS](https://docs.microsoft.com/en-us/azure/dns/dns-overview)
   - [Azure DNS Private Resolver Deep Dive](https://www.youtube.com/watch?v=V8ChsYAyxTc)
   - [Private Endpoint DNS Exploration](https://www.youtube.com/watch?v=rXbamGNz-xQ)
