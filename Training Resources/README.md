@@ -2,6 +2,7 @@
 
 ## Recent Additions
 
+- [What is BareMetal Infrastructure on Azure?](https://www.youtube.com/watch?v=-2NXqnFH6JY)
 - [Trusting Your Co-Pilot](https://www.youtube.com/watch?v=7zT_T5TtZqs)
 - [Defender For AWS & GCP](https://www.youtube.com/watch?v=PT3dQ6lCOyY)
 - [What happens when multiple conditional access policies apply?](https://www.youtube.com/watch?v=OTvzzopaEBY)
@@ -11,7 +12,6 @@
 - [Cold Storage Tier](https://www.youtube.com/watch?v=4dKzFFwtPbA)
 - [Setting up Service Health Alerts](https://www.youtube.com/watch?v=KwQBBvyOblk)
 - [Understanding Azure AD Hybrid Join](https://www.youtube.com/watch?v=Q15ZXyvzQfs)
-- [Windows Local Administrator Password Solution (LAPS)](https://www.youtube.com/watch?v=QkLwZI76SN4)
 
 ## Full Courses
 
@@ -252,6 +252,7 @@
 - [Technology Choices For Azure Solutions](https://learn.microsoft.com/en-us/azure/architecture/guide/technology-choices/technology-choices-overview)
 - [Nested Virtualization Overview](https://www.youtube.com/watch?v=hIIzA8Gm4T0)
 - [Maximize Azure Reliability](https://www.youtube.com/watch?v=-aOeUed54kg)
+- [What is BareMetal Infrastructure on Azure?](https://www.youtube.com/watch?v=-2NXqnFH6JY)
 
 ### Infrastructure As Code
 
