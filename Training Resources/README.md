@@ -2,6 +2,7 @@
 
 ## Recent Additions
 
+- [Azure Container Storage Solution](https://www.youtube.com/watch?v=mXH7FUIfoMs)
 - [What is BareMetal Infrastructure on Azure?](https://www.youtube.com/watch?v=-2NXqnFH6JY)
 - [Trusting Your Co-Pilot](https://www.youtube.com/watch?v=7zT_T5TtZqs)
 - [Defender For AWS & GCP](https://www.youtube.com/watch?v=PT3dQ6lCOyY)
@@ -11,7 +12,6 @@
 - [Using Winget Package Manager in Windows](https://www.youtube.com/watch?v=15fg5-I3CI4)
 - [Cold Storage Tier](https://www.youtube.com/watch?v=4dKzFFwtPbA)
 - [Setting up Service Health Alerts](https://www.youtube.com/watch?v=KwQBBvyOblk)
-- [Understanding Azure AD Hybrid Join](https://www.youtube.com/watch?v=Q15ZXyvzQfs)
 
 ## Full Courses
 
@@ -89,6 +89,8 @@
 - [Azure Confidential Computing](https://docs.microsoft.com/en-us/azure/confidential-computing/overview)
   - [Confidential Computing Deep Dive](https://www.youtube.com/watch?v=ZnoFOTbRvRg)
   - [Generation 2 VM and Trusted Launch](https://www.youtube.com/watch?v=SnfBV-YjDWw)
+- [Azure Container Storage](https://learn.microsoft.com/en-us/azure/storage/container-storage/container-storage-introduction)
+  - [Azure Container Storage Solution](https://www.youtube.com/watch?v=mXH7FUIfoMs)
 - [Azure Data Explorer-ADX](https://learn.microsoft.com/en-us/azure/data-explorer/data-explorer-overview)
   - [Azure Data Explorer Overview](https://www.youtube.com/watch?v=2wFC9Kiu6Q8)
 - [Azure Data Lake](https://docs.microsoft.com/en-us/azure/storage/blobs/data-lake-storage-introduction)
