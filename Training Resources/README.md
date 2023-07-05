@@ -2,6 +2,7 @@
 
 ## Recent Additions
 
+- [Azure Chaos Studio Example](https://www.youtube.com/watch?v=IkEQm6m46Ow)
 - [Azure Container Storage Solution](https://www.youtube.com/watch?v=mXH7FUIfoMs)
 - [What is BareMetal Infrastructure on Azure?](https://www.youtube.com/watch?v=-2NXqnFH6JY)
 - [Trusting Your Co-Pilot](https://www.youtube.com/watch?v=7zT_T5TtZqs)
@@ -11,7 +12,6 @@
 - [Maximize Azure Reliability](https://www.youtube.com/watch?v=-aOeUed54kg)
 - [Using Winget Package Manager in Windows](https://www.youtube.com/watch?v=15fg5-I3CI4)
 - [Cold Storage Tier](https://www.youtube.com/watch?v=4dKzFFwtPbA)
-- [Setting up Service Health Alerts](https://www.youtube.com/watch?v=KwQBBvyOblk)
 
 ## Full Courses
 
@@ -83,6 +83,8 @@
   - [Learn Live - Introduction to Azure Arc-enabled data services](https://www.youtube.com/watch?v=mxgmMx_WsCI&list=PLlrxD0HtieHiOKfpI9oWUQ051MLO-BzEt&index=13)
 - [Azure Bastion](https://docs.microsoft.com/en-us/azure/bastion/bastion-overview)
   - [Azure Bastion Deep Dive](https://www.youtube.com/watch?v=lZ_u57gJBNo)
+- [Azure Chaos Studio](https://learn.microsoft.com/en-us/azure/chaos-studio/)
+  - [Azure Chaos Studio Example](https://www.youtube.com/watch?v=IkEQm6m46Ow)
 - [Azure Conditional Access](https://learn.microsoft.com/en-us/azure/active-directory/conditional-access/overview)
   - [Application Custom Attribute Driven Conditional Access](https://www.youtube.com/watch?v=VJRj4X5Ypfs)
   - [What happens when multiple conditional access policies apply?](https://www.youtube.com/watch?v=OTvzzopaEBY)
