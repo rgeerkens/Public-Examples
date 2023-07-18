@@ -2,6 +2,7 @@
 
 ## Recent Additions
 
+- [Azure Deployment Environments Demo](https://geerkens-my.sharepoint.com/:v:/g/personal/ronny_geerkens_onmicrosoft_com/ETQxNGV2DmFHtn4SP9AAd_0BtyhmPVfUfZRQVGxgJxlkUQ?e=Axcpyg)
 - [Protect all Applications with Microsoft Entra](https://www.youtube.com/watch?v=VJNMJQCmtuY)
 - [Azure Chaos Studio Example](https://www.youtube.com/watch?v=IkEQm6m46Ow)
 - [Azure Container Storage Solution](https://www.youtube.com/watch?v=mXH7FUIfoMs)
@@ -11,7 +12,6 @@
 - [What happens when multiple conditional access policies apply?](https://www.youtube.com/watch?v=OTvzzopaEBY)
 - [Application Custom Attribute Driven Conditional Access](https://www.youtube.com/watch?v=VJRj4X5Ypfs)
 - [Maximize Azure Reliability](https://www.youtube.com/watch?v=-aOeUed54kg)
-- [Using Winget Package Manager in Windows](https://www.youtube.com/watch?v=15fg5-I3CI4)
 
 ## Full Courses
 
@@ -100,6 +100,8 @@
   - [Azure Data Lake Storage Gen 2 Overview](https://www.youtube.com/watch?v=NHn5GAkvlwg)
 - [Azure Defender](https://learn.microsoft.com/en-us/azure/defender-for-cloud/defender-for-cloud-introduction)
   - [Defender For AWS & GCP](https://www.youtube.com/watch?v=PT3dQ6lCOyY)
+- [Azure Deployment Environments](https://learn.microsoft.com/en-us/azure/deployment-environments/overview-what-is-azure-deployment-environments)
+  - [Azure Deployment Environments Demo](https://geerkens-my.sharepoint.com/:v:/g/personal/ronny_geerkens_onmicrosoft_com/ETQxNGV2DmFHtn4SP9AAd_0BtyhmPVfUfZRQVGxgJxlkUQ?e=Axcpyg)
 - [Azure DNS](https://docs.microsoft.com/en-us/azure/dns/dns-overview)
   - [Azure DNS Private Resolver Deep Dive](https://www.youtube.com/watch?v=V8ChsYAyxTc)
   - [Private Endpoint DNS Exploration](https://www.youtube.com/watch?v=rXbamGNz-xQ)
