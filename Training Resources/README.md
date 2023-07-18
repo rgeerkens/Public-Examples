@@ -2,6 +2,7 @@
 
 ## Recent Additions
 
+- [Azure AD PowerShell Module Migration](https://www.youtube.com/watch?v=EiD6CbbBLMs)
 - [AI-102 Azure AI Engineer Associate Certification - Summary](https://www.youtube.com/watch?v=I7fdWafTcPY)
 - [Azure Deployment Environments Demo](https://geerkens-my.sharepoint.com/:v:/g/personal/ronny_geerkens_onmicrosoft_com/ETQxNGV2DmFHtn4SP9AAd_0BtyhmPVfUfZRQVGxgJxlkUQ?e=Axcpyg)
 - [Protect all Applications with Microsoft Entra](https://www.youtube.com/watch?v=VJNMJQCmtuY)
@@ -11,7 +12,6 @@
 - [Trusting Your Co-Pilot](https://www.youtube.com/watch?v=7zT_T5TtZqs)
 - [Defender For AWS & GCP](https://www.youtube.com/watch?v=PT3dQ6lCOyY)
 - [What happens when multiple conditional access policies apply?](https://www.youtube.com/watch?v=OTvzzopaEBY)
-- [Application Custom Attribute Driven Conditional Access](https://www.youtube.com/watch?v=VJRj4X5Ypfs)
 
 ## Full Courses
 
@@ -71,6 +71,7 @@
   - [Azure AD App Proxy Deep Dive](https://www.youtube.com/watch?v=dcAY-qrzTYA)
   - [Understanding Azure AD Hybrid Join](https://www.youtube.com/watch?v=Q15ZXyvzQfs)
   - [Protect all Applications with Microsoft Entra](https://www.youtube.com/watch?v=VJNMJQCmtuY)
+  - [Azure AD PowerShell Module Migration](https://www.youtube.com/watch?v=EiD6CbbBLMs)
 - [Azure API Manager](https://docs.microsoft.com/en-us/azure/api-management/api-management-key-concepts)
   - [Azure API Manager Automated Orchestration](https://geerkens-my.sharepoint.com/:v:/g/personal/ronny_geerkens_onmicrosoft_com/Ebys3KEacyZEi9BIjbHsad8BsnukdZ1QnKXSti6G1Czw5Q?e=JBsOgd)
 - [Azure App Service Environment](https://docs.microsoft.com/en-us/azure/app-service/environment/overview)
