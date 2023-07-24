@@ -2,6 +2,7 @@
 
 ## Recent Additions
 
+- [Control Azure Tooling Access](https://www.youtube.com/watch?v=D8DTlqSK0ic)
 - [Azure AD PowerShell Module Migration](https://www.youtube.com/watch?v=EiD6CbbBLMs)
 - [AI-102 Azure AI Engineer Associate Certification - Summary](https://www.youtube.com/watch?v=I7fdWafTcPY)
 - [Azure Deployment Environments Demo](https://geerkens-my.sharepoint.com/:v:/g/personal/ronny_geerkens_onmicrosoft_com/ETQxNGV2DmFHtn4SP9AAd_0BtyhmPVfUfZRQVGxgJxlkUQ?e=Axcpyg)
@@ -11,7 +12,6 @@
 - [What is BareMetal Infrastructure on Azure?](https://www.youtube.com/watch?v=-2NXqnFH6JY)
 - [Trusting Your Co-Pilot](https://www.youtube.com/watch?v=7zT_T5TtZqs)
 - [Defender For AWS & GCP](https://www.youtube.com/watch?v=PT3dQ6lCOyY)
-- [What happens when multiple conditional access policies apply?](https://www.youtube.com/watch?v=OTvzzopaEBY)
 
 ## Full Courses
 
@@ -91,6 +91,7 @@
 - [Azure Conditional Access](https://learn.microsoft.com/en-us/azure/active-directory/conditional-access/overview)
   - [Application Custom Attribute Driven Conditional Access](https://www.youtube.com/watch?v=VJRj4X5Ypfs)
   - [What happens when multiple conditional access policies apply?](https://www.youtube.com/watch?v=OTvzzopaEBY)
+  - [Control Azure Tooling Access](https://www.youtube.com/watch?v=D8DTlqSK0ic)
 - [Azure Confidential Computing](https://docs.microsoft.com/en-us/azure/confidential-computing/overview)
   - [Confidential Computing Deep Dive](https://www.youtube.com/watch?v=ZnoFOTbRvRg)
   - [Generation 2 VM and Trusted Launch](https://www.youtube.com/watch?v=SnfBV-YjDWw)
