@@ -2,6 +2,7 @@
 
 ## Recent Additions
 
+- [Microsoft Entra ID Governance Overview](https://www.youtube.com/watch?v=LJ7eVCRGAgk)
 - [Control Azure Tooling Access](https://www.youtube.com/watch?v=D8DTlqSK0ic)
 - [Azure AD PowerShell Module Migration](https://www.youtube.com/watch?v=EiD6CbbBLMs)
 - [AI-102 Azure AI Engineer Associate Certification - Summary](https://www.youtube.com/watch?v=I7fdWafTcPY)
@@ -11,7 +12,6 @@
 - [Azure Container Storage Solution](https://www.youtube.com/watch?v=mXH7FUIfoMs)
 - [What is BareMetal Infrastructure on Azure?](https://www.youtube.com/watch?v=-2NXqnFH6JY)
 - [Trusting Your Co-Pilot](https://www.youtube.com/watch?v=7zT_T5TtZqs)
-- [Defender For AWS & GCP](https://www.youtube.com/watch?v=PT3dQ6lCOyY)
 
 ## Full Courses
 
@@ -72,6 +72,7 @@
   - [Understanding Azure AD Hybrid Join](https://www.youtube.com/watch?v=Q15ZXyvzQfs)
   - [Protect all Applications with Microsoft Entra](https://www.youtube.com/watch?v=VJNMJQCmtuY)
   - [Azure AD PowerShell Module Migration](https://www.youtube.com/watch?v=EiD6CbbBLMs)
+  - [Microsoft Entra ID Governance Overview](https://www.youtube.com/watch?v=LJ7eVCRGAgk)
 - [Azure API Manager](https://docs.microsoft.com/en-us/azure/api-management/api-management-key-concepts)
   - [Azure API Manager Automated Orchestration](https://geerkens-my.sharepoint.com/:v:/g/personal/ronny_geerkens_onmicrosoft_com/Ebys3KEacyZEi9BIjbHsad8BsnukdZ1QnKXSti6G1Czw5Q?e=JBsOgd)
 - [Azure App Service Environment](https://docs.microsoft.com/en-us/azure/app-service/environment/overview)
