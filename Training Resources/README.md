@@ -2,6 +2,7 @@
 
 ## Recent Additions
 
+- [Identity Governance Automation with Azure Logic Apps](https://www.youtube.com/watch?v=Cb6ZbcpYpkQ)
 - [Microsoft Entra ID Governance Overview](https://www.youtube.com/watch?v=LJ7eVCRGAgk)
 - [Control Azure Tooling Access](https://www.youtube.com/watch?v=D8DTlqSK0ic)
 - [Azure AD PowerShell Module Migration](https://www.youtube.com/watch?v=EiD6CbbBLMs)
@@ -11,7 +12,6 @@
 - [Azure Chaos Studio Example](https://www.youtube.com/watch?v=IkEQm6m46Ow)
 - [Azure Container Storage Solution](https://www.youtube.com/watch?v=mXH7FUIfoMs)
 - [What is BareMetal Infrastructure on Azure?](https://www.youtube.com/watch?v=-2NXqnFH6JY)
-- [Trusting Your Co-Pilot](https://www.youtube.com/watch?v=7zT_T5TtZqs)
 
 ## Full Courses
 
@@ -73,6 +73,7 @@
   - [Protect all Applications with Microsoft Entra](https://www.youtube.com/watch?v=VJNMJQCmtuY)
   - [Azure AD PowerShell Module Migration](https://www.youtube.com/watch?v=EiD6CbbBLMs)
   - [Microsoft Entra ID Governance Overview](https://www.youtube.com/watch?v=LJ7eVCRGAgk)
+  - [Identity Governance Automation with Azure Logic Apps](https://www.youtube.com/watch?v=Cb6ZbcpYpkQ)
 - [Azure API Manager](https://docs.microsoft.com/en-us/azure/api-management/api-management-key-concepts)
   - [Azure API Manager Automated Orchestration](https://geerkens-my.sharepoint.com/:v:/g/personal/ronny_geerkens_onmicrosoft_com/Ebys3KEacyZEi9BIjbHsad8BsnukdZ1QnKXSti6G1Czw5Q?e=JBsOgd)
 - [Azure App Service Environment](https://docs.microsoft.com/en-us/azure/app-service/environment/overview)
