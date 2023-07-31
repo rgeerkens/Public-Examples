@@ -2,6 +2,7 @@
 
 ## Recent Additions
 
+- [Azure Application Gateway for Containers Solution](https://www.youtube.com/watch?v=slCjHV8z9Wk)
 - [Identity Governance Automation with Azure Logic Apps](https://www.youtube.com/watch?v=Cb6ZbcpYpkQ)
 - [Microsoft Entra ID Governance Overview](https://www.youtube.com/watch?v=LJ7eVCRGAgk)
 - [Control Azure Tooling Access](https://www.youtube.com/watch?v=D8DTlqSK0ic)
@@ -11,7 +12,6 @@
 - [Protect all Applications with Microsoft Entra](https://www.youtube.com/watch?v=VJNMJQCmtuY)
 - [Azure Chaos Studio Example](https://www.youtube.com/watch?v=IkEQm6m46Ow)
 - [Azure Container Storage Solution](https://www.youtube.com/watch?v=mXH7FUIfoMs)
-- [What is BareMetal Infrastructure on Azure?](https://www.youtube.com/watch?v=-2NXqnFH6JY)
 
 ## Full Courses
 
@@ -80,6 +80,7 @@
   - [Azure App Service Environment (ASE) v3 Walkthrough](https://www.youtube.com/watch?v=mtCN5yGwqe0)
 - [Azure Application Gateway](https://docs.microsoft.com/en-us/azure/application-gateway/overview)
   - [Azure Application Gateway Deep Dive](https://www.youtube.com/watch?v=B3O6bXu-NbM)
+  - [Azure Application Gateway for Containers Solution](https://www.youtube.com/watch?v=slCjHV8z9Wk)
 - [Azure ARC](https://docs.microsoft.com/en-us/azure/azure-arc/overview)
   - [The Purpose Of Azure ARC](https://www.youtube.com/watch?v=cW6_rvDYSHg&t=18s)
   - [Bare Metal And Azure ARC](https://www.youtube.com/watch?v=405qOUBnbsg)
