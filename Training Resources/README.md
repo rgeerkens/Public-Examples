@@ -2,6 +2,7 @@
 
 ## Recent Additions
 
+- [Bulk Enabling Service Health Alerts](https://www.youtube.com/watch?v=OMfznjNeL0A)
 - [Azure Application Gateway for Containers Solution](https://www.youtube.com/watch?v=slCjHV8z9Wk)
 - [Identity Governance Automation with Azure Logic Apps](https://www.youtube.com/watch?v=Cb6ZbcpYpkQ)
 - [Microsoft Entra ID Governance Overview](https://www.youtube.com/watch?v=LJ7eVCRGAgk)
@@ -11,7 +12,6 @@
 - [Azure Deployment Environments Demo](https://geerkens-my.sharepoint.com/:v:/g/personal/ronny_geerkens_onmicrosoft_com/ETQxNGV2DmFHtn4SP9AAd_0BtyhmPVfUfZRQVGxgJxlkUQ?e=Axcpyg)
 - [Protect all Applications with Microsoft Entra](https://www.youtube.com/watch?v=VJNMJQCmtuY)
 - [Azure Chaos Studio Example](https://www.youtube.com/watch?v=IkEQm6m46Ow)
-- [Azure Container Storage Solution](https://www.youtube.com/watch?v=mXH7FUIfoMs)
 
 ## Full Courses
 
@@ -164,6 +164,7 @@
   - [Microsoft Sentinel Bootcamp](https://www.youtube.com/watch?v=NJlaqBaqahc)
 - [Azure Service Health](https://learn.microsoft.com/nl-nl/azure/service-health/)
   - [Setting up Service Health Alerts](https://www.youtube.com/watch?v=KwQBBvyOblk)
+  - [Bulk Enabling Service Health Alerts](https://www.youtube.com/watch?v=OMfznjNeL0A)
 - [Azure Spot VM](https://docs.microsoft.com/en-us/azure/virtual-machines/spot-vms)
   - [Azure Spot VM Deep Dive](https://www.youtube.com/watch?v=LWA4SCALYCY)
   - [VMSS Flex Spot Mix](https://www.youtube.com/watch?v=E0Zatk8oamY)
