@@ -2,6 +2,7 @@
 
 ## Recent Additions
 
+- [Azure Traffic Manager Deep Dive](https://www.youtube.com/watch?v=PfZPuBt50ps)
 - [Bulk Enabling Service Health Alerts](https://www.youtube.com/watch?v=OMfznjNeL0A)
 - [Azure Application Gateway for Containers Solution](https://www.youtube.com/watch?v=slCjHV8z9Wk)
 - [Identity Governance Automation with Azure Logic Apps](https://www.youtube.com/watch?v=Cb6ZbcpYpkQ)
@@ -11,7 +12,6 @@
 - [AI-102 Azure AI Engineer Associate Certification - Summary](https://www.youtube.com/watch?v=I7fdWafTcPY)
 - [Azure Deployment Environments Demo](https://geerkens-my.sharepoint.com/:v:/g/personal/ronny_geerkens_onmicrosoft_com/ETQxNGV2DmFHtn4SP9AAd_0BtyhmPVfUfZRQVGxgJxlkUQ?e=Axcpyg)
 - [Protect all Applications with Microsoft Entra](https://www.youtube.com/watch?v=VJNMJQCmtuY)
-- [Azure Chaos Studio Example](https://www.youtube.com/watch?v=IkEQm6m46Ow)
 
 ## Full Courses
 
@@ -180,6 +180,8 @@
   - [Blob Point-In-Time Restore Deep Dive](https://www.youtube.com/watch?v=kRfK8sTJoSE)
   - [Premium SSD v2 Quick Peek](https://www.youtube.com/watch?v=GFfztuVtjpI)
   - [Cold Storage Tier](https://www.youtube.com/watch?v=4dKzFFwtPbA)
+- [Azure Traffic Manager](https://learn.microsoft.com/en-us/azure/traffic-manager/traffic-manager-overview)
+  - [Azure Traffic Manager Deep Dive](https://www.youtube.com/watch?v=PfZPuBt50ps)
 - [Azure Virtual Machines](https://docs.microsoft.com/en-us/azure/virtual-machines/)
   - [Microsoft Azure Managed Disk LIVE Resize](https://www.youtube.com/watch?v=VrtAcOH6S-w)
   - [Multi-Availability Zone Option In Portal For Virtual Machines](https://www.youtube.com/watch?v=4Au2QW6lsYI)
