@@ -2,6 +2,7 @@
 
 ## Recent Additions
 
+- [Microsoft Purview Overview](https://www.youtube.com/watch?v=nfP7t8jy0aE)
 - [Microsoft Entra Protected Actions](https://www.youtube.com/watch?v=jMe9qaAKfd4)
 - [Microsoft Entra Security Service Edge Overview](https://www.youtube.com/watch?v=4RVkbKjeU10)
 - [Azure Traffic Manager Deep Dive](https://www.youtube.com/watch?v=PfZPuBt50ps)
@@ -11,7 +12,6 @@
 - [Microsoft Entra ID Governance Overview](https://www.youtube.com/watch?v=LJ7eVCRGAgk)
 - [Control Azure Tooling Access](https://www.youtube.com/watch?v=D8DTlqSK0ic)
 - [Azure AD PowerShell Module Migration](https://www.youtube.com/watch?v=EiD6CbbBLMs)
-- [AI-102 Azure AI Engineer Associate Certification - Summary](https://www.youtube.com/watch?v=I7fdWafTcPY)
 
 ## Full Courses
 
@@ -148,15 +148,17 @@
   - [Kusto Query Language Overview](https://www.youtube.com/watch?v=Pl8n6GaWEo0)
 - [Azure Netapp Files](https://docs.microsoft.com/en-us/azure/azure-netapp-files/azure-netapp-files-introduction)
   - [Azure NetApp Files Deep Dive](https://www.youtube.com/watch?v=OwajZ48Pa0c)
-- [Azure Private Link](https://docs.microsoft.com/en-us/azure/private-link/private-link-overview)
-  - [Private Endpoint DNS Exploration](https://www.youtube.com/watch?v=rXbamGNz-xQ)
-  - [Microsoft Azure Private Link Deep Dive](https://www.youtube.com/watch?v=57ZwdztCx2w)
-  - [Finding Duplicate Private Endpoints!](https://www.youtube.com/watch?v=i2xLbNKAqGY)
 - [Azure Policy](https://docs.microsoft.com/en-us/azure/governance/policy/overview)
   - [Azure Policy Remediation Deep Dive](https://www.youtube.com/watch?v=fhIn_kHz4hk)
   - [Anatomy of Azure Policy](https://www.youtube.com/watch?v=4wGns611G4w)
   - [Detailed look at Azure Policy Exemption Permission Requirements](https://www.youtube.com/watch?v=clAu7VqpacA)
   - [Block Deletes Using the New DenyAction Azure Policy Effect](https://www.youtube.com/watch?v=ZVshBqY8kts)
+- [Azure Private Link](https://docs.microsoft.com/en-us/azure/private-link/private-link-overview)
+  - [Private Endpoint DNS Exploration](https://www.youtube.com/watch?v=rXbamGNz-xQ)
+  - [Microsoft Azure Private Link Deep Dive](https://www.youtube.com/watch?v=57ZwdztCx2w)
+  - [Finding Duplicate Private Endpoints!](https://www.youtube.com/watch?v=i2xLbNKAqGY)
+- [Microsoft Purview](https://learn.microsoft.com/en-us/purview/purview)
+  - [Microsoft Purview Overview](https://www.youtube.com/watch?v=nfP7t8jy0aE)
 - [Azure Route Server](https://docs.microsoft.com/en-us/azure/route-server/overview)
   - [Azure Route Server Overview](https://www.youtube.com/watch?v=c1f4rmkrF6M)
 - [Azure Scale Sets](https://docs.microsoft.com/en-us/azure/virtual-machine-scale-sets/overview)
