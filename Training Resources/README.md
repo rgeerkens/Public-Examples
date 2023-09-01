@@ -2,6 +2,7 @@
 
 ## Recent Additions
 
+- [Finding Conditional Access Gaps](https://www.youtube.com/watch?v=Hge4HsvDjTU)
 - [Microsoft Entra API-Driven Provisioning](https://www.youtube.com/watch?v=olkOYEyJB1o)
 - [Reset External/Guest Redemption](https://www.youtube.com/watch?v=aCow4GD6Yes)
 - [Microsoft Purview Overview](https://www.youtube.com/watch?v=nfP7t8jy0aE)
@@ -11,7 +12,6 @@
 - [Bulk Enabling Service Health Alerts](https://www.youtube.com/watch?v=OMfznjNeL0A)
 - [Azure Application Gateway for Containers Solution](https://www.youtube.com/watch?v=slCjHV8z9Wk)
 - [Identity Governance Automation with Azure Logic Apps](https://www.youtube.com/watch?v=Cb6ZbcpYpkQ)
-- [Microsoft Entra ID Governance Overview](https://www.youtube.com/watch?v=LJ7eVCRGAgk)
 
 ## Full Courses
 
@@ -99,6 +99,7 @@
   - [Application Custom Attribute Driven Conditional Access](https://www.youtube.com/watch?v=VJRj4X5Ypfs)
   - [What happens when multiple conditional access policies apply?](https://www.youtube.com/watch?v=OTvzzopaEBY)
   - [Control Azure Tooling Access](https://www.youtube.com/watch?v=D8DTlqSK0ic)
+  - [Finding Conditional Access Gaps](https://www.youtube.com/watch?v=Hge4HsvDjTU)
 - [Azure Confidential Computing](https://docs.microsoft.com/en-us/azure/confidential-computing/overview)
   - [Confidential Computing Deep Dive](https://www.youtube.com/watch?v=ZnoFOTbRvRg)
   - [Generation 2 VM and Trusted Launch](https://www.youtube.com/watch?v=SnfBV-YjDWw)
