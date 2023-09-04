@@ -2,6 +2,7 @@
 
 ## Recent Additions
 
+- [Azure Arc-Enabled Servers Walkthrough](https://www.youtube.com/watch?v=OHs1txVKPHw)
 - [Finding Conditional Access Gaps](https://www.youtube.com/watch?v=Hge4HsvDjTU)
 - [Microsoft Entra API-Driven Provisioning](https://www.youtube.com/watch?v=olkOYEyJB1o)
 - [Reset External/Guest Redemption](https://www.youtube.com/watch?v=aCow4GD6Yes)
@@ -11,7 +12,6 @@
 - [Azure Traffic Manager Deep Dive](https://www.youtube.com/watch?v=PfZPuBt50ps)
 - [Bulk Enabling Service Health Alerts](https://www.youtube.com/watch?v=OMfznjNeL0A)
 - [Azure Application Gateway for Containers Solution](https://www.youtube.com/watch?v=slCjHV8z9Wk)
-- [Identity Governance Automation with Azure Logic Apps](https://www.youtube.com/watch?v=Cb6ZbcpYpkQ)
 
 ## Full Courses
 
@@ -91,6 +91,7 @@
   - [Azure ARC - Jumpstart ArcBox](https://azurearcjumpstart.io/azure_jumpstart_arcbox/)
   - [Introduction to Azure Arc enabled servers](https://www.youtube.com/watch?v=l4YLl3x_h7A)
   - [Learn Live - Introduction to Azure Arc-enabled data services](https://www.youtube.com/watch?v=mxgmMx_WsCI&list=PLlrxD0HtieHiOKfpI9oWUQ051MLO-BzEt&index=13)
+  - [Azure Arc-Enabled Servers Walkthrough](https://www.youtube.com/watch?v=OHs1txVKPHw)
 - [Azure Bastion](https://docs.microsoft.com/en-us/azure/bastion/bastion-overview)
   - [Azure Bastion Deep Dive](https://www.youtube.com/watch?v=lZ_u57gJBNo)
 - [Azure Chaos Studio](https://learn.microsoft.com/en-us/azure/chaos-studio/)
