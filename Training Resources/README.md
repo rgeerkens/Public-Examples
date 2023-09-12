@@ -2,6 +2,7 @@
 
 ## Recent Additions
 
+- [Harvard CS50 - Full Computer Science University Course](https://www.youtube.com/watch?v=8mAITcNt710&list=WL&index=16)
 - [Introduction to Cloud](https://www.youtube.com/watch?v=h9maVWcHwIY)
 - [Azure Arc-Enabled Servers Walkthrough](https://www.youtube.com/watch?v=OHs1txVKPHw)
 - [Finding Conditional Access Gaps](https://www.youtube.com/watch?v=Hge4HsvDjTU)
@@ -11,7 +12,6 @@
 - [Microsoft Entra Protected Actions](https://www.youtube.com/watch?v=jMe9qaAKfd4)
 - [Microsoft Entra Security Service Edge Overview](https://www.youtube.com/watch?v=4RVkbKjeU10)
 - [Azure Traffic Manager Deep Dive](https://www.youtube.com/watch?v=PfZPuBt50ps)
-- [Bulk Enabling Service Health Alerts](https://www.youtube.com/watch?v=OMfznjNeL0A)
 
 ## Full Courses
 
@@ -291,6 +291,9 @@
 - [CRON Expressions](https://www.youtube.com/watch?v=MlNeVGC0GUs)
 - [GitHub Azure AD OIDC Authentication](https://www.youtube.com/watch?v=XkhkkLBkAT4)
 - [Using Winget Package Manager in Windows](https://www.youtube.com/watch?v=15fg5-I3CI4)
+
+### Harvard CS50 Courses
+- [Harvard CS50 - Full Computer Science University Course](https://www.youtube.com/watch?v=8mAITcNt710&list=WL&index=16)
 
 ## Books
 
