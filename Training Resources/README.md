@@ -2,6 +2,7 @@
 
 ## Recent Additions
 
+- [Introduction to Cloud](https://www.youtube.com/watch?v=h9maVWcHwIY)
 - [Azure Arc-Enabled Servers Walkthrough](https://www.youtube.com/watch?v=OHs1txVKPHw)
 - [Finding Conditional Access Gaps](https://www.youtube.com/watch?v=Hge4HsvDjTU)
 - [Microsoft Entra API-Driven Provisioning](https://www.youtube.com/watch?v=olkOYEyJB1o)
@@ -11,7 +12,6 @@
 - [Microsoft Entra Security Service Edge Overview](https://www.youtube.com/watch?v=4RVkbKjeU10)
 - [Azure Traffic Manager Deep Dive](https://www.youtube.com/watch?v=PfZPuBt50ps)
 - [Bulk Enabling Service Health Alerts](https://www.youtube.com/watch?v=OMfznjNeL0A)
-- [Azure Application Gateway for Containers Solution](https://www.youtube.com/watch?v=slCjHV8z9Wk)
 
 ## Full Courses
 
@@ -277,6 +277,7 @@
 - [Nested Virtualization Overview](https://www.youtube.com/watch?v=hIIzA8Gm4T0)
 - [Maximize Azure Reliability](https://www.youtube.com/watch?v=-aOeUed54kg)
 - [What is BareMetal Infrastructure on Azure?](https://www.youtube.com/watch?v=-2NXqnFH6JY)
+- [Introduction to Cloud](https://www.youtube.com/watch?v=h9maVWcHwIY)
 
 ### Infrastructure As Code
 
