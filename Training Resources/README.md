@@ -2,6 +2,7 @@
 
 ## Recent Additions
 
+- [Harvard CS50 - Artificial Intelligence With Python](https://www.youtube.com/watch?v=5NgNicANyqM&list=WL&index=3)
 - [Harvard CS50 - Full Computer Science University Course](https://www.youtube.com/watch?v=8mAITcNt710&list=WL&index=16)
 - [Introduction to Cloud](https://www.youtube.com/watch?v=h9maVWcHwIY)
 - [Azure Arc-Enabled Servers Walkthrough](https://www.youtube.com/watch?v=OHs1txVKPHw)
@@ -11,7 +12,6 @@
 - [Microsoft Purview Overview](https://www.youtube.com/watch?v=nfP7t8jy0aE)
 - [Microsoft Entra Protected Actions](https://www.youtube.com/watch?v=jMe9qaAKfd4)
 - [Microsoft Entra Security Service Edge Overview](https://www.youtube.com/watch?v=4RVkbKjeU10)
-- [Azure Traffic Manager Deep Dive](https://www.youtube.com/watch?v=PfZPuBt50ps)
 
 ## Full Courses
 
@@ -294,6 +294,7 @@
 
 ### Harvard CS50 Courses
 - [Harvard CS50 - Full Computer Science University Course](https://www.youtube.com/watch?v=8mAITcNt710&list=WL&index=16)
+- [Harvard CS50 - Artificial Intelligence With Python](https://www.youtube.com/watch?v=5NgNicANyqM&list=WL&index=3)
 
 ## Books
 
