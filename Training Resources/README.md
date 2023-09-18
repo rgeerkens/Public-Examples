@@ -252,6 +252,7 @@
 - [The Purpose Of Azure ARC](https://www.youtube.com/watch?v=cW6_rvDYSHg&t=18s)
 - [Azure AD App Proxy Deep Dive](https://www.youtube.com/watch?v=dcAY-qrzTYA)
 - [Windows Local Administrator Password Solution (LAPS)](https://www.youtube.com/watch?v=QkLwZI76SN4)
+- [Windows/SQL 2012 End-Of-Life Options](https://www.youtube.com/watch?v=AU1ywaQ3ejg)
 
 ### Container Courses
 
