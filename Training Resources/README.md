@@ -2,6 +2,7 @@
 
 ## Recent Additions
 
+- [Understanding Multi-Tenant Organizations](https://www.youtube.com/watch?v=SLgA4JeJWkE)
 - [Harvard CS50 - Artificial Intelligence With Python](https://www.youtube.com/watch?v=5NgNicANyqM&list=WL&index=3)
 - [Harvard CS50 - Full Computer Science University Course](https://www.youtube.com/watch?v=8mAITcNt710&list=WL&index=16)
 - [Introduction to Cloud](https://www.youtube.com/watch?v=h9maVWcHwIY)
@@ -11,7 +12,6 @@
 - [Reset External/Guest Redemption](https://www.youtube.com/watch?v=aCow4GD6Yes)
 - [Microsoft Purview Overview](https://www.youtube.com/watch?v=nfP7t8jy0aE)
 - [Microsoft Entra Protected Actions](https://www.youtube.com/watch?v=jMe9qaAKfd4)
-- [Microsoft Entra Security Service Edge Overview](https://www.youtube.com/watch?v=4RVkbKjeU10)
 
 ## Full Courses
 
@@ -218,6 +218,7 @@
 - [Overview of Azure Hybrid Benefit](https://www.youtube.com/watch?v=dt4LDm-ptQk)
 - [Azure Datacenter Architecture](https://www.youtube.com/watch?v=69PrhWQorEM)
 - [Azure VM SKU Modifiers](https://www.youtube.com/watch?v=E8Fx0mji5Ss)
+- [Understanding Multi-Tenant Organizations](https://www.youtube.com/watch?v=SLgA4JeJWkE)
 
 ### Azure Workbooks & Tools
 
