@@ -2,6 +2,7 @@
 
 ## Recent Additions
 
+- [Azure Arc-Enabled VMware vSphere Walkthrough](https://www.youtube.com/watch?v=geuQ6fIsivg)
 - [Microsoft Entra ID Governance License](https://www.youtube.com/watch?v=yqiZhVdo6WE)
 - [Understanding Multi-Tenant Organizations](https://www.youtube.com/watch?v=SLgA4JeJWkE)
 - [Harvard CS50 - Artificial Intelligence With Python](https://www.youtube.com/watch?v=5NgNicANyqM&list=WL&index=3)
@@ -11,7 +12,6 @@
 - [Finding Conditional Access Gaps](https://www.youtube.com/watch?v=Hge4HsvDjTU)
 - [Microsoft Entra API-Driven Provisioning](https://www.youtube.com/watch?v=olkOYEyJB1o)
 - [Reset External/Guest Redemption](https://www.youtube.com/watch?v=aCow4GD6Yes)
-- [Microsoft Purview Overview](https://www.youtube.com/watch?v=nfP7t8jy0aE)
 
 ## Full Courses
 
@@ -93,6 +93,7 @@
   - [Introduction to Azure Arc enabled servers](https://www.youtube.com/watch?v=l4YLl3x_h7A)
   - [Learn Live - Introduction to Azure Arc-enabled data services](https://www.youtube.com/watch?v=mxgmMx_WsCI&list=PLlrxD0HtieHiOKfpI9oWUQ051MLO-BzEt&index=13)
   - [Azure Arc-Enabled Servers Walkthrough](https://www.youtube.com/watch?v=OHs1txVKPHw)
+  - [Azure Arc-Enabled VMware vSphere Walkthrough](https://www.youtube.com/watch?v=geuQ6fIsivg)
 - [Azure Bastion](https://docs.microsoft.com/en-us/azure/bastion/bastion-overview)
   - [Azure Bastion Deep Dive](https://www.youtube.com/watch?v=lZ_u57gJBNo)
 - [Azure Chaos Studio](https://learn.microsoft.com/en-us/azure/chaos-studio/)
