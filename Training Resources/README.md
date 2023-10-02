@@ -2,6 +2,7 @@
 
 ## Recent Additions
 
+- [Deployment Stacks Deep Dive](https://www.youtube.com/watch?v=d1AE8qLwBYw)
 - [Azure Arc-Enabled VMware vSphere Walkthrough](https://www.youtube.com/watch?v=geuQ6fIsivg)
 - [Microsoft Entra ID Governance License](https://www.youtube.com/watch?v=yqiZhVdo6WE)
 - [Understanding Multi-Tenant Organizations](https://www.youtube.com/watch?v=SLgA4JeJWkE)
@@ -11,7 +12,6 @@
 - [Azure Arc-Enabled Servers Walkthrough](https://www.youtube.com/watch?v=OHs1txVKPHw)
 - [Finding Conditional Access Gaps](https://www.youtube.com/watch?v=Hge4HsvDjTU)
 - [Microsoft Entra API-Driven Provisioning](https://www.youtube.com/watch?v=olkOYEyJB1o)
-- [Reset External/Guest Redemption](https://www.youtube.com/watch?v=aCow4GD6Yes)
 
 ## Full Courses
 
@@ -295,6 +295,7 @@
 - [CRON Expressions](https://www.youtube.com/watch?v=MlNeVGC0GUs)
 - [GitHub Azure AD OIDC Authentication](https://www.youtube.com/watch?v=XkhkkLBkAT4)
 - [Using Winget Package Manager in Windows](https://www.youtube.com/watch?v=15fg5-I3CI4)
+- [Deployment Stacks Deep Dive](https://www.youtube.com/watch?v=d1AE8qLwBYw)
 
 ### Harvard CS50 Courses
 - [Harvard CS50 - Full Computer Science University Course](https://www.youtube.com/watch?v=8mAITcNt710&list=WL&index=16)
