@@ -2,6 +2,7 @@
 
 ## Recent Additions
 
+- [Azure VM Internet Access Options](https://www.youtube.com/watch?v=9f826wanFtw)
 - [Deployment Stacks Deep Dive](https://www.youtube.com/watch?v=d1AE8qLwBYw)
 - [Azure Arc-Enabled VMware vSphere Walkthrough](https://www.youtube.com/watch?v=geuQ6fIsivg)
 - [Microsoft Entra ID Governance License](https://www.youtube.com/watch?v=yqiZhVdo6WE)
@@ -11,7 +12,6 @@
 - [Introduction to Cloud](https://www.youtube.com/watch?v=h9maVWcHwIY)
 - [Azure Arc-Enabled Servers Walkthrough](https://www.youtube.com/watch?v=OHs1txVKPHw)
 - [Finding Conditional Access Gaps](https://www.youtube.com/watch?v=Hge4HsvDjTU)
-- [Microsoft Entra API-Driven Provisioning](https://www.youtube.com/watch?v=olkOYEyJB1o)
 
 ## Full Courses
 
@@ -196,6 +196,7 @@
   - [Microsoft Azure Managed Disk LIVE Resize](https://www.youtube.com/watch?v=VrtAcOH6S-w)
   - [Multi-Availability Zone Option In Portal For Virtual Machines](https://www.youtube.com/watch?v=4Au2QW6lsYI)
   - [Azure VM Isolation Options](https://www.youtube.com/watch?v=aL63LSZT480)
+  - [Azure VM Internet Access Options](https://www.youtube.com/watch?v=9f826wanFtw)
 - [Azure Virtual Network (vNet)](https://docs.microsoft.com/en-us/azure/virtual-network/virtual-networks-overview)
   - [Peered Virtual Network Address Space Modify in Microsoft Azure](https://www.youtube.com/watch?v=nldYMGd82EY)
   - [Azure Virtual Network Manager Deep Dive](https://www.youtube.com/watch?v=qNn83S55WHQ)
