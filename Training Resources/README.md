@@ -2,6 +2,7 @@
 
 ## Recent Additions
 
+- [Azure Update Manager 2023 Edition](https://www.youtube.com/watch?v=LVmNh5YgBOQ)
 - [Azure VM Internet Access Options](https://www.youtube.com/watch?v=9f826wanFtw)
 - [Deployment Stacks Deep Dive](https://www.youtube.com/watch?v=d1AE8qLwBYw)
 - [Azure Arc-Enabled VMware vSphere Walkthrough](https://www.youtube.com/watch?v=geuQ6fIsivg)
@@ -11,7 +12,6 @@
 - [Harvard CS50 - Full Computer Science University Course](https://www.youtube.com/watch?v=8mAITcNt710&list=WL&index=16)
 - [Introduction to Cloud](https://www.youtube.com/watch?v=h9maVWcHwIY)
 - [Azure Arc-Enabled Servers Walkthrough](https://www.youtube.com/watch?v=OHs1txVKPHw)
-- [Finding Conditional Access Gaps](https://www.youtube.com/watch?v=Hge4HsvDjTU)
 
 ## Full Courses
 
@@ -192,6 +192,8 @@
   - [Cold Storage Tier](https://www.youtube.com/watch?v=4dKzFFwtPbA)
 - [Azure Traffic Manager](https://learn.microsoft.com/en-us/azure/traffic-manager/traffic-manager-overview)
   - [Azure Traffic Manager Deep Dive](https://www.youtube.com/watch?v=PfZPuBt50ps)
+- [Azure Update Manager](https://learn.microsoft.com/en-us/azure/update-center/overview?tabs=azure-vms)
+  - [Azure Update Manager 2023 Edition](https://www.youtube.com/watch?v=LVmNh5YgBOQ)
 - [Azure Virtual Machines](https://docs.microsoft.com/en-us/azure/virtual-machines/)
   - [Microsoft Azure Managed Disk LIVE Resize](https://www.youtube.com/watch?v=VrtAcOH6S-w)
   - [Multi-Availability Zone Option In Portal For Virtual Machines](https://www.youtube.com/watch?v=4Au2QW6lsYI)
