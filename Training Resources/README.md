@@ -2,6 +2,7 @@
 
 ## Recent Additions
 
+- [Azure SQL High Availability and Disaster Recovery](https://www.youtube.com/watch?v=-HTYxfXW3Fo)
 - [Integrating Privileged Identity Management with Conditional Access](https://www.youtube.com/watch?v=6gHzKX3cnCY)
 - [Azure Update Manager 2023 Edition](https://www.youtube.com/watch?v=LVmNh5YgBOQ)
 - [Azure VM Internet Access Options](https://www.youtube.com/watch?v=9f826wanFtw)
@@ -11,7 +12,6 @@
 - [Understanding Multi-Tenant Organizations](https://www.youtube.com/watch?v=SLgA4JeJWkE)
 - [Harvard CS50 - Artificial Intelligence With Python](https://www.youtube.com/watch?v=5NgNicANyqM&list=WL&index=3)
 - [Harvard CS50 - Full Computer Science University Course](https://www.youtube.com/watch?v=8mAITcNt710&list=WL&index=16)
-- [Introduction to Cloud](https://www.youtube.com/watch?v=h9maVWcHwIY)
 
 ## Full Courses
 
@@ -182,6 +182,7 @@
   - [VMSS Flex Spot Mix](https://www.youtube.com/watch?v=E0Zatk8oamY)
 - [Azure SQL](https://learn.microsoft.com/en-us/azure/azure-sql/azure-sql-iaas-vs-paas-what-is-overview?view=azuresql)
   - [Azure SQL IaaS VM Extension Overview](https://www.youtube.com/watch?v=ckSvoe6Ho3g)
+  - [Azure SQL High Availability and Disaster Recovery](https://www.youtube.com/watch?v=-HTYxfXW3Fo)
 - [Azure Static Web Apps](https://docs.microsoft.com/en-us/azure/static-web-apps/overview)
   - [Azure Static Web Apps Deep Dive](https://www.youtube.com/watch?v=8SjErjeCdu0)
 - [Azure Storage Accounts / Disks](https://docs.microsoft.com/en-us/azure/storage/common/storage-account-overview)
