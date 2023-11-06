@@ -2,6 +2,7 @@
 
 ## Recent Additions
 
+- [Adopting Azure for your Organization](https://www.youtube.com/watch?v=T7neX1i6iF0)
 - [Azure Arc-Enabled System Center Virtual Machine Manager](https://www.youtube.com/watch?v=vn4p1qmpmy4)
 - [Azure SQL High Availability and Disaster Recovery](https://www.youtube.com/watch?v=-HTYxfXW3Fo)
 - [Integrating Privileged Identity Management with Conditional Access](https://www.youtube.com/watch?v=6gHzKX3cnCY)
@@ -11,7 +12,6 @@
 - [Azure Arc-Enabled VMware vSphere Walkthrough](https://www.youtube.com/watch?v=geuQ6fIsivg)
 - [Microsoft Entra ID Governance License](https://www.youtube.com/watch?v=yqiZhVdo6WE)
 - [Understanding Multi-Tenant Organizations](https://www.youtube.com/watch?v=SLgA4JeJWkE)
-- [Harvard CS50 - Artificial Intelligence With Python](https://www.youtube.com/watch?v=5NgNicANyqM&list=WL&index=3)
 
 ## Full Courses
 
@@ -228,6 +228,7 @@
 - [Azure Datacenter Architecture](https://www.youtube.com/watch?v=69PrhWQorEM)
 - [Azure VM SKU Modifiers](https://www.youtube.com/watch?v=E8Fx0mji5Ss)
 - [Understanding Multi-Tenant Organizations](https://www.youtube.com/watch?v=SLgA4JeJWkE)
+- [Adopting Azure for your Organization](https://www.youtube.com/watch?v=T7neX1i6iF0)
 
 ### Azure Workbooks & Tools
 
