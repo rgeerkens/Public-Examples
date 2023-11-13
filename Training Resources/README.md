@@ -2,6 +2,7 @@
 
 ## Recent Additions
 
+- [System Center Operations Manager Managed Instance](https://www.youtube.com/watch?v=XCVroOEzu50)
 - [Adopting Azure for your Organization](https://www.youtube.com/watch?v=T7neX1i6iF0)
 - [Azure Arc-Enabled System Center Virtual Machine Manager](https://www.youtube.com/watch?v=vn4p1qmpmy4)
 - [Azure SQL High Availability and Disaster Recovery](https://www.youtube.com/watch?v=-HTYxfXW3Fo)
@@ -11,7 +12,6 @@
 - [Deployment Stacks Deep Dive](https://www.youtube.com/watch?v=d1AE8qLwBYw)
 - [Azure Arc-Enabled VMware vSphere Walkthrough](https://www.youtube.com/watch?v=geuQ6fIsivg)
 - [Microsoft Entra ID Governance License](https://www.youtube.com/watch?v=yqiZhVdo6WE)
-- [Understanding Multi-Tenant Organizations](https://www.youtube.com/watch?v=SLgA4JeJWkE)
 
 ## Full Courses
 
@@ -173,6 +173,8 @@
 - [Azure Scale Sets](https://docs.microsoft.com/en-us/azure/virtual-machine-scale-sets/overview)
   - [VMSS Flex Overview](https://www.youtube.com/watch?v=2BrckSF7ICI)
   - [VMSS Flex Spot Mix](https://www.youtube.com/watch?v=E0Zatk8oamY)
+- [Azure SCOM Managed Instance](https://learn.microsoft.com/en-us/azure/azure-monitor/vm/scom-managed-instance-overview)
+  - [System Center Operations Manager Managed Instance](https://www.youtube.com/watch?v=XCVroOEzu50)
 - [Azure Sentinel](https://docs.microsoft.com/en-us/azure/sentinel/overview)
   - [Microsoft Sentinel Bootcamp](https://www.youtube.com/watch?v=NJlaqBaqahc)
 - [Azure Service Health](https://learn.microsoft.com/nl-nl/azure/service-health/)
