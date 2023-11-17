@@ -2,6 +2,7 @@
 
 ## Recent Additions
 
+- [Microsoft Ignite 2023 Book Of News](https://news.microsoft.com/ignite-2023-book-of-news/)
 - [System Center Operations Manager Managed Instance](https://www.youtube.com/watch?v=XCVroOEzu50)
 - [Adopting Azure for your Organization](https://www.youtube.com/watch?v=T7neX1i6iF0)
 - [Azure Arc-Enabled System Center Virtual Machine Manager](https://www.youtube.com/watch?v=vn4p1qmpmy4)
@@ -11,7 +12,6 @@
 - [Azure VM Internet Access Options](https://www.youtube.com/watch?v=9f826wanFtw)
 - [Deployment Stacks Deep Dive](https://www.youtube.com/watch?v=d1AE8qLwBYw)
 - [Azure Arc-Enabled VMware vSphere Walkthrough](https://www.youtube.com/watch?v=geuQ6fIsivg)
-- [Microsoft Entra ID Governance License](https://www.youtube.com/watch?v=yqiZhVdo6WE)
 
 ## Full Courses
 
