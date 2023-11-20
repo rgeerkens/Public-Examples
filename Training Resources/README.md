@@ -2,6 +2,7 @@
 
 ## Recent Additions
 
+- [Using the Well-Architected Framework](https://www.youtube.com/watch?v=vTjasx3ahjM)
 - [Microsoft Ignite 2023 Book Of News](https://news.microsoft.com/ignite-2023-book-of-news/)
 - [System Center Operations Manager Managed Instance](https://www.youtube.com/watch?v=XCVroOEzu50)
 - [Adopting Azure for your Organization](https://www.youtube.com/watch?v=T7neX1i6iF0)
@@ -11,7 +12,6 @@
 - [Azure Update Manager 2023 Edition](https://www.youtube.com/watch?v=LVmNh5YgBOQ)
 - [Azure VM Internet Access Options](https://www.youtube.com/watch?v=9f826wanFtw)
 - [Deployment Stacks Deep Dive](https://www.youtube.com/watch?v=d1AE8qLwBYw)
-- [Azure Arc-Enabled VMware vSphere Walkthrough](https://www.youtube.com/watch?v=geuQ6fIsivg)
 
 ## Full Courses
 
@@ -292,6 +292,7 @@
 - [Maximize Azure Reliability](https://www.youtube.com/watch?v=-aOeUed54kg)
 - [What is BareMetal Infrastructure on Azure?](https://www.youtube.com/watch?v=-2NXqnFH6JY)
 - [Introduction to Cloud](https://www.youtube.com/watch?v=h9maVWcHwIY)
+- [Using the Well-Architected Framework](https://www.youtube.com/watch?v=vTjasx3ahjM)
 
 ### Infrastructure As Code
 
