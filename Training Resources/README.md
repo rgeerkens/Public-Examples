@@ -293,6 +293,7 @@
 - [Maximize Azure Reliability](https://www.youtube.com/watch?v=-aOeUed54kg)
 - [What is BareMetal Infrastructure on Azure?](https://www.youtube.com/watch?v=-2NXqnFH6JY)
 - [Introduction to Cloud](https://www.youtube.com/watch?v=h9maVWcHwIY)
+- [Find out what the terms used with Generative AI mean](https://www.youtube.com/watch?v=orLGv2LgWDE)
 - [Using the Well-Architected Framework](https://www.youtube.com/watch?v=vTjasx3ahjM)
 - [Microsoft Security Reference Architecture](https://www.youtube.com/playlist?list=PLtVMyW0H7aiOQwZSsn2d-tg2z729ce1BZ)
 
