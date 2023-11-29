@@ -2,6 +2,7 @@
 
 ## Recent Additions
 
+- [AI-900 - Learning About Generative AI](https://www.youtube.com/watch?v=Ch6KE7KxHGM)
 - [Microsoft Security Reference Architecture](https://www.youtube.com/playlist?list=PLtVMyW0H7aiOQwZSsn2d-tg2z729ce1BZ)
 - [Using the Well-Architected Framework](https://www.youtube.com/watch?v=vTjasx3ahjM)
 - [Microsoft Ignite 2023 Book Of News](https://news.microsoft.com/ignite-2023-book-of-news/)
@@ -12,7 +13,6 @@
 - [Integrating Privileged Identity Management with Conditional Access](https://www.youtube.com/watch?v=6gHzKX3cnCY)
 - [Azure Update Manager 2023 Edition](https://www.youtube.com/watch?v=LVmNh5YgBOQ)
 - [Azure VM Internet Access Options](https://www.youtube.com/watch?v=9f826wanFtw)
-- [Deployment Stacks Deep Dive](https://www.youtube.com/watch?v=d1AE8qLwBYw)
 
 ## Full Courses
 
@@ -34,6 +34,7 @@
 - [AZ-700 Designing And Implement Azure Networking - Summary](https://www.youtube.com/watch?v=nVZYDhB_M64)
 - [MS-700 Managing Microsoft Teams - Full Course](https://www.youtube.com/watch?v=-Gs3dmS-jnE)
 - [AI-900 Azure Artifical Intelligence Fundamentals](https://www.youtube.com/watch?v=E9aarWMLJw0)
+- [AI-900 - Learning About Generative AI](https://www.youtube.com/watch?v=Ch6KE7KxHGM)
 - [AZ-900 Azure Fundamentals - Full Course](https://www.youtube.com/playlist?list=PLlVtbbG169nED0_vMEniWBQjSoxTsBYS3)
 - [AZ-900 Azure Fundamentals - Hands-On Approach](https://www.youtube.com/watch?v=j26eNpUU0zM)
 - [AZ-900 Azure Fundamentals - Summary](https://www.youtube.com/watch?v=tQp1YkB2Tgs)
