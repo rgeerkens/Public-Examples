@@ -2,6 +2,7 @@
 
 ## Recent Additions
 
+- [Using Your Own Data with Large Language Models](https://www.youtube.com/watch?v=D8N44J5-6TM)
 - [A Walkthrough of Azure Copilot](https://www.youtube.com/watch?v=-qZZnwgb2ss)
 - [AI-900 - Learning About Generative AI](https://www.youtube.com/watch?v=Ch6KE7KxHGM)
 - [Microsoft Security Reference Architecture](https://www.youtube.com/playlist?list=PLtVMyW0H7aiOQwZSsn2d-tg2z729ce1BZ)
@@ -12,7 +13,7 @@
 - [Azure Arc-Enabled System Center Virtual Machine Manager](https://www.youtube.com/watch?v=vn4p1qmpmy4)
 - [Azure SQL High Availability and Disaster Recovery](https://www.youtube.com/watch?v=-HTYxfXW3Fo)
 - [Integrating Privileged Identity Management with Conditional Access](https://www.youtube.com/watch?v=6gHzKX3cnCY)
-- [Azure Update Manager 2023 Edition](https://www.youtube.com/watch?v=LVmNh5YgBOQ)
+
 
 ## Full Courses
 
@@ -233,7 +234,6 @@
 - [Azure VM SKU Modifiers](https://www.youtube.com/watch?v=E8Fx0mji5Ss)
 - [Understanding Multi-Tenant Organizations](https://www.youtube.com/watch?v=SLgA4JeJWkE)
 - [Adopting Azure for your Organization](https://www.youtube.com/watch?v=T7neX1i6iF0)
-- [A Walkthrough of Azure Copilot](https://www.youtube.com/watch?v=-qZZnwgb2ss)
 
 ### Azure Workbooks & Tools
 
@@ -252,6 +252,15 @@
 - [Azure Key Vault Explorer](https://github.com/microsoft/AzureKeyVaultExplorer)
 - [Azure VM Selector](https://azure.microsoft.com/en-us/pricing/vm-selector/)
 - [The Azure FinOps Guide](https://techcommunity.microsoft.com/t5/fasttrack-for-azure/the-azure-finops-guide/ba-p/3704132)
+
+## Artificial Intelligence 
+
+- [ChatGPT Explained](https://www.youtube.com/watch?v=_B3-OtAHzIU)
+- [AI-900 Azure Artifical Intelligence Fundamentals](https://www.youtube.com/watch?v=E9aarWMLJw0)
+- [Find out what the terms used with Generative AI mean](https://www.youtube.com/watch?v=orLGv2LgWDE)
+- [Harvard CS50 - Artificial Intelligence With Python](https://www.youtube.com/watch?v=5NgNicANyqM&list=WL&index=3)
+- [A Walkthrough of Azure Copilot](https://www.youtube.com/watch?v=-qZZnwgb2ss)
+- [Using Your Own Data with Large Language Models](https://www.youtube.com/watch?v=D8N44J5-6TM)
 
 ### Office 365 Platform
 
@@ -295,7 +304,6 @@
 - [Maximize Azure Reliability](https://www.youtube.com/watch?v=-aOeUed54kg)
 - [What is BareMetal Infrastructure on Azure?](https://www.youtube.com/watch?v=-2NXqnFH6JY)
 - [Introduction to Cloud](https://www.youtube.com/watch?v=h9maVWcHwIY)
-- [Find out what the terms used with Generative AI mean](https://www.youtube.com/watch?v=orLGv2LgWDE)
 - [Using the Well-Architected Framework](https://www.youtube.com/watch?v=vTjasx3ahjM)
 - [Microsoft Security Reference Architecture](https://www.youtube.com/playlist?list=PLtVMyW0H7aiOQwZSsn2d-tg2z729ce1BZ)
 
@@ -401,4 +409,3 @@
 - [How DNS Works](https://www.youtube.com/watch?v=Ah7fYex6Ups)
 - [How GitHub builds GitHub](https://www.youtube.com/watch?v=1LoZvxoWVow)
 - [How Encryption Works](https://www.youtube.com/watch?v=h1qf_tBaXtg)
-- [ChatGPT Explained](https://www.youtube.com/watch?v=_B3-OtAHzIU)
