@@ -2,6 +2,7 @@
 
 ## Recent Additions
 
+- [Microsoft Loop - A Smarter Way to OneNote](https://www.youtube.com/watch?v=tKuF_eoA7rU)
 - [Using Your Own Data with Large Language Models](https://www.youtube.com/watch?v=D8N44J5-6TM)
 - [A Walkthrough of Azure Copilot](https://www.youtube.com/watch?v=-qZZnwgb2ss)
 - [AI-900 - Learning About Generative AI](https://www.youtube.com/watch?v=Ch6KE7KxHGM)
@@ -12,7 +13,6 @@
 - [Adopting Azure for your Organization](https://www.youtube.com/watch?v=T7neX1i6iF0)
 - [Azure Arc-Enabled System Center Virtual Machine Manager](https://www.youtube.com/watch?v=vn4p1qmpmy4)
 - [Azure SQL High Availability and Disaster Recovery](https://www.youtube.com/watch?v=-HTYxfXW3Fo)
-- [Integrating Privileged Identity Management with Conditional Access](https://www.youtube.com/watch?v=6gHzKX3cnCY)
 
 
 ## Full Courses
@@ -270,6 +270,7 @@
 - [Windows Autopatch Service](https://www.youtube.com/watch?v=5uJB1q_iSsI)
 - [Relationship Between Logic Apps & Power Automate](https://www.youtube.com/watch?v=3OixNSZkcuo)
 - [Trusting Your Co-Pilot](https://www.youtube.com/watch?v=7zT_T5TtZqs)
+- [Microsoft Loop - A Smarter Way to OneNote](https://www.youtube.com/watch?v=tKuF_eoA7rU)
 
 ### On-Premise Services
 
