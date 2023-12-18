@@ -2,6 +2,7 @@
 
 ## Recent Additions
 
+- [Deep Dive on Microsoft Entra Internet Access](https://www.youtube.com/watch?v=844s2bpA1aU)
 - [Microsoft Loop - A Smarter Way to OneNote](https://www.youtube.com/watch?v=tKuF_eoA7rU)
 - [Using Your Own Data with Large Language Models](https://www.youtube.com/watch?v=D8N44J5-6TM)
 - [A Walkthrough of Azure Copilot](https://www.youtube.com/watch?v=-qZZnwgb2ss)
@@ -12,7 +13,6 @@
 - [System Center Operations Manager Managed Instance](https://www.youtube.com/watch?v=XCVroOEzu50)
 - [Adopting Azure for your Organization](https://www.youtube.com/watch?v=T7neX1i6iF0)
 - [Azure Arc-Enabled System Center Virtual Machine Manager](https://www.youtube.com/watch?v=vn4p1qmpmy4)
-- [Azure SQL High Availability and Disaster Recovery](https://www.youtube.com/watch?v=-HTYxfXW3Fo)
 
 
 ## Full Courses
@@ -83,6 +83,7 @@
   - [Microsoft Entra API-Driven Provisioning](https://www.youtube.com/watch?v=olkOYEyJB1o)
   - [Microsoft Entra ID Governance License](https://www.youtube.com/watch?v=yqiZhVdo6WE)
   - [Integrating Privileged Identity Management with Conditional Access](https://www.youtube.com/watch?v=6gHzKX3cnCY)
+  - [Deep Dive on Microsoft Entra Internet Access](https://www.youtube.com/watch?v=844s2bpA1aU)
 - [Azure API Manager](https://docs.microsoft.com/en-us/azure/api-management/api-management-key-concepts)
   - [Azure API Manager Automated Orchestration](https://geerkens-my.sharepoint.com/:v:/g/personal/ronny_geerkens_onmicrosoft_com/Ebys3KEacyZEi9BIjbHsad8BsnukdZ1QnKXSti6G1Czw5Q?e=JBsOgd)
 - [Azure App Service Environment](https://docs.microsoft.com/en-us/azure/app-service/environment/overview)
