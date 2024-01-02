@@ -2,6 +2,7 @@
 
 ## Recent Additions
 
+- [Conditional Access Filters and Templates](https://www.youtube.com/watch?v=PwBg3J4PSCA)
 - [Azure Stack HCI Walkthrough](https://www.youtube.com/watch?v=_iGb7oYYa30)
 - [Deep Dive on Microsoft Entra Internet Access](https://www.youtube.com/watch?v=844s2bpA1aU)
 - [Microsoft Loop - A Smarter Way to OneNote](https://www.youtube.com/watch?v=tKuF_eoA7rU)
@@ -12,7 +13,6 @@
 - [Using the Well-Architected Framework](https://www.youtube.com/watch?v=vTjasx3ahjM)
 - [Microsoft Ignite 2023 Book Of News](https://news.microsoft.com/ignite-2023-book-of-news/)
 - [System Center Operations Manager Managed Instance](https://www.youtube.com/watch?v=XCVroOEzu50)
-- [Adopting Azure for your Organization](https://www.youtube.com/watch?v=T7neX1i6iF0)
 
 
 ## Full Courses
@@ -110,6 +110,7 @@
   - [Control Azure Tooling Access](https://www.youtube.com/watch?v=D8DTlqSK0ic)
   - [Finding Conditional Access Gaps](https://www.youtube.com/watch?v=Hge4HsvDjTU)
   - [Integrating Privileged Identity Management with Conditional Access](https://www.youtube.com/watch?v=6gHzKX3cnCY)
+  - [Conditional Access Filters and Templates](https://www.youtube.com/watch?v=PwBg3J4PSCA)
 - [Azure Confidential Computing](https://docs.microsoft.com/en-us/azure/confidential-computing/overview)
   - [Confidential Computing Deep Dive](https://www.youtube.com/watch?v=ZnoFOTbRvRg)
   - [Generation 2 VM and Trusted Launch](https://www.youtube.com/watch?v=SnfBV-YjDWw)
