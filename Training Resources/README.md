@@ -2,6 +2,7 @@
 
 ## Recent Additions
 
+- [Complete Azure Stack HCI Install!](https://www.youtube.com/watch?v=12Zoayvrols)
 - [Conditional Access Filters and Templates](https://www.youtube.com/watch?v=PwBg3J4PSCA)
 - [Azure Stack HCI Walkthrough](https://www.youtube.com/watch?v=_iGb7oYYa30)
 - [Deep Dive on Microsoft Entra Internet Access](https://www.youtube.com/watch?v=844s2bpA1aU)
@@ -12,7 +13,6 @@
 - [Microsoft Security Reference Architecture](https://www.youtube.com/playlist?list=PLtVMyW0H7aiOQwZSsn2d-tg2z729ce1BZ)
 - [Using the Well-Architected Framework](https://www.youtube.com/watch?v=vTjasx3ahjM)
 - [Microsoft Ignite 2023 Book Of News](https://news.microsoft.com/ignite-2023-book-of-news/)
-- [System Center Operations Manager Managed Instance](https://www.youtube.com/watch?v=XCVroOEzu50)
 
 
 ## Full Courses
@@ -237,6 +237,7 @@
 - [Understanding Multi-Tenant Organizations](https://www.youtube.com/watch?v=SLgA4JeJWkE)
 - [Adopting Azure for your Organization](https://www.youtube.com/watch?v=T7neX1i6iF0)
 - [Azure Stack HCI Walkthrough](https://www.youtube.com/watch?v=_iGb7oYYa30)
+- [Complete Azure Stack HCI Install!](https://www.youtube.com/watch?v=12Zoayvrols)
 
 ### Azure Workbooks & Tools
 
