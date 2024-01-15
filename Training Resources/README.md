@@ -2,6 +2,7 @@
 
 ## Recent Additions
 
+- [Deep Dive on Microsoft Entra Private Access](https://www.youtube.com/watch?v=RsxxsEzQhrM)
 - [Complete Azure Stack HCI Install!](https://www.youtube.com/watch?v=12Zoayvrols)
 - [Conditional Access Filters and Templates](https://www.youtube.com/watch?v=PwBg3J4PSCA)
 - [Azure Stack HCI Walkthrough](https://www.youtube.com/watch?v=_iGb7oYYa30)
@@ -12,7 +13,6 @@
 - [AI-900 - Learning About Generative AI](https://www.youtube.com/watch?v=Ch6KE7KxHGM)
 - [Microsoft Security Reference Architecture](https://www.youtube.com/playlist?list=PLtVMyW0H7aiOQwZSsn2d-tg2z729ce1BZ)
 - [Using the Well-Architected Framework](https://www.youtube.com/watch?v=vTjasx3ahjM)
-- [Microsoft Ignite 2023 Book Of News](https://news.microsoft.com/ignite-2023-book-of-news/)
 
 
 ## Full Courses
@@ -84,6 +84,7 @@
   - [Microsoft Entra ID Governance License](https://www.youtube.com/watch?v=yqiZhVdo6WE)
   - [Integrating Privileged Identity Management with Conditional Access](https://www.youtube.com/watch?v=6gHzKX3cnCY)
   - [Deep Dive on Microsoft Entra Internet Access](https://www.youtube.com/watch?v=844s2bpA1aU)
+  - [Deep Dive on Microsoft Entra Private Access](https://www.youtube.com/watch?v=RsxxsEzQhrM)
 - [Azure API Manager](https://docs.microsoft.com/en-us/azure/api-management/api-management-key-concepts)
   - [Azure API Manager Automated Orchestration](https://geerkens-my.sharepoint.com/:v:/g/personal/ronny_geerkens_onmicrosoft_com/Ebys3KEacyZEi9BIjbHsad8BsnukdZ1QnKXSti6G1Czw5Q?e=JBsOgd)
 - [Azure App Service Environment](https://docs.microsoft.com/en-us/azure/app-service/environment/overview)
