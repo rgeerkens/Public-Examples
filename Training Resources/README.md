@@ -267,6 +267,7 @@
 - [A Walkthrough of Azure Copilot](https://www.youtube.com/watch?v=-qZZnwgb2ss)
 - [Using Your Own Data with Large Language Models](https://www.youtube.com/watch?v=D8N44J5-6TM)
 - [Build Your Own IT Support Chatbot with Azure OpenAI](https://www.youtube.com/watch?v=p3zTNhccmoM)
+- [Mastering GitHub Copilot](https://www.youtube.com/playlist?list=PLmsFUfdnGr3w7IW-z0_D5IU3sCq_dvuY9)
 
 ### Office 365 Platform
 
