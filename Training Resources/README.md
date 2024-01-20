@@ -248,7 +248,7 @@
 - [Azure ArcBox](https://azurearcjumpstart.io/azure_jumpstart_arcbox/)
 - [Azure Services Powerview](https://azurecharts.com/overview?m=adv)
 - [Azure Composite SLA Estimator](https://slaestimator.aztoso.com/)
-- [Azure Deprication Dashboard](https://github.com/azure-deprecation/dashboard/issues/)
+- [Azure Deprecation Dashboard](https://github.com/azure-deprecation/dashboard/issues/)
 - [Azure IP Ranges](https://azureipranges.azurewebsites.net/)
 - [Azure VM Price Comparison](https://azureprice.net/?region=westeurope&currency=EUR)
 - [Azure Periodic Table](https://azureservices.io/#)
