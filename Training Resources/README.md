@@ -2,6 +2,7 @@
 
 ## Recent Additions
 
+- [Azure Elastic SAN Deep Dive](https://www.youtube.com/watch?v=RQqcQW4GikA)
 - [Build Your Own IT Support Chatbot with Azure OpenAI](https://www.youtube.com/watch?v=p3zTNhccmoM)
 - [Deep Dive on Microsoft Entra Private Access](https://www.youtube.com/watch?v=RsxxsEzQhrM)
 - [Complete Azure Stack HCI Install!](https://www.youtube.com/watch?v=12Zoayvrols)
@@ -12,7 +13,6 @@
 - [Using Your Own Data with Large Language Models](https://www.youtube.com/watch?v=D8N44J5-6TM)
 - [A Walkthrough of Azure Copilot](https://www.youtube.com/watch?v=-qZZnwgb2ss)
 - [AI-900 - Learning About Generative AI](https://www.youtube.com/watch?v=Ch6KE7KxHGM)
-- [Microsoft Security Reference Architecture](https://www.youtube.com/playlist?list=PLtVMyW0H7aiOQwZSsn2d-tg2z729ce1BZ)
 
 
 ## Full Courses
@@ -128,6 +128,8 @@
 - [Azure DNS](https://docs.microsoft.com/en-us/azure/dns/dns-overview)
   - [Azure DNS Private Resolver Deep Dive](https://www.youtube.com/watch?v=V8ChsYAyxTc)
   - [Private Endpoint DNS Exploration](https://www.youtube.com/watch?v=rXbamGNz-xQ)
+- [Azure Elastic San](https://learn.microsoft.com/en-us/azure/storage/elastic-san/elastic-san-introduction)
+  - [Azure Elastic SAN Deep Dive](https://www.youtube.com/watch?v=RQqcQW4GikA)
 - [Azure ExpressRoute](https://docs.microsoft.com/en-gb/azure/expressroute/expressroute-introduction)
   - [ExpressRoute Deep Dive](https://www.youtube.com/watch?v=oevwZZ1YFS0)
   - [Understanding ExpressRoute Latency](https://www.youtube.com/watch?v=OQu472BgI4Y)
