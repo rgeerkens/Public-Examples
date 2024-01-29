@@ -2,6 +2,7 @@
 
 ## Recent Additions
 
+- [Azure VMware Solution Deep Dive](https://www.youtube.com/watch?v=cBwxLSZMN9o)
 - [Azure Elastic SAN Deep Dive](https://www.youtube.com/watch?v=RQqcQW4GikA)
 - [Build Your Own IT Support Chatbot with Azure OpenAI](https://www.youtube.com/watch?v=p3zTNhccmoM)
 - [Deep Dive on Microsoft Entra Private Access](https://www.youtube.com/watch?v=RsxxsEzQhrM)
@@ -12,7 +13,6 @@
 - [Microsoft Loop - A Smarter Way to OneNote](https://www.youtube.com/watch?v=tKuF_eoA7rU)
 - [Using Your Own Data with Large Language Models](https://www.youtube.com/watch?v=D8N44J5-6TM)
 - [A Walkthrough of Azure Copilot](https://www.youtube.com/watch?v=-qZZnwgb2ss)
-- [AI-900 - Learning About Generative AI](https://www.youtube.com/watch?v=Ch6KE7KxHGM)
 
 
 ## Full Courses
@@ -216,6 +216,8 @@
 - [Azure Virtual Network (vNet)](https://docs.microsoft.com/en-us/azure/virtual-network/virtual-networks-overview)
   - [Peered Virtual Network Address Space Modify in Microsoft Azure](https://www.youtube.com/watch?v=nldYMGd82EY)
   - [Azure Virtual Network Manager Deep Dive](https://www.youtube.com/watch?v=qNn83S55WHQ)
+- [Azure VMware Solution](https://learn.microsoft.com/en-us/azure/azure-vmware/)
+  - [Azure VMware Solution Deep Dive](https://www.youtube.com/watch?v=cBwxLSZMN9o)
 
 ### Azure Platform
 
