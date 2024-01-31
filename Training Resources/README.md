@@ -2,6 +2,7 @@
 
 ## Recent Additions
 
+- [Leveraging Microsoft Defender for Identity](https://www.youtube.com/watch?v=09zXZcNPLuU)
 - [Azure VMware Solution Deep Dive](https://www.youtube.com/watch?v=cBwxLSZMN9o)
 - [Azure Elastic SAN Deep Dive](https://www.youtube.com/watch?v=RQqcQW4GikA)
 - [Build Your Own IT Support Chatbot with Azure OpenAI](https://www.youtube.com/watch?v=p3zTNhccmoM)
@@ -12,7 +13,6 @@
 - [Deep Dive on Microsoft Entra Internet Access](https://www.youtube.com/watch?v=844s2bpA1aU)
 - [Microsoft Loop - A Smarter Way to OneNote](https://www.youtube.com/watch?v=tKuF_eoA7rU)
 - [Using Your Own Data with Large Language Models](https://www.youtube.com/watch?v=D8N44J5-6TM)
-- [A Walkthrough of Azure Copilot](https://www.youtube.com/watch?v=-qZZnwgb2ss)
 
 
 ## Full Courses
@@ -123,6 +123,7 @@
   - [Azure Data Lake Storage Gen 2 Overview](https://www.youtube.com/watch?v=NHn5GAkvlwg)
 - [Azure Defender](https://learn.microsoft.com/en-us/azure/defender-for-cloud/defender-for-cloud-introduction)
   - [Defender For AWS & GCP](https://www.youtube.com/watch?v=PT3dQ6lCOyY)
+  - [Leveraging Microsoft Defender for Identity](https://www.youtube.com/watch?v=09zXZcNPLuU)
 - [Azure Deployment Environments](https://learn.microsoft.com/en-us/azure/deployment-environments/overview-what-is-azure-deployment-environments)
   - [Azure Deployment Environments Demo](https://geerkens-my.sharepoint.com/:v:/g/personal/ronny_geerkens_onmicrosoft_com/ETQxNGV2DmFHtn4SP9AAd_0BtyhmPVfUfZRQVGxgJxlkUQ?e=Axcpyg)
 - [Azure DNS](https://docs.microsoft.com/en-us/azure/dns/dns-overview)
