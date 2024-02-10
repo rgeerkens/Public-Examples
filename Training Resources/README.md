@@ -2,6 +2,7 @@
 
 ## Recent Additions
 
+- [Azure Carbon Optimization](https://www.youtube.com/watch?v=DULnJYs4MLc)
 - [Increasing Resiliency Within A Region](https://www.youtube.com/watch?v=P8uyAK2UMFs)
 - [Leveraging Microsoft Defender for Identity](https://www.youtube.com/watch?v=09zXZcNPLuU)
 - [Azure VMware Solution Deep Dive](https://www.youtube.com/watch?v=cBwxLSZMN9o)
@@ -12,7 +13,6 @@
 - [Conditional Access Filters and Templates](https://www.youtube.com/watch?v=PwBg3J4PSCA)
 - [Azure Stack HCI Walkthrough](https://www.youtube.com/watch?v=_iGb7oYYa30)
 - [Deep Dive on Microsoft Entra Internet Access](https://www.youtube.com/watch?v=844s2bpA1aU)
-- [Microsoft Loop - A Smarter Way to OneNote](https://www.youtube.com/watch?v=tKuF_eoA7rU)
 
 
 ## Full Courses
@@ -245,6 +245,7 @@
 - [Azure Stack HCI Walkthrough](https://www.youtube.com/watch?v=_iGb7oYYa30)
 - [Complete Azure Stack HCI Install!](https://www.youtube.com/watch?v=12Zoayvrols)
 - [Increasing Resiliency Within A Region](https://www.youtube.com/watch?v=P8uyAK2UMFs)
+- [Azure Carbon Optimization](https://www.youtube.com/watch?v=DULnJYs4MLc)
 
 ### Azure Workbooks & Tools
 
