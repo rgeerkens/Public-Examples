@@ -2,6 +2,7 @@
 
 ## Recent Additions
 
+- [Increasing Resiliency Within A Region](https://www.youtube.com/watch?v=P8uyAK2UMFs)
 - [Leveraging Microsoft Defender for Identity](https://www.youtube.com/watch?v=09zXZcNPLuU)
 - [Azure VMware Solution Deep Dive](https://www.youtube.com/watch?v=cBwxLSZMN9o)
 - [Azure Elastic SAN Deep Dive](https://www.youtube.com/watch?v=RQqcQW4GikA)
@@ -12,7 +13,6 @@
 - [Azure Stack HCI Walkthrough](https://www.youtube.com/watch?v=_iGb7oYYa30)
 - [Deep Dive on Microsoft Entra Internet Access](https://www.youtube.com/watch?v=844s2bpA1aU)
 - [Microsoft Loop - A Smarter Way to OneNote](https://www.youtube.com/watch?v=tKuF_eoA7rU)
-- [Using Your Own Data with Large Language Models](https://www.youtube.com/watch?v=D8N44J5-6TM)
 
 
 ## Full Courses
@@ -244,6 +244,7 @@
 - [Adopting Azure for your Organization](https://www.youtube.com/watch?v=T7neX1i6iF0)
 - [Azure Stack HCI Walkthrough](https://www.youtube.com/watch?v=_iGb7oYYa30)
 - [Complete Azure Stack HCI Install!](https://www.youtube.com/watch?v=12Zoayvrols)
+- [Increasing Resiliency Within A Region](https://www.youtube.com/watch?v=P8uyAK2UMFs)
 
 ### Azure Workbooks & Tools
 
