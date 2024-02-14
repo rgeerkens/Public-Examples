@@ -2,6 +2,7 @@
 
 ## Recent Additions
 
+- [Tracking Changes On Azure](https://www.youtube.com/watch?v=HfCgJ_Gk00Y)
 - [AZ-104 Administrator Associate Study Cram v2](https://www.youtube.com/watch?v=0Knf9nub4-k)
 - [Azure Carbon Optimization](https://www.youtube.com/watch?v=DULnJYs4MLc)
 - [Increasing Resiliency Within A Region](https://www.youtube.com/watch?v=P8uyAK2UMFs)
@@ -12,7 +13,6 @@
 - [Deep Dive on Microsoft Entra Private Access](https://www.youtube.com/watch?v=RsxxsEzQhrM)
 - [Complete Azure Stack HCI Install!](https://www.youtube.com/watch?v=12Zoayvrols)
 - [Conditional Access Filters and Templates](https://www.youtube.com/watch?v=PwBg3J4PSCA)
-- [Azure Stack HCI Walkthrough](https://www.youtube.com/watch?v=_iGb7oYYa30)
 
 
 ## Full Courses
@@ -247,6 +247,7 @@
 - [Complete Azure Stack HCI Install!](https://www.youtube.com/watch?v=12Zoayvrols)
 - [Increasing Resiliency Within A Region](https://www.youtube.com/watch?v=P8uyAK2UMFs)
 - [Azure Carbon Optimization](https://www.youtube.com/watch?v=DULnJYs4MLc)
+- [Tracking Changes On Azure](https://www.youtube.com/watch?v=HfCgJ_Gk00Y)
 
 ### Azure Workbooks & Tools
 
