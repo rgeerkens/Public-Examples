@@ -2,6 +2,7 @@
 
 ## Recent Additions
 
+- [Virtual Network Flow Logs and Encryption Overview](https://www.youtube.com/watch?v=JaAG_adPho0)
 - [Tracking Changes On Azure](https://www.youtube.com/watch?v=HfCgJ_Gk00Y)
 - [AZ-104 Administrator Associate Study Cram v2](https://www.youtube.com/watch?v=0Knf9nub4-k)
 - [Azure Carbon Optimization](https://www.youtube.com/watch?v=DULnJYs4MLc)
@@ -12,7 +13,6 @@
 - [Build Your Own IT Support Chatbot with Azure OpenAI](https://www.youtube.com/watch?v=p3zTNhccmoM)
 - [Deep Dive on Microsoft Entra Private Access](https://www.youtube.com/watch?v=RsxxsEzQhrM)
 - [Complete Azure Stack HCI Install!](https://www.youtube.com/watch?v=12Zoayvrols)
-- [Conditional Access Filters and Templates](https://www.youtube.com/watch?v=PwBg3J4PSCA)
 
 
 ## Full Courses
@@ -218,6 +218,7 @@
 - [Azure Virtual Network (vNet)](https://docs.microsoft.com/en-us/azure/virtual-network/virtual-networks-overview)
   - [Peered Virtual Network Address Space Modify in Microsoft Azure](https://www.youtube.com/watch?v=nldYMGd82EY)
   - [Azure Virtual Network Manager Deep Dive](https://www.youtube.com/watch?v=qNn83S55WHQ)
+  - [Virtual Network Flow Logs and Encryption Overview](https://www.youtube.com/watch?v=JaAG_adPho0)
 - [Azure VMware Solution](https://learn.microsoft.com/en-us/azure/azure-vmware/)
   - [Azure VMware Solution Deep Dive](https://www.youtube.com/watch?v=cBwxLSZMN9o)
 
