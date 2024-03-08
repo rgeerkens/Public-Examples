@@ -2,6 +2,7 @@
 
 ## Recent Additions
 
+- [Using Conditional Access with Authentication Flows](https://www.youtube.com/watch?v=A1-kSuLLNLI)
 - [Azure DevOps Workload Identity Federation](https://www.youtube.com/watch?v=saTUeR_U3lA)
 - [Virtual Network Flow Logs and Encryption Overview](https://www.youtube.com/watch?v=JaAG_adPho0)
 - [Tracking Changes On Azure](https://www.youtube.com/watch?v=HfCgJ_Gk00Y)
@@ -12,7 +13,6 @@
 - [Azure VMware Solution Deep Dive](https://www.youtube.com/watch?v=cBwxLSZMN9o)
 - [Azure Elastic SAN Deep Dive](https://www.youtube.com/watch?v=RQqcQW4GikA)
 - [Build Your Own IT Support Chatbot with Azure OpenAI](https://www.youtube.com/watch?v=p3zTNhccmoM)
-- [Deep Dive on Microsoft Entra Private Access](https://www.youtube.com/watch?v=RsxxsEzQhrM)
 
 
 ## Full Courses
@@ -113,6 +113,7 @@
   - [Finding Conditional Access Gaps](https://www.youtube.com/watch?v=Hge4HsvDjTU)
   - [Integrating Privileged Identity Management with Conditional Access](https://www.youtube.com/watch?v=6gHzKX3cnCY)
   - [Conditional Access Filters and Templates](https://www.youtube.com/watch?v=PwBg3J4PSCA)
+  - [Using Conditional Access with Authentication Flows](https://www.youtube.com/watch?v=A1-kSuLLNLI)
 - [Azure Confidential Computing](https://docs.microsoft.com/en-us/azure/confidential-computing/overview)
   - [Confidential Computing Deep Dive](https://www.youtube.com/watch?v=ZnoFOTbRvRg)
   - [Generation 2 VM and Trusted Launch](https://www.youtube.com/watch?v=SnfBV-YjDWw)
