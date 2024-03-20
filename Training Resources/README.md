@@ -2,6 +2,7 @@
 
 ## Recent Additions
 
+- [Active Directory Access with Microsoft Entra Private Access](https://www.youtube.com/watch?v=qdNzvy5U3Sw)
 - [Application Gateway TCP and TLS Flows](https://www.youtube.com/watch?v=ahw50aQvB6o)
 - [Using Conditional Access with Authentication Flows](https://www.youtube.com/watch?v=A1-kSuLLNLI)
 - [Azure DevOps Workload Identity Federation](https://www.youtube.com/watch?v=saTUeR_U3lA)
@@ -12,7 +13,6 @@
 - [Increasing Resiliency Within A Region](https://www.youtube.com/watch?v=P8uyAK2UMFs)
 - [Leveraging Microsoft Defender for Identity](https://www.youtube.com/watch?v=09zXZcNPLuU)
 - [Azure VMware Solution Deep Dive](https://www.youtube.com/watch?v=cBwxLSZMN9o)
-- [Azure Elastic SAN Deep Dive](https://www.youtube.com/watch?v=RQqcQW4GikA)
 
 
 ## Full Courses
@@ -86,6 +86,7 @@
   - [Integrating Privileged Identity Management with Conditional Access](https://www.youtube.com/watch?v=6gHzKX3cnCY)
   - [Deep Dive on Microsoft Entra Internet Access](https://www.youtube.com/watch?v=844s2bpA1aU)
   - [Deep Dive on Microsoft Entra Private Access](https://www.youtube.com/watch?v=RsxxsEzQhrM)
+  - [Active Directory Access with Microsoft Entra Private Access](https://www.youtube.com/watch?v=qdNzvy5U3Sw)
 - [Azure API Manager](https://docs.microsoft.com/en-us/azure/api-management/api-management-key-concepts)
   - [Azure API Manager Automated Orchestration](https://geerkens-my.sharepoint.com/:v:/g/personal/ronny_geerkens_onmicrosoft_com/Ebys3KEacyZEi9BIjbHsad8BsnukdZ1QnKXSti6G1Czw5Q?e=JBsOgd)
 - [Azure App Service Environment](https://docs.microsoft.com/en-us/azure/app-service/environment/overview)
