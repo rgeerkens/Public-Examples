@@ -2,6 +2,7 @@
 
 ## Recent Additions
 
+- [Add authenticated user login to any Azure app](https://www.youtube.com/watch?v=O1QmK_q2Xfw)
 - [Azure Verified Modules Overview](https://www.youtube.com/watch?v=3FeIFHaJOtg)
 - [Active Directory Access with Microsoft Entra Private Access](https://www.youtube.com/watch?v=qdNzvy5U3Sw)
 - [Application Gateway TCP and TLS Flows](https://www.youtube.com/watch?v=ahw50aQvB6o)
@@ -12,7 +13,6 @@
 - [AZ-104 Administrator Associate Study Cram v2](https://www.youtube.com/watch?v=0Knf9nub4-k)
 - [Azure Carbon Optimization](https://www.youtube.com/watch?v=DULnJYs4MLc)
 - [Increasing Resiliency Within A Region](https://www.youtube.com/watch?v=P8uyAK2UMFs)
-- [Leveraging Microsoft Defender for Identity](https://www.youtube.com/watch?v=09zXZcNPLuU)
 
 
 ## Full Courses
@@ -91,6 +91,7 @@
   - [Azure API Manager Automated Orchestration](https://geerkens-my.sharepoint.com/:v:/g/personal/ronny_geerkens_onmicrosoft_com/Ebys3KEacyZEi9BIjbHsad8BsnukdZ1QnKXSti6G1Czw5Q?e=JBsOgd)
 - [Azure App Service Environment](https://docs.microsoft.com/en-us/azure/app-service/environment/overview)
   - [Azure App Service Environment (ASE) v3 Walkthrough](https://www.youtube.com/watch?v=mtCN5yGwqe0)
+  - [Add authenticated user login to any Azure app](https://www.youtube.com/watch?v=O1QmK_q2Xfw)
 - [Azure Application Gateway](https://docs.microsoft.com/en-us/azure/application-gateway/overview)
   - [Azure Application Gateway Deep Dive](https://www.youtube.com/watch?v=B3O6bXu-NbM)
   - [Azure Application Gateway for Containers Solution](https://www.youtube.com/watch?v=slCjHV8z9Wk)
