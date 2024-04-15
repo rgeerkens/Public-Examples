@@ -2,6 +2,7 @@
 
 ## Recent Additions
 
+- [ExpressRoute Metro - Higher Availability for ExpressRoute Circuits](https://www.youtube.com/watch?v=fPL28RUMOyI)
 - [Add authenticated user login to any Azure app](https://www.youtube.com/watch?v=O1QmK_q2Xfw)
 - [Azure Verified Modules Overview](https://www.youtube.com/watch?v=3FeIFHaJOtg)
 - [Active Directory Access with Microsoft Entra Private Access](https://www.youtube.com/watch?v=qdNzvy5U3Sw)
@@ -12,7 +13,6 @@
 - [Tracking Changes On Azure](https://www.youtube.com/watch?v=HfCgJ_Gk00Y)
 - [AZ-104 Administrator Associate Study Cram v2](https://www.youtube.com/watch?v=0Knf9nub4-k)
 - [Azure Carbon Optimization](https://www.youtube.com/watch?v=DULnJYs4MLc)
-- [Increasing Resiliency Within A Region](https://www.youtube.com/watch?v=P8uyAK2UMFs)
 
 
 ## Full Courses
@@ -139,6 +139,7 @@
 - [Azure ExpressRoute](https://docs.microsoft.com/en-gb/azure/expressroute/expressroute-introduction)
   - [ExpressRoute Deep Dive](https://www.youtube.com/watch?v=oevwZZ1YFS0)
   - [Understanding ExpressRoute Latency](https://www.youtube.com/watch?v=OQu472BgI4Y)
+  - [ExpressRoute Metro - Higher Availability for ExpressRoute Circuits](https://www.youtube.com/watch?v=fPL28RUMOyI)
 - [Azure Firewall](https://docs.microsoft.com/en-us/azure/firewall/overview)
   - [Azure Firewall Deep Dive](https://www.youtube.com/watch?v=JiUerkqyW0g)
 - [Azure Front Door](https://docs.microsoft.com/en-us/azure/frontdoor/front-door-overview)
