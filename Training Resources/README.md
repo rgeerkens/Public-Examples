@@ -2,6 +2,7 @@
 
 ## Recent Additions
 
+- [Entra Group Writeback - Leverage Entra Governance Features On-Premises](https://www.youtube.com/watch?v=C6XXlSVaIeo)
 - [ExpressRoute Metro - Higher Availability for ExpressRoute Circuits](https://www.youtube.com/watch?v=fPL28RUMOyI)
 - [Add authenticated user login to any Azure app](https://www.youtube.com/watch?v=O1QmK_q2Xfw)
 - [Azure Verified Modules Overview](https://www.youtube.com/watch?v=3FeIFHaJOtg)
@@ -12,7 +13,6 @@
 - [Virtual Network Flow Logs and Encryption Overview](https://www.youtube.com/watch?v=JaAG_adPho0)
 - [Tracking Changes On Azure](https://www.youtube.com/watch?v=HfCgJ_Gk00Y)
 - [AZ-104 Administrator Associate Study Cram v2](https://www.youtube.com/watch?v=0Knf9nub4-k)
-- [Azure Carbon Optimization](https://www.youtube.com/watch?v=DULnJYs4MLc)
 
 
 ## Full Courses
@@ -87,6 +87,7 @@
   - [Deep Dive on Microsoft Entra Internet Access](https://www.youtube.com/watch?v=844s2bpA1aU)
   - [Deep Dive on Microsoft Entra Private Access](https://www.youtube.com/watch?v=RsxxsEzQhrM)
   - [Active Directory Access with Microsoft Entra Private Access](https://www.youtube.com/watch?v=qdNzvy5U3Sw)
+  - [Entra Group Writeback - Leverage Entra Governance Features On-Premises](https://www.youtube.com/watch?v=C6XXlSVaIeo)
 - [Azure API Manager](https://docs.microsoft.com/en-us/azure/api-management/api-management-key-concepts)
   - [Azure API Manager Automated Orchestration](https://geerkens-my.sharepoint.com/:v:/g/personal/ronny_geerkens_onmicrosoft_com/Ebys3KEacyZEi9BIjbHsad8BsnukdZ1QnKXSti6G1Czw5Q?e=JBsOgd)
 - [Azure App Service Environment](https://docs.microsoft.com/en-us/azure/app-service/environment/overview)
