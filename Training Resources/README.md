@@ -2,6 +2,7 @@
 
 ## Recent Additions
 
+- [FinOps and Azure!](https://www.youtube.com/watch?v=YHUptdFtozQ)
 - [Entra Group Writeback - Leverage Entra Governance Features On-Premises](https://www.youtube.com/watch?v=C6XXlSVaIeo)
 - [ExpressRoute Metro - Higher Availability for ExpressRoute Circuits](https://www.youtube.com/watch?v=fPL28RUMOyI)
 - [Add authenticated user login to any Azure app](https://www.youtube.com/watch?v=O1QmK_q2Xfw)
@@ -12,7 +13,6 @@
 - [Azure DevOps Workload Identity Federation](https://www.youtube.com/watch?v=saTUeR_U3lA)
 - [Virtual Network Flow Logs and Encryption Overview](https://www.youtube.com/watch?v=JaAG_adPho0)
 - [Tracking Changes On Azure](https://www.youtube.com/watch?v=HfCgJ_Gk00Y)
-- [AZ-104 Administrator Associate Study Cram v2](https://www.youtube.com/watch?v=0Knf9nub4-k)
 
 
 ## Full Courses
@@ -255,6 +255,7 @@
 - [Increasing Resiliency Within A Region](https://www.youtube.com/watch?v=P8uyAK2UMFs)
 - [Azure Carbon Optimization](https://www.youtube.com/watch?v=DULnJYs4MLc)
 - [Tracking Changes On Azure](https://www.youtube.com/watch?v=HfCgJ_Gk00Y)
+- [FinOps and Azure!](https://www.youtube.com/watch?v=YHUptdFtozQ)
 
 ### Azure Workbooks & Tools
 
