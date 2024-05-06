@@ -2,6 +2,7 @@
 
 ## Recent Additions
 
+- [PASSKEYS - What they are, why we want them and how to use them!](https://www.youtube.com/watch?v=RWcXKQcwBRY)
 - [FinOps and Azure!](https://www.youtube.com/watch?v=YHUptdFtozQ)
 - [Entra Group Writeback - Leverage Entra Governance Features On-Premises](https://www.youtube.com/watch?v=C6XXlSVaIeo)
 - [ExpressRoute Metro - Higher Availability for ExpressRoute Circuits](https://www.youtube.com/watch?v=fPL28RUMOyI)
@@ -12,7 +13,6 @@
 - [Using Conditional Access with Authentication Flows](https://www.youtube.com/watch?v=A1-kSuLLNLI)
 - [Azure DevOps Workload Identity Federation](https://www.youtube.com/watch?v=saTUeR_U3lA)
 - [Virtual Network Flow Logs and Encryption Overview](https://www.youtube.com/watch?v=JaAG_adPho0)
-- [Tracking Changes On Azure](https://www.youtube.com/watch?v=HfCgJ_Gk00Y)
 
 
 ## Full Courses
@@ -88,6 +88,7 @@
   - [Deep Dive on Microsoft Entra Private Access](https://www.youtube.com/watch?v=RsxxsEzQhrM)
   - [Active Directory Access with Microsoft Entra Private Access](https://www.youtube.com/watch?v=qdNzvy5U3Sw)
   - [Entra Group Writeback - Leverage Entra Governance Features On-Premises](https://www.youtube.com/watch?v=C6XXlSVaIeo)
+  - [PASSKEYS - What they are, why we want them and how to use them!](https://www.youtube.com/watch?v=RWcXKQcwBRY)
 - [Azure API Manager](https://docs.microsoft.com/en-us/azure/api-management/api-management-key-concepts)
   - [Azure API Manager Automated Orchestration](https://geerkens-my.sharepoint.com/:v:/g/personal/ronny_geerkens_onmicrosoft_com/Ebys3KEacyZEi9BIjbHsad8BsnukdZ1QnKXSti6G1Czw5Q?e=JBsOgd)
 - [Azure App Service Environment](https://docs.microsoft.com/en-us/azure/app-service/environment/overview)
