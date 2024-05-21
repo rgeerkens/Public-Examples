@@ -2,6 +2,7 @@
 
 ## Recent Additions
 
+- [Using Ephemeral OS Disks in Azure](https://www.youtube.com/watch?v=vyqRWxOSxJE)
 - [Which AI should you use? Copilot, Copilot Studio, Azure AI Studio and more!](https://www.youtube.com/watch?v=ArRpwLGA2Hk)
 - [PASSKEYS - What they are, why we want them and how to use them!](https://www.youtube.com/watch?v=RWcXKQcwBRY)
 - [FinOps and Azure!](https://www.youtube.com/watch?v=YHUptdFtozQ)
@@ -12,7 +13,6 @@
 - [Active Directory Access with Microsoft Entra Private Access](https://www.youtube.com/watch?v=qdNzvy5U3Sw)
 - [Application Gateway TCP and TLS Flows](https://www.youtube.com/watch?v=ahw50aQvB6o)
 - [Using Conditional Access with Authentication Flows](https://www.youtube.com/watch?v=A1-kSuLLNLI)
-- [Azure DevOps Workload Identity Federation](https://www.youtube.com/watch?v=saTUeR_U3lA)
 
 
 ## Full Courses
@@ -222,6 +222,7 @@
   - [Multi-Availability Zone Option In Portal For Virtual Machines](https://www.youtube.com/watch?v=4Au2QW6lsYI)
   - [Azure VM Isolation Options](https://www.youtube.com/watch?v=aL63LSZT480)
   - [Azure VM Internet Access Options](https://www.youtube.com/watch?v=9f826wanFtw)
+  - [Using Ephemeral OS Disks in Azure](https://www.youtube.com/watch?v=vyqRWxOSxJE)
 - [Azure Virtual Network (vNet)](https://docs.microsoft.com/en-us/azure/virtual-network/virtual-networks-overview)
   - [Peered Virtual Network Address Space Modify in Microsoft Azure](https://www.youtube.com/watch?v=nldYMGd82EY)
   - [Azure Virtual Network Manager Deep Dive](https://www.youtube.com/watch?v=qNn83S55WHQ)
