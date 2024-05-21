@@ -2,6 +2,7 @@
 
 ## Recent Additions
 
+- [Which AI should you use? Copilot, Copilot Studio, Azure AI Studio and more!](https://www.youtube.com/watch?v=ArRpwLGA2Hk)
 - [PASSKEYS - What they are, why we want them and how to use them!](https://www.youtube.com/watch?v=RWcXKQcwBRY)
 - [FinOps and Azure!](https://www.youtube.com/watch?v=YHUptdFtozQ)
 - [Entra Group Writeback - Leverage Entra Governance Features On-Premises](https://www.youtube.com/watch?v=C6XXlSVaIeo)
@@ -12,7 +13,6 @@
 - [Application Gateway TCP and TLS Flows](https://www.youtube.com/watch?v=ahw50aQvB6o)
 - [Using Conditional Access with Authentication Flows](https://www.youtube.com/watch?v=A1-kSuLLNLI)
 - [Azure DevOps Workload Identity Federation](https://www.youtube.com/watch?v=saTUeR_U3lA)
-- [Virtual Network Flow Logs and Encryption Overview](https://www.youtube.com/watch?v=JaAG_adPho0)
 
 
 ## Full Courses
@@ -286,6 +286,7 @@
 - [Using Your Own Data with Large Language Models](https://www.youtube.com/watch?v=D8N44J5-6TM)
 - [Build Your Own IT Support Chatbot with Azure OpenAI](https://www.youtube.com/watch?v=p3zTNhccmoM)
 - [Mastering GitHub Copilot](https://www.youtube.com/playlist?list=PLmsFUfdnGr3w7IW-z0_D5IU3sCq_dvuY9)
+- [Which AI should you use? Copilot, Copilot Studio, Azure AI Studio and more!](https://www.youtube.com/watch?v=ArRpwLGA2Hk)
 
 ### Office 365 Platform
 
