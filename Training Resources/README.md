@@ -2,6 +2,7 @@
 
 ## Recent Additions
 
+- [A Deep Dive In Azure Storage Actions](https://www.youtube.com/watch?v=MjIbyGSwj2k)
 - [Using Ephemeral OS Disks in Azure](https://www.youtube.com/watch?v=vyqRWxOSxJE)
 - [Which AI should you use? Copilot, Copilot Studio, Azure AI Studio and more!](https://www.youtube.com/watch?v=ArRpwLGA2Hk)
 - [PASSKEYS - What they are, why we want them and how to use them!](https://www.youtube.com/watch?v=RWcXKQcwBRY)
@@ -12,7 +13,6 @@
 - [Azure Verified Modules Overview](https://www.youtube.com/watch?v=3FeIFHaJOtg)
 - [Active Directory Access with Microsoft Entra Private Access](https://www.youtube.com/watch?v=qdNzvy5U3Sw)
 - [Application Gateway TCP and TLS Flows](https://www.youtube.com/watch?v=ahw50aQvB6o)
-- [Using Conditional Access with Authentication Flows](https://www.youtube.com/watch?v=A1-kSuLLNLI)
 
 
 ## Full Courses
@@ -213,6 +213,7 @@
   - [Blob Point-In-Time Restore Deep Dive](https://www.youtube.com/watch?v=kRfK8sTJoSE)
   - [Premium SSD v2 Quick Peek](https://www.youtube.com/watch?v=GFfztuVtjpI)
   - [Cold Storage Tier](https://www.youtube.com/watch?v=4dKzFFwtPbA)
+  - [A Deep Dive In Azure Storage Actions](https://www.youtube.com/watch?v=MjIbyGSwj2k)
 - [Azure Traffic Manager](https://learn.microsoft.com/en-us/azure/traffic-manager/traffic-manager-overview)
   - [Azure Traffic Manager Deep Dive](https://www.youtube.com/watch?v=PfZPuBt50ps)
 - [Azure Update Manager](https://learn.microsoft.com/en-us/azure/update-center/overview?tabs=azure-vms)
