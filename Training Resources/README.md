@@ -2,6 +2,7 @@
 
 ## Recent Additions
 
+- [AI Development for a Non-Developer](https://www.youtube.com/watch?v=OHQFObW6PXA)
 - [A Deep Dive In Azure Storage Actions](https://www.youtube.com/watch?v=MjIbyGSwj2k)
 - [Using Ephemeral OS Disks in Azure](https://www.youtube.com/watch?v=vyqRWxOSxJE)
 - [Which AI should you use? Copilot, Copilot Studio, Azure AI Studio and more!](https://www.youtube.com/watch?v=ArRpwLGA2Hk)
@@ -12,7 +13,6 @@
 - [Add authenticated user login to any Azure app](https://www.youtube.com/watch?v=O1QmK_q2Xfw)
 - [Azure Verified Modules Overview](https://www.youtube.com/watch?v=3FeIFHaJOtg)
 - [Active Directory Access with Microsoft Entra Private Access](https://www.youtube.com/watch?v=qdNzvy5U3Sw)
-- [Application Gateway TCP and TLS Flows](https://www.youtube.com/watch?v=ahw50aQvB6o)
 
 
 ## Full Courses
@@ -289,6 +289,7 @@
 - [Build Your Own IT Support Chatbot with Azure OpenAI](https://www.youtube.com/watch?v=p3zTNhccmoM)
 - [Mastering GitHub Copilot](https://www.youtube.com/playlist?list=PLmsFUfdnGr3w7IW-z0_D5IU3sCq_dvuY9)
 - [Which AI should you use? Copilot, Copilot Studio, Azure AI Studio and more!](https://www.youtube.com/watch?v=ArRpwLGA2Hk)
+- [AI Development for a Non-Developer](https://www.youtube.com/watch?v=OHQFObW6PXA)
 
 ### Office 365 Platform
 
