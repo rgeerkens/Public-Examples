@@ -2,6 +2,7 @@
 
 ## Recent Additions
 
+- [Microsoft Copilot for Security](https://www.youtube.com/watch?v=7hNbYOjh-1k&list=WL&index=3)
 - [Multicloud Connector - Integrate OTHER clouds with Azure!](https://www.youtube.com/watch?v=9ZeWpIqOzk0)
 - [AI Development for a Non-Developer](https://www.youtube.com/watch?v=OHQFObW6PXA)
 - [A Deep Dive In Azure Storage Actions](https://www.youtube.com/watch?v=MjIbyGSwj2k)
@@ -12,7 +13,6 @@
 - [Entra Group Writeback - Leverage Entra Governance Features On-Premises](https://www.youtube.com/watch?v=C6XXlSVaIeo)
 - [ExpressRoute Metro - Higher Availability for ExpressRoute Circuits](https://www.youtube.com/watch?v=fPL28RUMOyI)
 - [Add authenticated user login to any Azure app](https://www.youtube.com/watch?v=O1QmK_q2Xfw)
-- [Azure Verified Modules Overview](https://www.youtube.com/watch?v=3FeIFHaJOtg)
 
 
 ## Full Courses
@@ -291,6 +291,7 @@
 - [Mastering GitHub Copilot](https://www.youtube.com/playlist?list=PLmsFUfdnGr3w7IW-z0_D5IU3sCq_dvuY9)
 - [Which AI should you use? Copilot, Copilot Studio, Azure AI Studio and more!](https://www.youtube.com/watch?v=ArRpwLGA2Hk)
 - [AI Development for a Non-Developer](https://www.youtube.com/watch?v=OHQFObW6PXA)
+- [Microsoft Copilot for Security](https://www.youtube.com/watch?v=7hNbYOjh-1k&list=WL&index=3)
 
 ### Office 365 Platform
 
