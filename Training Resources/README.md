@@ -2,6 +2,7 @@
 
 ## Recent Additions
 
+- [Protecting Against Credential and Token Theft](https://www.youtube.com/watch?v=toytJf1rmV4)
 - [Microsoft Copilot for Security](https://www.youtube.com/watch?v=7hNbYOjh-1k&list=WL&index=3)
 - [Multicloud Connector - Integrate OTHER clouds with Azure!](https://www.youtube.com/watch?v=9ZeWpIqOzk0)
 - [AI Development for a Non-Developer](https://www.youtube.com/watch?v=OHQFObW6PXA)
@@ -12,7 +13,6 @@
 - [FinOps and Azure!](https://www.youtube.com/watch?v=YHUptdFtozQ)
 - [Entra Group Writeback - Leverage Entra Governance Features On-Premises](https://www.youtube.com/watch?v=C6XXlSVaIeo)
 - [ExpressRoute Metro - Higher Availability for ExpressRoute Circuits](https://www.youtube.com/watch?v=fPL28RUMOyI)
-- [Add authenticated user login to any Azure app](https://www.youtube.com/watch?v=O1QmK_q2Xfw)
 
 
 ## Full Courses
@@ -338,6 +338,7 @@
 - [Introduction to Cloud](https://www.youtube.com/watch?v=h9maVWcHwIY)
 - [Using the Well-Architected Framework](https://www.youtube.com/watch?v=vTjasx3ahjM)
 - [Microsoft Security Reference Architecture](https://www.youtube.com/playlist?list=PLtVMyW0H7aiOQwZSsn2d-tg2z729ce1BZ)
+- [Protecting Against Credential and Token Theft](https://www.youtube.com/watch?v=toytJf1rmV4)
 
 ### Infrastructure As Code
 
