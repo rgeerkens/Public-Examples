@@ -2,6 +2,7 @@
 
 ## Recent Additions
 
+- [Entra Suite Overview](https://www.youtube.com/watch?v=Fu1qyW3kuLo)
 - [Microsoft Fabric Overview](https://www.youtube.com/watch?v=GbxVsi94DrE)
 - [AI-900 Study Cram v2 - The non-Generative AI bits](https://www.youtube.com/watch?v=bTkUTkXrqOQ)
 - [Protecting Against Credential and Token Theft](https://www.youtube.com/watch?v=toytJf1rmV4)
@@ -12,7 +13,6 @@
 - [Using Ephemeral OS Disks in Azure](https://www.youtube.com/watch?v=vyqRWxOSxJE)
 - [Which AI should you use? Copilot, Copilot Studio, Azure AI Studio and more!](https://www.youtube.com/watch?v=ArRpwLGA2Hk)
 - [PASSKEYS - What they are, why we want them and how to use them!](https://www.youtube.com/watch?v=RWcXKQcwBRY)
-- [FinOps and Azure!](https://www.youtube.com/watch?v=YHUptdFtozQ)
 
 
 ## Full Courses
@@ -90,6 +90,7 @@
   - [Active Directory Access with Microsoft Entra Private Access](https://www.youtube.com/watch?v=qdNzvy5U3Sw)
   - [Entra Group Writeback - Leverage Entra Governance Features On-Premises](https://www.youtube.com/watch?v=C6XXlSVaIeo)
   - [PASSKEYS - What they are, why we want them and how to use them!](https://www.youtube.com/watch?v=RWcXKQcwBRY)
+  - [Entra Suite Overview](https://www.youtube.com/watch?v=Fu1qyW3kuLo)
 - [Azure API Manager](https://docs.microsoft.com/en-us/azure/api-management/api-management-key-concepts)
   - [Azure API Manager Automated Orchestration](https://geerkens-my.sharepoint.com/:v:/g/personal/ronny_geerkens_onmicrosoft_com/Ebys3KEacyZEi9BIjbHsad8BsnukdZ1QnKXSti6G1Czw5Q?e=JBsOgd)
 - [Azure App Service Environment](https://docs.microsoft.com/en-us/azure/app-service/environment/overview)
