@@ -190,6 +190,7 @@
   - [Finding Duplicate Private Endpoints!](https://www.youtube.com/watch?v=i2xLbNKAqGY)
 - [Microsoft Purview](https://learn.microsoft.com/en-us/purview/purview)
   - [Microsoft Purview Overview](https://www.youtube.com/watch?v=nfP7t8jy0aE)
+  - [Microsoft Purview Sensitivity Labels](https://www.youtube.com/watch?v=6O-JjLVT_wQ&list=WL&index=3)
 - [Azure Route Server](https://docs.microsoft.com/en-us/azure/route-server/overview)
   - [Azure Route Server Overview](https://www.youtube.com/watch?v=c1f4rmkrF6M)
 - [Azure Scale Sets](https://docs.microsoft.com/en-us/azure/virtual-machine-scale-sets/overview)
