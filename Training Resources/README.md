@@ -2,6 +2,7 @@
 
 ## Recent Additions
 
+- [Using Azure OpenAI GPT vis REST](https://www.youtube.com/watch?v=PXRg1QQ3GFs)
 - [Entra Suite Overview](https://www.youtube.com/watch?v=Fu1qyW3kuLo)
 - [Microsoft Fabric Overview](https://www.youtube.com/watch?v=GbxVsi94DrE)
 - [AI-900 Study Cram v2 - The non-Generative AI bits](https://www.youtube.com/watch?v=bTkUTkXrqOQ)
@@ -12,7 +13,6 @@
 - [A Deep Dive In Azure Storage Actions](https://www.youtube.com/watch?v=MjIbyGSwj2k)
 - [Using Ephemeral OS Disks in Azure](https://www.youtube.com/watch?v=vyqRWxOSxJE)
 - [Which AI should you use? Copilot, Copilot Studio, Azure AI Studio and more!](https://www.youtube.com/watch?v=ArRpwLGA2Hk)
-- [PASSKEYS - What they are, why we want them and how to use them!](https://www.youtube.com/watch?v=RWcXKQcwBRY)
 
 
 ## Full Courses
@@ -297,6 +297,7 @@
 - [Which AI should you use? Copilot, Copilot Studio, Azure AI Studio and more!](https://www.youtube.com/watch?v=ArRpwLGA2Hk)
 - [AI Development for a Non-Developer](https://www.youtube.com/watch?v=OHQFObW6PXA)
 - [Microsoft Copilot for Security](https://www.youtube.com/watch?v=7hNbYOjh-1k&list=WL&index=3)
+- [Using Azure OpenAI GPT vis REST](https://www.youtube.com/watch?v=PXRg1QQ3GFs)
 
 ### Office 365 Platform
 
