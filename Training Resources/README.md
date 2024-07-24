@@ -2,6 +2,7 @@
 
 ## Recent Additions
 
+- [GitHub Actions Certification – Full Course](https://www.youtube.com/watch?v=Tz7FsunBbfQ&list=WL&index=5)
 - [Using Azure OpenAI GPT vis REST](https://www.youtube.com/watch?v=PXRg1QQ3GFs)
 - [Entra Suite Overview](https://www.youtube.com/watch?v=Fu1qyW3kuLo)
 - [Microsoft Fabric Overview](https://www.youtube.com/watch?v=GbxVsi94DrE)
@@ -12,7 +13,6 @@
 - [AI Development for a Non-Developer](https://www.youtube.com/watch?v=OHQFObW6PXA)
 - [A Deep Dive In Azure Storage Actions](https://www.youtube.com/watch?v=MjIbyGSwj2k)
 - [Using Ephemeral OS Disks in Azure](https://www.youtube.com/watch?v=vyqRWxOSxJE)
-- [Which AI should you use? Copilot, Copilot Studio, Azure AI Studio and more!](https://www.youtube.com/watch?v=ArRpwLGA2Hk)
 
 
 ## Full Courses
@@ -361,6 +361,7 @@
 - [Deployment Stacks Deep Dive](https://www.youtube.com/watch?v=d1AE8qLwBYw)
 - [Azure DevOps Workload Identity Federation](https://www.youtube.com/watch?v=saTUeR_U3lA)
 - [Azure Verified Modules Overview](https://www.youtube.com/watch?v=3FeIFHaJOtg)
+- [GitHub Actions Certification – Full Course](https://www.youtube.com/watch?v=Tz7FsunBbfQ&list=WL&index=5)
 
 ### Harvard CS50 Courses
 - [Harvard CS50 - Full Computer Science University Course](https://www.youtube.com/watch?v=8mAITcNt710&list=WL&index=16)
