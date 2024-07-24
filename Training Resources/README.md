@@ -46,6 +46,7 @@
 - [PL-900 Microsoft Power Platform Fundamentals](https://www.youtube.com/watch?v=lbPHM-MiEUA)
 - [SC-900 Microsoft Security, Compliance And Identity Fundamentals](https://www.youtube.com/watch?v=Bz-8jM3jg-8)
 - [Azure Master Class v2](https://www.youtube.com/playlist?list=PLlVtbbG169nGccbp8VSpAozu3w9xSQJoY)
+- [GitHub Actions Certification – Full Course](https://www.youtube.com/watch?v=Tz7FsunBbfQ&list=WL&index=5)
 
 ## Deep Dive Content
 
