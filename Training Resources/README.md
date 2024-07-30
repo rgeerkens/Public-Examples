@@ -2,6 +2,7 @@
 
 ## Recent Additions
 
+- [Safe Deployment Practices](https://www.youtube.com/watch?v=sDkY-pG6LCc)
 - [GitHub Actions Certification – Full Course](https://www.youtube.com/watch?v=Tz7FsunBbfQ&list=WL&index=5)
 - [Using Azure OpenAI GPT vis REST](https://www.youtube.com/watch?v=PXRg1QQ3GFs)
 - [Entra Suite Overview](https://www.youtube.com/watch?v=Fu1qyW3kuLo)
@@ -12,7 +13,6 @@
 - [Multicloud Connector - Integrate OTHER clouds with Azure!](https://www.youtube.com/watch?v=9ZeWpIqOzk0)
 - [AI Development for a Non-Developer](https://www.youtube.com/watch?v=OHQFObW6PXA)
 - [A Deep Dive In Azure Storage Actions](https://www.youtube.com/watch?v=MjIbyGSwj2k)
-- [Using Ephemeral OS Disks in Azure](https://www.youtube.com/watch?v=vyqRWxOSxJE)
 
 
 ## Full Courses
@@ -346,6 +346,7 @@
 - [Using the Well-Architected Framework](https://www.youtube.com/watch?v=vTjasx3ahjM)
 - [Microsoft Security Reference Architecture](https://www.youtube.com/playlist?list=PLtVMyW0H7aiOQwZSsn2d-tg2z729ce1BZ)
 - [Protecting Against Credential and Token Theft](https://www.youtube.com/watch?v=toytJf1rmV4)
+- [Safe Deployment Practices](https://www.youtube.com/watch?v=sDkY-pG6LCc)
 
 ### Infrastructure As Code
 
