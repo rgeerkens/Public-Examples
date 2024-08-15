@@ -2,6 +2,7 @@
 
 ## Recent Additions
 
+- [First Hour with GitHub Copilot](https://www.youtube.com/watch?v=7GtrNVoJatE)
 - [Implications of NOT using Azure Paired Regions](https://www.youtube.com/watch?v=tLqh6hIbes8)
 - [Safe Deployment Practices](https://www.youtube.com/watch?v=sDkY-pG6LCc)
 - [GitHub Actions Certification – Full Course](https://www.youtube.com/watch?v=Tz7FsunBbfQ&list=WL&index=5)
@@ -11,9 +12,6 @@
 - [AI-900 Study Cram v2 - The non-Generative AI bits](https://www.youtube.com/watch?v=bTkUTkXrqOQ)
 - [Protecting Against Credential and Token Theft](https://www.youtube.com/watch?v=toytJf1rmV4)
 - [Microsoft Copilot for Security](https://www.youtube.com/watch?v=7hNbYOjh-1k&list=WL&index=3)
-- [Multicloud Connector - Integrate OTHER clouds with Azure!](https://www.youtube.com/watch?v=9ZeWpIqOzk0)
-- [AI Development for a Non-Developer](https://www.youtube.com/watch?v=OHQFObW6PXA)
-- [A Deep Dive In Azure Storage Actions](https://www.youtube.com/watch?v=MjIbyGSwj2k)
 
 
 ## Full Courses
@@ -304,6 +302,7 @@
 - [AI Development for a Non-Developer](https://www.youtube.com/watch?v=OHQFObW6PXA)
 - [Microsoft Copilot for Security](https://www.youtube.com/watch?v=7hNbYOjh-1k&list=WL&index=3)
 - [Using Azure OpenAI GPT vis REST](https://www.youtube.com/watch?v=PXRg1QQ3GFs)
+- [First Hour with GitHub Copilot](https://www.youtube.com/watch?v=7GtrNVoJatE)
 
 ### Office 365 Platform
 
