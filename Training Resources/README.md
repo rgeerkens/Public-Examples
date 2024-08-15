@@ -2,6 +2,7 @@
 
 ## Recent Additions
 
+- [Implications of NOT using Azure Paired Regions](https://www.youtube.com/watch?v=tLqh6hIbes8)
 - [Safe Deployment Practices](https://www.youtube.com/watch?v=sDkY-pG6LCc)
 - [GitHub Actions Certification – Full Course](https://www.youtube.com/watch?v=Tz7FsunBbfQ&list=WL&index=5)
 - [Using Azure OpenAI GPT vis REST](https://www.youtube.com/watch?v=PXRg1QQ3GFs)
@@ -192,6 +193,10 @@
 - [Microsoft Purview](https://learn.microsoft.com/en-us/purview/purview)
   - [Microsoft Purview Overview](https://www.youtube.com/watch?v=nfP7t8jy0aE)
   - [Microsoft Purview Sensitivity Labels](https://www.youtube.com/watch?v=6O-JjLVT_wQ&list=WL&index=3)
+- [Azure Regions](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/ready/azure-setup-guide/regions)
+  - [Using Multiple Azure Regions](https://www.youtube.com/watch?v=qZ6cwTpQc54)
+  - [Increasing Resiliency Within A Region](https://www.youtube.com/watch?v=P8uyAK2UMFs)
+  - [Implications of NOT using Azure Paired Regions](https://www.youtube.com/watch?v=tLqh6hIbes8)
 - [Azure Route Server](https://docs.microsoft.com/en-us/azure/route-server/overview)
   - [Azure Route Server Overview](https://www.youtube.com/watch?v=c1f4rmkrF6M)
 - [Azure Scale Sets](https://docs.microsoft.com/en-us/azure/virtual-machine-scale-sets/overview)
