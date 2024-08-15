@@ -2,6 +2,7 @@
 
 ## Recent Additions
 
+- [Azure ARC Jumpstart](https://www.youtube.com/watch?v=VvoZp69NiRk)
 - [First Hour with GitHub Copilot](https://www.youtube.com/watch?v=7GtrNVoJatE)
 - [Implications of NOT using Azure Paired Regions](https://www.youtube.com/watch?v=tLqh6hIbes8)
 - [Safe Deployment Practices](https://www.youtube.com/watch?v=sDkY-pG6LCc)
@@ -11,7 +12,6 @@
 - [Microsoft Fabric Overview](https://www.youtube.com/watch?v=GbxVsi94DrE)
 - [AI-900 Study Cram v2 - The non-Generative AI bits](https://www.youtube.com/watch?v=bTkUTkXrqOQ)
 - [Protecting Against Credential and Token Theft](https://www.youtube.com/watch?v=toytJf1rmV4)
-- [Microsoft Copilot for Security](https://www.youtube.com/watch?v=7hNbYOjh-1k&list=WL&index=3)
 
 
 ## Full Courses
@@ -106,6 +106,7 @@
   - [Azure ARC - Jumpstart ArcBox](https://azurearcjumpstart.io/azure_jumpstart_arcbox/)
   - [Introduction to Azure Arc enabled servers](https://www.youtube.com/watch?v=l4YLl3x_h7A)
   - [Learn Live - Introduction to Azure Arc-enabled data services](https://www.youtube.com/watch?v=mxgmMx_WsCI&list=PLlrxD0HtieHiOKfpI9oWUQ051MLO-BzEt&index=13)
+  - [Azure ARC Jumpstart](https://www.youtube.com/watch?v=VvoZp69NiRk)
   - [Azure Arc-Enabled Servers Walkthrough](https://www.youtube.com/watch?v=OHs1txVKPHw)
   - [Azure Arc-Enabled VMware vSphere Walkthrough](https://www.youtube.com/watch?v=geuQ6fIsivg)
   - [Azure Arc-Enabled System Center Virtual Machine Manager](https://www.youtube.com/watch?v=vn4p1qmpmy4)
