@@ -2,6 +2,7 @@
 
 ## Recent Additions
 
+- [SC-900 Microsoft Security, Compliance And Identity Fundamentals](https://www.youtube.com/watch?v=-FJqb60wPSY)
 - [Azure ARC Jumpstart](https://www.youtube.com/watch?v=VvoZp69NiRk)
 - [First Hour with GitHub Copilot](https://www.youtube.com/watch?v=7GtrNVoJatE)
 - [Implications of NOT using Azure Paired Regions](https://www.youtube.com/watch?v=tLqh6hIbes8)
@@ -11,7 +12,6 @@
 - [Entra Suite Overview](https://www.youtube.com/watch?v=Fu1qyW3kuLo)
 - [Microsoft Fabric Overview](https://www.youtube.com/watch?v=GbxVsi94DrE)
 - [AI-900 Study Cram v2 - The non-Generative AI bits](https://www.youtube.com/watch?v=bTkUTkXrqOQ)
-- [Protecting Against Credential and Token Theft](https://www.youtube.com/watch?v=toytJf1rmV4)
 
 
 ## Full Courses
@@ -43,7 +43,7 @@
 - [DP-900 Azure Data Fundamentals](https://www.youtube.com/watch?v=0gtpasITVnk)
 - [MS-900 Microsoft 365 Fundamentals](https://www.youtube.com/watch?v=np9jfnwnO2c)
 - [PL-900 Microsoft Power Platform Fundamentals](https://www.youtube.com/watch?v=lbPHM-MiEUA)
-- [SC-900 Microsoft Security, Compliance And Identity Fundamentals](https://www.youtube.com/watch?v=Bz-8jM3jg-8)
+- [SC-900 Microsoft Security, Compliance And Identity Fundamentals](https://www.youtube.com/watch?v=-FJqb60wPSY)
 - [Azure Master Class v2](https://www.youtube.com/playlist?list=PLlVtbbG169nGccbp8VSpAozu3w9xSQJoY)
 - [GitHub Actions Certification – Full Course](https://www.youtube.com/watch?v=Tz7FsunBbfQ&list=WL&index=5)
 
