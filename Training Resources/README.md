@@ -2,6 +2,7 @@
 
 ## Recent Additions
 
+- [Using VS Code to Write and Deploy Azure Functions](https://www.youtube.com/watch?v=lpZCwzYVNpA)
 - [SC-900 Microsoft Security, Compliance And Identity Fundamentals](https://www.youtube.com/watch?v=-FJqb60wPSY)
 - [Azure ARC Jumpstart](https://www.youtube.com/watch?v=VvoZp69NiRk)
 - [First Hour with GitHub Copilot](https://www.youtube.com/watch?v=7GtrNVoJatE)
@@ -11,7 +12,6 @@
 - [Using Azure OpenAI GPT vis REST](https://www.youtube.com/watch?v=PXRg1QQ3GFs)
 - [Entra Suite Overview](https://www.youtube.com/watch?v=Fu1qyW3kuLo)
 - [Microsoft Fabric Overview](https://www.youtube.com/watch?v=GbxVsi94DrE)
-- [AI-900 Study Cram v2 - The non-Generative AI bits](https://www.youtube.com/watch?v=bTkUTkXrqOQ)
 
 
 ## Full Courses
@@ -155,6 +155,7 @@
 - [Azure Functions](https://docs.microsoft.com/en-us/azure/azure-functions/functions-overview)
   - [Azure Functions for the IT Admin](https://www.youtube.com/watch?v=B0vg8Bxbw3c)
   - [Azure Function to Bulk Stop and Start Azure Resources in Order](https://www.youtube.com/watch?v=PbzUBtkkdlk)
+  - [Using VS Code to Write and Deploy Azure Functions](https://www.youtube.com/watch?v=lpZCwzYVNpA)
 - [Azure Gateway Loadbalancer](https://docs.microsoft.com/en-us/azure/load-balancer/gateway-overview)
   - [Microsoft Azure Gateway Load Balancer Deep Dive](https://www.youtube.com/watch?v=JLx7ZFzjdSs)
 - [Azure Key Vault](https://docs.microsoft.com/en-us/azure/key-vault/general/overview)
@@ -369,6 +370,7 @@
 - [Azure DevOps Workload Identity Federation](https://www.youtube.com/watch?v=saTUeR_U3lA)
 - [Azure Verified Modules Overview](https://www.youtube.com/watch?v=3FeIFHaJOtg)
 - [GitHub Actions Certification – Full Course](https://www.youtube.com/watch?v=Tz7FsunBbfQ&list=WL&index=5)
+- [Using VS Code to Write and Deploy Azure Functions](https://www.youtube.com/watch?v=lpZCwzYVNpA)
 
 ### Harvard CS50 Courses
 - [Harvard CS50 - Full Computer Science University Course](https://www.youtube.com/watch?v=8mAITcNt710&list=WL&index=16)
