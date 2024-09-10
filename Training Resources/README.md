@@ -2,6 +2,7 @@
 
 ## Recent Additions
 
+- [Top Five Security Tips](https://www.youtube.com/watch?v=JYWR5GoF3vM)
 - [Using VS Code to Write and Deploy Azure Functions](https://www.youtube.com/watch?v=lpZCwzYVNpA)
 - [SC-900 Microsoft Security, Compliance And Identity Fundamentals](https://www.youtube.com/watch?v=-FJqb60wPSY)
 - [Azure ARC Jumpstart](https://www.youtube.com/watch?v=VvoZp69NiRk)
@@ -11,7 +12,6 @@
 - [GitHub Actions Certification – Full Course](https://www.youtube.com/watch?v=Tz7FsunBbfQ&list=WL&index=5)
 - [Using Azure OpenAI GPT vis REST](https://www.youtube.com/watch?v=PXRg1QQ3GFs)
 - [Entra Suite Overview](https://www.youtube.com/watch?v=Fu1qyW3kuLo)
-- [Microsoft Fabric Overview](https://www.youtube.com/watch?v=GbxVsi94DrE)
 
 
 ## Full Courses
@@ -353,6 +353,7 @@
 - [Microsoft Security Reference Architecture](https://www.youtube.com/playlist?list=PLtVMyW0H7aiOQwZSsn2d-tg2z729ce1BZ)
 - [Protecting Against Credential and Token Theft](https://www.youtube.com/watch?v=toytJf1rmV4)
 - [Safe Deployment Practices](https://www.youtube.com/watch?v=sDkY-pG6LCc)
+- [Top Five Security Tips](https://www.youtube.com/watch?v=JYWR5GoF3vM)
 
 ### Infrastructure As Code
 
