@@ -2,6 +2,7 @@
 
 ## Recent Additions
 
+- [Azure API Management Deep Dive](https://www.youtube.com/watch?v=PXtFq5wmGt0)
 - [Top Five Security Tips](https://www.youtube.com/watch?v=JYWR5GoF3vM)
 - [Using VS Code to Write and Deploy Azure Functions](https://www.youtube.com/watch?v=lpZCwzYVNpA)
 - [SC-900 Microsoft Security, Compliance And Identity Fundamentals](https://www.youtube.com/watch?v=-FJqb60wPSY)
@@ -11,7 +12,6 @@
 - [Safe Deployment Practices](https://www.youtube.com/watch?v=sDkY-pG6LCc)
 - [GitHub Actions Certification – Full Course](https://www.youtube.com/watch?v=Tz7FsunBbfQ&list=WL&index=5)
 - [Using Azure OpenAI GPT vis REST](https://www.youtube.com/watch?v=PXRg1QQ3GFs)
-- [Entra Suite Overview](https://www.youtube.com/watch?v=Fu1qyW3kuLo)
 
 
 ## Full Courses
@@ -93,6 +93,7 @@
   - [Entra Suite Overview](https://www.youtube.com/watch?v=Fu1qyW3kuLo)
 - [Azure API Manager](https://docs.microsoft.com/en-us/azure/api-management/api-management-key-concepts)
   - [Azure API Manager Automated Orchestration](https://geerkens-my.sharepoint.com/:v:/g/personal/ronny_geerkens_onmicrosoft_com/Ebys3KEacyZEi9BIjbHsad8BsnukdZ1QnKXSti6G1Czw5Q?e=JBsOgd)
+  - [Azure API Management Deep Dive](https://www.youtube.com/watch?v=PXtFq5wmGt0)
 - [Azure App Service Environment](https://docs.microsoft.com/en-us/azure/app-service/environment/overview)
   - [Azure App Service Environment (ASE) v3 Walkthrough](https://www.youtube.com/watch?v=mtCN5yGwqe0)
   - [Add authenticated user login to any Azure app](https://www.youtube.com/watch?v=O1QmK_q2Xfw)
