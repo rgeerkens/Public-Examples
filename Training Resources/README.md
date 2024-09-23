@@ -180,6 +180,7 @@
   - [Microsoft Azure Monitor - Alert Processing Rules](https://www.youtube.com/watch?v=cHH4RkL-9Dg)
   - [Microsoft Azure Monitor Agent and Data Collection Rule Overview](https://www.youtube.com/watch?v=Z1zDlXCwI9k)
   - [Kusto Query Language Overview](https://www.youtube.com/watch?v=Pl8n6GaWEo0)
+  - [Azure Monitor Logs](https://www.youtube.com/watch?v=tkNHafWEKKQ)
 - [Azure Netapp Files](https://docs.microsoft.com/en-us/azure/azure-netapp-files/azure-netapp-files-introduction)
   - [Azure NetApp Files Deep Dive](https://www.youtube.com/watch?v=OwajZ48Pa0c)
 - [Azure Policy](https://docs.microsoft.com/en-us/azure/governance/policy/overview)
