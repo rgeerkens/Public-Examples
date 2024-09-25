@@ -2,6 +2,7 @@
 
 ## Recent Additions
 
+- [What is Phishing Resistant Authentication](https://www.youtube.com/watch?v=Rzt30uytQs4)
 - [Azure API Management Deep Dive](https://www.youtube.com/watch?v=PXtFq5wmGt0)
 - [Top Five Security Tips](https://www.youtube.com/watch?v=JYWR5GoF3vM)
 - [Using VS Code to Write and Deploy Azure Functions](https://www.youtube.com/watch?v=lpZCwzYVNpA)
@@ -11,7 +12,6 @@
 - [Implications of NOT using Azure Paired Regions](https://www.youtube.com/watch?v=tLqh6hIbes8)
 - [Safe Deployment Practices](https://www.youtube.com/watch?v=sDkY-pG6LCc)
 - [GitHub Actions Certification – Full Course](https://www.youtube.com/watch?v=Tz7FsunBbfQ&list=WL&index=5)
-- [Using Azure OpenAI GPT vis REST](https://www.youtube.com/watch?v=PXRg1QQ3GFs)
 
 
 ## Full Courses
@@ -91,6 +91,7 @@
   - [Entra Group Writeback - Leverage Entra Governance Features On-Premises](https://www.youtube.com/watch?v=C6XXlSVaIeo)
   - [PASSKEYS - What they are, why we want them and how to use them!](https://www.youtube.com/watch?v=RWcXKQcwBRY)
   - [Entra Suite Overview](https://www.youtube.com/watch?v=Fu1qyW3kuLo)
+  - [What is Phishing Resistant Authentication](https://www.youtube.com/watch?v=Rzt30uytQs4)
 - [Azure API Manager](https://docs.microsoft.com/en-us/azure/api-management/api-management-key-concepts)
   - [Azure API Manager Automated Orchestration](https://geerkens-my.sharepoint.com/:v:/g/personal/ronny_geerkens_onmicrosoft_com/Ebys3KEacyZEi9BIjbHsad8BsnukdZ1QnKXSti6G1Czw5Q?e=JBsOgd)
   - [Azure API Management Deep Dive](https://www.youtube.com/watch?v=PXtFq5wmGt0)
