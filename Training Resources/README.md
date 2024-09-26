@@ -2,6 +2,7 @@
 
 ## Recent Additions
 
+- [Great Github Repo : RAG_Hack](https://github.com/microsoft/RAG_Hack)
 - [What is Phishing Resistant Authentication](https://www.youtube.com/watch?v=Rzt30uytQs4)
 - [Azure API Management Deep Dive](https://www.youtube.com/watch?v=PXtFq5wmGt0)
 - [Top Five Security Tips](https://www.youtube.com/watch?v=JYWR5GoF3vM)
@@ -11,7 +12,6 @@
 - [First Hour with GitHub Copilot](https://www.youtube.com/watch?v=7GtrNVoJatE)
 - [Implications of NOT using Azure Paired Regions](https://www.youtube.com/watch?v=tLqh6hIbes8)
 - [Safe Deployment Practices](https://www.youtube.com/watch?v=sDkY-pG6LCc)
-- [GitHub Actions Certification – Full Course](https://www.youtube.com/watch?v=Tz7FsunBbfQ&list=WL&index=5)
 
 
 ## Full Courses
@@ -437,6 +437,7 @@
 - [Aweseome Azure Policy](https://github.com/globalbao/awesome-azure-policy)
 - [Awesome Azure Learning](https://github.com/ddneves/awesome-azure-learning)
 - [Azure landing zones Terraform module](https://github.com/Azure/terraform-azurerm-caf-enterprise-scale)
+- [RAG_Hack](https://github.com/microsoft/RAG_Hack)
 
 ## General Tools
 
