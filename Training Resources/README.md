@@ -2,6 +2,7 @@
 
 ## Recent Additions
 
+- [Azure API Management with Generative AI](https://www.youtube.com/watch?v=l_8dTUwrqNw)
 - [Great Github Repo : RAG_Hack](https://github.com/microsoft/RAG_Hack)
 - [What is Phishing Resistant Authentication](https://www.youtube.com/watch?v=Rzt30uytQs4)
 - [Azure API Management Deep Dive](https://www.youtube.com/watch?v=PXtFq5wmGt0)
@@ -11,7 +12,6 @@
 - [Azure ARC Jumpstart](https://www.youtube.com/watch?v=VvoZp69NiRk)
 - [First Hour with GitHub Copilot](https://www.youtube.com/watch?v=7GtrNVoJatE)
 - [Implications of NOT using Azure Paired Regions](https://www.youtube.com/watch?v=tLqh6hIbes8)
-- [Safe Deployment Practices](https://www.youtube.com/watch?v=sDkY-pG6LCc)
 
 
 ## Full Courses
@@ -95,6 +95,7 @@
 - [Azure API Manager](https://docs.microsoft.com/en-us/azure/api-management/api-management-key-concepts)
   - [Azure API Manager Automated Orchestration](https://geerkens-my.sharepoint.com/:v:/g/personal/ronny_geerkens_onmicrosoft_com/Ebys3KEacyZEi9BIjbHsad8BsnukdZ1QnKXSti6G1Czw5Q?e=JBsOgd)
   - [Azure API Management Deep Dive](https://www.youtube.com/watch?v=PXtFq5wmGt0)
+  - [Azure API Management with Generative AI](https://www.youtube.com/watch?v=l_8dTUwrqNw)
 - [Azure App Service Environment](https://docs.microsoft.com/en-us/azure/app-service/environment/overview)
   - [Azure App Service Environment (ASE) v3 Walkthrough](https://www.youtube.com/watch?v=mtCN5yGwqe0)
   - [Add authenticated user login to any Azure app](https://www.youtube.com/watch?v=O1QmK_q2Xfw)
