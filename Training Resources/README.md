@@ -2,6 +2,7 @@
 
 ## Recent Additions
 
+- [Azure SQL Hyperscale Deep Dive](https://www.youtube.com/watch?v=S674gxeQr1s)
 - [Azure API Management with Generative AI](https://www.youtube.com/watch?v=l_8dTUwrqNw)
 - [Great Github Repo : RAG_Hack](https://github.com/microsoft/RAG_Hack)
 - [What is Phishing Resistant Authentication](https://www.youtube.com/watch?v=Rzt30uytQs4)
@@ -11,7 +12,6 @@
 - [SC-900 Microsoft Security, Compliance And Identity Fundamentals](https://www.youtube.com/watch?v=-FJqb60wPSY)
 - [Azure ARC Jumpstart](https://www.youtube.com/watch?v=VvoZp69NiRk)
 - [First Hour with GitHub Copilot](https://www.youtube.com/watch?v=7GtrNVoJatE)
-- [Implications of NOT using Azure Paired Regions](https://www.youtube.com/watch?v=tLqh6hIbes8)
 
 
 ## Full Courses
@@ -219,6 +219,7 @@
 - [Azure SQL](https://learn.microsoft.com/en-us/azure/azure-sql/azure-sql-iaas-vs-paas-what-is-overview?view=azuresql)
   - [Azure SQL IaaS VM Extension Overview](https://www.youtube.com/watch?v=ckSvoe6Ho3g)
   - [Azure SQL High Availability and Disaster Recovery](https://www.youtube.com/watch?v=-HTYxfXW3Fo)
+  - [Azure SQL Hyperscale Deep Dive](https://www.youtube.com/watch?v=S674gxeQr1s)
 - [Azure Static Web Apps](https://docs.microsoft.com/en-us/azure/static-web-apps/overview)
   - [Azure Static Web Apps Deep Dive](https://www.youtube.com/watch?v=8SjErjeCdu0)
 - [Azure Storage Accounts / Disks](https://docs.microsoft.com/en-us/azure/storage/common/storage-account-overview)
