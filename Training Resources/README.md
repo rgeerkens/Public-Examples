@@ -2,6 +2,7 @@
 
 ## Recent Additions
 
+- [Creating Azure Budgets](https://www.youtube.com/watch?v=MRWR_9JMsF4)
 - [Azure SQL Hyperscale Deep Dive](https://www.youtube.com/watch?v=S674gxeQr1s)
 - [Azure API Management with Generative AI](https://www.youtube.com/watch?v=l_8dTUwrqNw)
 - [Great Github Repo : RAG_Hack](https://github.com/microsoft/RAG_Hack)
@@ -11,7 +12,6 @@
 - [Using VS Code to Write and Deploy Azure Functions](https://www.youtube.com/watch?v=lpZCwzYVNpA)
 - [SC-900 Microsoft Security, Compliance And Identity Fundamentals](https://www.youtube.com/watch?v=-FJqb60wPSY)
 - [Azure ARC Jumpstart](https://www.youtube.com/watch?v=VvoZp69NiRk)
-- [First Hour with GitHub Copilot](https://www.youtube.com/watch?v=7GtrNVoJatE)
 
 
 ## Full Courses
@@ -114,6 +114,8 @@
   - [Azure Arc-Enabled VMware vSphere Walkthrough](https://www.youtube.com/watch?v=geuQ6fIsivg)
   - [Azure Arc-Enabled System Center Virtual Machine Manager](https://www.youtube.com/watch?v=vn4p1qmpmy4)
   - [Multicloud Connector - Integrate OTHER clouds with Azure!](https://www.youtube.com/watch?v=9ZeWpIqOzk0)
+- [Azure Budgets](https://learn.microsoft.com/en-us/azure/cost-management-billing/manage/cost-management-budget-scenario)
+  - [Creating Azure Budgets](https://www.youtube.com/watch?v=MRWR_9JMsF4)
 - [Azure Bastion](https://docs.microsoft.com/en-us/azure/bastion/bastion-overview)
   - [Azure Bastion Deep Dive](https://www.youtube.com/watch?v=lZ_u57gJBNo)
 - [Azure Chaos Studio](https://learn.microsoft.com/en-us/azure/chaos-studio/)
