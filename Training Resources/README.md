@@ -2,6 +2,7 @@
 
 ## Recent Additions
 
+- [Azure OpenAI Deployment Types and Resiliency](https://www.youtube.com/watch?v=HnUNi1RMMTA)
 - [Creating Azure Budgets](https://www.youtube.com/watch?v=MRWR_9JMsF4)
 - [Azure SQL Hyperscale Deep Dive](https://www.youtube.com/watch?v=S674gxeQr1s)
 - [Azure API Management with Generative AI](https://www.youtube.com/watch?v=l_8dTUwrqNw)
@@ -11,7 +12,6 @@
 - [Top Five Security Tips](https://www.youtube.com/watch?v=JYWR5GoF3vM)
 - [Using VS Code to Write and Deploy Azure Functions](https://www.youtube.com/watch?v=lpZCwzYVNpA)
 - [SC-900 Microsoft Security, Compliance And Identity Fundamentals](https://www.youtube.com/watch?v=-FJqb60wPSY)
-- [Azure ARC Jumpstart](https://www.youtube.com/watch?v=VvoZp69NiRk)
 
 
 ## Full Courses
@@ -312,6 +312,7 @@
 - [Microsoft Copilot for Security](https://www.youtube.com/watch?v=7hNbYOjh-1k&list=WL&index=3)
 - [Using Azure OpenAI GPT vis REST](https://www.youtube.com/watch?v=PXRg1QQ3GFs)
 - [First Hour with GitHub Copilot](https://www.youtube.com/watch?v=7GtrNVoJatE)
+- [Azure OpenAI Deployment Types and Resiliency](https://www.youtube.com/watch?v=HnUNi1RMMTA)
 
 ### Office 365 Platform
 
