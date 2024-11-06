@@ -2,6 +2,7 @@
 
 ## Recent Additions
 
+- [Generative AI Security Top Considerations](https://www.youtube.com/watch?v=NuSL-FwviIQ)
 - [Azure OpenAI Deployment Types and Resiliency](https://www.youtube.com/watch?v=HnUNi1RMMTA)
 - [Creating Azure Budgets](https://www.youtube.com/watch?v=MRWR_9JMsF4)
 - [Azure SQL Hyperscale Deep Dive](https://www.youtube.com/watch?v=S674gxeQr1s)
@@ -11,7 +12,6 @@
 - [Azure API Management Deep Dive](https://www.youtube.com/watch?v=PXtFq5wmGt0)
 - [Top Five Security Tips](https://www.youtube.com/watch?v=JYWR5GoF3vM)
 - [Using VS Code to Write and Deploy Azure Functions](https://www.youtube.com/watch?v=lpZCwzYVNpA)
-- [SC-900 Microsoft Security, Compliance And Identity Fundamentals](https://www.youtube.com/watch?v=-FJqb60wPSY)
 
 
 ## Full Courses
@@ -313,6 +313,7 @@
 - [Using Azure OpenAI GPT vis REST](https://www.youtube.com/watch?v=PXRg1QQ3GFs)
 - [First Hour with GitHub Copilot](https://www.youtube.com/watch?v=7GtrNVoJatE)
 - [Azure OpenAI Deployment Types and Resiliency](https://www.youtube.com/watch?v=HnUNi1RMMTA)
+- [Generative AI Security Top Considerations](https://www.youtube.com/watch?v=NuSL-FwviIQ)
 
 ### Office 365 Platform
 
