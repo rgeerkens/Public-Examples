@@ -2,6 +2,7 @@
 
 ## Recent Additions
 
+- [Continuous Access Evaluation Deep Dive - Securing Your Tokens!](https://www.youtube.com/watch?v=m3309aUKET8)
 - [Generative AI Security Top Considerations](https://www.youtube.com/watch?v=NuSL-FwviIQ)
 - [Azure OpenAI Deployment Types and Resiliency](https://www.youtube.com/watch?v=HnUNi1RMMTA)
 - [Creating Azure Budgets](https://www.youtube.com/watch?v=MRWR_9JMsF4)
@@ -11,7 +12,6 @@
 - [What is Phishing Resistant Authentication](https://www.youtube.com/watch?v=Rzt30uytQs4)
 - [Azure API Management Deep Dive](https://www.youtube.com/watch?v=PXtFq5wmGt0)
 - [Top Five Security Tips](https://www.youtube.com/watch?v=JYWR5GoF3vM)
-- [Using VS Code to Write and Deploy Azure Functions](https://www.youtube.com/watch?v=lpZCwzYVNpA)
 
 
 ## Full Courses
@@ -92,6 +92,7 @@
   - [PASSKEYS - What they are, why we want them and how to use them!](https://www.youtube.com/watch?v=RWcXKQcwBRY)
   - [Entra Suite Overview](https://www.youtube.com/watch?v=Fu1qyW3kuLo)
   - [What is Phishing Resistant Authentication](https://www.youtube.com/watch?v=Rzt30uytQs4)
+  - [Continuous Access Evaluation Deep Dive - Securing Your Tokens!](https://www.youtube.com/watch?v=m3309aUKET8)
 - [Azure API Manager](https://docs.microsoft.com/en-us/azure/api-management/api-management-key-concepts)
   - [Azure API Manager Automated Orchestration](https://geerkens-my.sharepoint.com/:v:/g/personal/ronny_geerkens_onmicrosoft_com/Ebys3KEacyZEi9BIjbHsad8BsnukdZ1QnKXSti6G1Czw5Q?e=JBsOgd)
   - [Azure API Management Deep Dive](https://www.youtube.com/watch?v=PXtFq5wmGt0)
