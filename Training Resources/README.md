@@ -2,6 +2,7 @@
 
 ## Recent Additions
 
+- [Azure Bastion Premium](https://www.youtube.com/watch?v=zMplc7YpuQY)
 - [Where are the keys in passkeys?](https://www.youtube.com/watch?v=HJ78T5WOpW4)
 - [Continuous Access Evaluation Deep Dive - Securing Your Tokens!](https://www.youtube.com/watch?v=m3309aUKET8)
 - [Generative AI Security Top Considerations](https://www.youtube.com/watch?v=NuSL-FwviIQ)
@@ -11,7 +12,6 @@
 - [Azure API Management with Generative AI](https://www.youtube.com/watch?v=l_8dTUwrqNw)
 - [Great Github Repo : RAG_Hack](https://github.com/microsoft/RAG_Hack)
 - [What is Phishing Resistant Authentication](https://www.youtube.com/watch?v=Rzt30uytQs4)
-- [Azure API Management Deep Dive](https://www.youtube.com/watch?v=PXtFq5wmGt0)
 
 
 ## Full Courses
@@ -120,6 +120,7 @@
   - [Creating Azure Budgets](https://www.youtube.com/watch?v=MRWR_9JMsF4)
 - [Azure Bastion](https://docs.microsoft.com/en-us/azure/bastion/bastion-overview)
   - [Azure Bastion Deep Dive](https://www.youtube.com/watch?v=lZ_u57gJBNo)
+  - [Azure Bastion Premium](https://www.youtube.com/watch?v=zMplc7YpuQY)
 - [Azure Chaos Studio](https://learn.microsoft.com/en-us/azure/chaos-studio/)
   - [Azure Chaos Studio Example](https://www.youtube.com/watch?v=IkEQm6m46Ow)
 - [Azure Conditional Access](https://learn.microsoft.com/en-us/azure/active-directory/conditional-access/overview)
