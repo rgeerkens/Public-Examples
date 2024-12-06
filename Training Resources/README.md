@@ -2,6 +2,7 @@
 
 ## Recent Additions
 
+- [Applying Conditional Access Policy to M365 and Security Copilots](https://www.youtube.com/watch?v=kdkwbI4R4Sc)
 - [Azure Bastion Premium](https://www.youtube.com/watch?v=zMplc7YpuQY)
 - [Where are the keys in passkeys?](https://www.youtube.com/watch?v=HJ78T5WOpW4)
 - [Continuous Access Evaluation Deep Dive - Securing Your Tokens!](https://www.youtube.com/watch?v=m3309aUKET8)
@@ -11,7 +12,6 @@
 - [Azure SQL Hyperscale Deep Dive](https://www.youtube.com/watch?v=S674gxeQr1s)
 - [Azure API Management with Generative AI](https://www.youtube.com/watch?v=l_8dTUwrqNw)
 - [Great Github Repo : RAG_Hack](https://github.com/microsoft/RAG_Hack)
-- [What is Phishing Resistant Authentication](https://www.youtube.com/watch?v=Rzt30uytQs4)
 
 
 ## Full Courses
@@ -131,6 +131,7 @@
   - [Integrating Privileged Identity Management with Conditional Access](https://www.youtube.com/watch?v=6gHzKX3cnCY)
   - [Conditional Access Filters and Templates](https://www.youtube.com/watch?v=PwBg3J4PSCA)
   - [Using Conditional Access with Authentication Flows](https://www.youtube.com/watch?v=A1-kSuLLNLI)
+  - [Applying Conditional Access Policy to M365 and Security Copilots](https://www.youtube.com/watch?v=kdkwbI4R4Sc)
 - [Azure Confidential Computing](https://docs.microsoft.com/en-us/azure/confidential-computing/overview)
   - [Confidential Computing Deep Dive](https://www.youtube.com/watch?v=ZnoFOTbRvRg)
   - [Generation 2 VM and Trusted Launch](https://www.youtube.com/watch?v=SnfBV-YjDWw)
