@@ -2,6 +2,7 @@
 
 ## Recent Additions
 
+- [Hyper-V Overview](https://www.youtube.com/watch?v=CqgsJzn3uXM)
 - [Applying Conditional Access Policy to M365 and Security Copilots](https://www.youtube.com/watch?v=kdkwbI4R4Sc)
 - [Azure Bastion Premium](https://www.youtube.com/watch?v=zMplc7YpuQY)
 - [Where are the keys in passkeys?](https://www.youtube.com/watch?v=HJ78T5WOpW4)
@@ -11,7 +12,6 @@
 - [Creating Azure Budgets](https://www.youtube.com/watch?v=MRWR_9JMsF4)
 - [Azure SQL Hyperscale Deep Dive](https://www.youtube.com/watch?v=S674gxeQr1s)
 - [Azure API Management with Generative AI](https://www.youtube.com/watch?v=l_8dTUwrqNw)
-- [Great Github Repo : RAG_Hack](https://github.com/microsoft/RAG_Hack)
 
 
 ## Full Courses
@@ -336,6 +336,7 @@
 - [Azure AD App Proxy Deep Dive](https://www.youtube.com/watch?v=dcAY-qrzTYA)
 - [Windows Local Administrator Password Solution (LAPS)](https://www.youtube.com/watch?v=QkLwZI76SN4)
 - [Windows/SQL 2012 End-Of-Life Options](https://www.youtube.com/watch?v=AU1ywaQ3ejg)
+- [Hyper-V Overview](https://www.youtube.com/watch?v=CqgsJzn3uXM)
 
 ### Container Courses
 
