@@ -2,6 +2,7 @@
 
 ## Recent Additions
 
+- [DP-600 Microsoft Fabric Analytics Engineer](https://www.youtube.com/watch?v=Bjk93hi21QM)
 - [Hyper-V Overview](https://www.youtube.com/watch?v=CqgsJzn3uXM)
 - [Applying Conditional Access Policy to M365 and Security Copilots](https://www.youtube.com/watch?v=kdkwbI4R4Sc)
 - [Azure Bastion Premium](https://www.youtube.com/watch?v=zMplc7YpuQY)
@@ -11,7 +12,6 @@
 - [Azure OpenAI Deployment Types and Resiliency](https://www.youtube.com/watch?v=HnUNi1RMMTA)
 - [Creating Azure Budgets](https://www.youtube.com/watch?v=MRWR_9JMsF4)
 - [Azure SQL Hyperscale Deep Dive](https://www.youtube.com/watch?v=S674gxeQr1s)
-- [Azure API Management with Generative AI](https://www.youtube.com/watch?v=l_8dTUwrqNw)
 
 
 ## Full Courses
@@ -31,6 +31,7 @@
 - [AZ-500 Microsoft Azure Security Technologies - Full Course](https://www.youtube.com/playlist?list=PLlVtbbG169nHw9T1L_CiLxC-DTwKu-BZG)
 - [AZ-500 Microsoft Azure Security Technologies - Summary](https://www.youtube.com/watch?v=6vISzj-z8k4)
 - [MS-500 Microsoft 365 Security Administrattion - Full Course](https://www.youtube.com/watch?v=cG00gMyvwfo)
+- [DP-600 Microsoft Fabric Analytics Engineer](https://www.youtube.com/watch?v=Bjk93hi21QM)
 - [AZ-700 Designing And Implement Azure Networking - Full Course](https://www.youtube.com/playlist?list=PLlVtbbG169nGeFODKRZhjqdSxFpSPXVOa)
 - [AZ-700 Designing And Implement Azure Networking - Summary](https://www.youtube.com/watch?v=nVZYDhB_M64)
 - [MS-700 Managing Microsoft Teams - Full Course](https://www.youtube.com/watch?v=-Gs3dmS-jnE)
