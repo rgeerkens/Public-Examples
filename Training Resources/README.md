@@ -2,6 +2,7 @@
 
 ## Recent Additions
 
+- [What is the AI Singularity?](https://www.youtube.com/watch?v=n816hcs-j3A)
 - [DP-600 Microsoft Fabric Analytics Engineer](https://www.youtube.com/watch?v=Bjk93hi21QM)
 - [Hyper-V Overview](https://www.youtube.com/watch?v=CqgsJzn3uXM)
 - [Applying Conditional Access Policy to M365 and Security Copilots](https://www.youtube.com/watch?v=kdkwbI4R4Sc)
@@ -11,7 +12,6 @@
 - [Generative AI Security Top Considerations](https://www.youtube.com/watch?v=NuSL-FwviIQ)
 - [Azure OpenAI Deployment Types and Resiliency](https://www.youtube.com/watch?v=HnUNi1RMMTA)
 - [Creating Azure Budgets](https://www.youtube.com/watch?v=MRWR_9JMsF4)
-- [Azure SQL Hyperscale Deep Dive](https://www.youtube.com/watch?v=S674gxeQr1s)
 
 
 ## Full Courses
@@ -319,6 +319,7 @@
 - [First Hour with GitHub Copilot](https://www.youtube.com/watch?v=7GtrNVoJatE)
 - [Azure OpenAI Deployment Types and Resiliency](https://www.youtube.com/watch?v=HnUNi1RMMTA)
 - [Generative AI Security Top Considerations](https://www.youtube.com/watch?v=NuSL-FwviIQ)
+- [What is the AI Singularity?](https://www.youtube.com/watch?v=n816hcs-j3A)
 
 ### Office 365 Platform
 
