@@ -2,6 +2,7 @@
 
 ## Recent Additions
 
+- [Azure AI Foundry Overview](https://www.youtube.com/watch?v=Sq8Cq7RZM2o)
 - [Staying Ahead of Azure Service Retirements](https://www.youtube.com/watch?v=8lfQf1YiaB4)
 - [What is the AI Singularity?](https://www.youtube.com/watch?v=n816hcs-j3A)
 - [DP-600 Microsoft Fabric Analytics Engineer](https://www.youtube.com/watch?v=Bjk93hi21QM)
@@ -11,7 +12,6 @@
 - [Where are the keys in passkeys?](https://www.youtube.com/watch?v=HJ78T5WOpW4)
 - [Continuous Access Evaluation Deep Dive - Securing Your Tokens!](https://www.youtube.com/watch?v=m3309aUKET8)
 - [Generative AI Security Top Considerations](https://www.youtube.com/watch?v=NuSL-FwviIQ)
-- [Azure OpenAI Deployment Types and Resiliency](https://www.youtube.com/watch?v=HnUNi1RMMTA)
 
 
 ## Full Courses
@@ -321,6 +321,7 @@
 - [Azure OpenAI Deployment Types and Resiliency](https://www.youtube.com/watch?v=HnUNi1RMMTA)
 - [Generative AI Security Top Considerations](https://www.youtube.com/watch?v=NuSL-FwviIQ)
 - [What is the AI Singularity?](https://www.youtube.com/watch?v=n816hcs-j3A)
+- [Azure AI Foundry Overview](https://www.youtube.com/watch?v=Sq8Cq7RZM2o)
 
 ### Office 365 Platform
 
