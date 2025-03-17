@@ -2,6 +2,7 @@
 
 ## Recent Additions
 
+- [Agentic AI](https://www.youtube.com/watch?v=UYJ539hgDS0)
 - [Copilot Studio Per-Message Billing](https://www.youtube.com/watch?v=G2i5hw40eWU)
 - [Azure AI Foundry Overview](https://www.youtube.com/watch?v=Sq8Cq7RZM2o)
 - [Staying Ahead of Azure Service Retirements](https://www.youtube.com/watch?v=8lfQf1YiaB4)
@@ -11,7 +12,6 @@
 - [Applying Conditional Access Policy to M365 and Security Copilots](https://www.youtube.com/watch?v=kdkwbI4R4Sc)
 - [Azure Bastion Premium](https://www.youtube.com/watch?v=zMplc7YpuQY)
 - [Where are the keys in passkeys?](https://www.youtube.com/watch?v=HJ78T5WOpW4)
-- [Continuous Access Evaluation Deep Dive - Securing Your Tokens!](https://www.youtube.com/watch?v=m3309aUKET8)
 
 
 ## Full Courses
@@ -323,6 +323,7 @@
 - [What is the AI Singularity?](https://www.youtube.com/watch?v=n816hcs-j3A)
 - [Azure AI Foundry Overview](https://www.youtube.com/watch?v=Sq8Cq7RZM2o)
 - [Copilot Studio Per-Message Billing](https://www.youtube.com/watch?v=G2i5hw40eWU)
+- [Agentic AI](https://www.youtube.com/watch?v=UYJ539hgDS0)
 
 ### Office 365 Platform
 
