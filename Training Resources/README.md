@@ -2,6 +2,7 @@
 
 ## Recent Additions
 
+- [Getting Your Data Ready For Copilot](https://www.youtube.com/watch?v=uZ-05Jg5ti0)
 - [Agentic AI](https://www.youtube.com/watch?v=UYJ539hgDS0)
 - [Copilot Studio Per-Message Billing](https://www.youtube.com/watch?v=G2i5hw40eWU)
 - [Azure AI Foundry Overview](https://www.youtube.com/watch?v=Sq8Cq7RZM2o)
@@ -11,7 +12,6 @@
 - [Hyper-V Overview](https://www.youtube.com/watch?v=CqgsJzn3uXM)
 - [Applying Conditional Access Policy to M365 and Security Copilots](https://www.youtube.com/watch?v=kdkwbI4R4Sc)
 - [Azure Bastion Premium](https://www.youtube.com/watch?v=zMplc7YpuQY)
-- [Where are the keys in passkeys?](https://www.youtube.com/watch?v=HJ78T5WOpW4)
 
 
 ## Full Courses
@@ -324,6 +324,7 @@
 - [Azure AI Foundry Overview](https://www.youtube.com/watch?v=Sq8Cq7RZM2o)
 - [Copilot Studio Per-Message Billing](https://www.youtube.com/watch?v=G2i5hw40eWU)
 - [Agentic AI](https://www.youtube.com/watch?v=UYJ539hgDS0)
+- [Getting Your Data Ready For Copilot](https://www.youtube.com/watch?v=uZ-05Jg5ti0)
 
 ### Office 365 Platform
 
