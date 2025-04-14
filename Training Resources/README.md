@@ -2,6 +2,7 @@
 
 ## Recent Additions
 
+- [Quantum Computing For Everyone](https://www.youtube.com/watch?v=x5Ohhi3YTKY)
 - [Model Context Protocol Overview](https://www.youtube.com/watch?v=1Pf2rW5FsqQ)
 - [Getting Your Data Ready For Copilot](https://www.youtube.com/watch?v=uZ-05Jg5ti0)
 - [Agentic AI](https://www.youtube.com/watch?v=UYJ539hgDS0)
@@ -11,7 +12,6 @@
 - [What is the AI Singularity?](https://www.youtube.com/watch?v=n816hcs-j3A)
 - [DP-600 Microsoft Fabric Analytics Engineer](https://www.youtube.com/watch?v=Bjk93hi21QM)
 - [Hyper-V Overview](https://www.youtube.com/watch?v=CqgsJzn3uXM)
-- [Applying Conditional Access Policy to M365 and Security Copilots](https://www.youtube.com/watch?v=kdkwbI4R4Sc)
 
 
 ## Full Courses
@@ -376,6 +376,7 @@
 - [Protecting Against Credential and Token Theft](https://www.youtube.com/watch?v=toytJf1rmV4)
 - [Safe Deployment Practices](https://www.youtube.com/watch?v=sDkY-pG6LCc)
 - [Top Five Security Tips](https://www.youtube.com/watch?v=JYWR5GoF3vM)
+- [Quantum Computing For Everyone](https://www.youtube.com/watch?v=x5Ohhi3YTKY)
 
 ### Infrastructure As Code
 
