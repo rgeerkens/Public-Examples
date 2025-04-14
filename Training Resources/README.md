@@ -2,6 +2,7 @@
 
 ## Recent Additions
 
+- [Model Context Protocol Overview](https://www.youtube.com/watch?v=1Pf2rW5FsqQ)
 - [Getting Your Data Ready For Copilot](https://www.youtube.com/watch?v=uZ-05Jg5ti0)
 - [Agentic AI](https://www.youtube.com/watch?v=UYJ539hgDS0)
 - [Copilot Studio Per-Message Billing](https://www.youtube.com/watch?v=G2i5hw40eWU)
@@ -11,7 +12,6 @@
 - [DP-600 Microsoft Fabric Analytics Engineer](https://www.youtube.com/watch?v=Bjk93hi21QM)
 - [Hyper-V Overview](https://www.youtube.com/watch?v=CqgsJzn3uXM)
 - [Applying Conditional Access Policy to M365 and Security Copilots](https://www.youtube.com/watch?v=kdkwbI4R4Sc)
-- [Azure Bastion Premium](https://www.youtube.com/watch?v=zMplc7YpuQY)
 
 
 ## Full Courses
@@ -325,6 +325,7 @@
 - [Copilot Studio Per-Message Billing](https://www.youtube.com/watch?v=G2i5hw40eWU)
 - [Agentic AI](https://www.youtube.com/watch?v=UYJ539hgDS0)
 - [Getting Your Data Ready For Copilot](https://www.youtube.com/watch?v=uZ-05Jg5ti0)
+- [Model Context Protocol Overview](https://www.youtube.com/watch?v=1Pf2rW5FsqQ)
 
 ### Office 365 Platform
 
