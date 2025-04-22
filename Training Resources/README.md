@@ -2,6 +2,7 @@
 
 ## Recent Additions
 
+- [Subscription Vending](https://www.youtube.com/watch?v=aIbtnk2F8Xo)
 - [Quantum Computing For Everyone](https://www.youtube.com/watch?v=x5Ohhi3YTKY)
 - [Model Context Protocol Overview](https://www.youtube.com/watch?v=1Pf2rW5FsqQ)
 - [Getting Your Data Ready For Copilot](https://www.youtube.com/watch?v=uZ-05Jg5ti0)
@@ -11,7 +12,6 @@
 - [Staying Ahead of Azure Service Retirements](https://www.youtube.com/watch?v=8lfQf1YiaB4)
 - [What is the AI Singularity?](https://www.youtube.com/watch?v=n816hcs-j3A)
 - [DP-600 Microsoft Fabric Analytics Engineer](https://www.youtube.com/watch?v=Bjk93hi21QM)
-- [Hyper-V Overview](https://www.youtube.com/watch?v=CqgsJzn3uXM)
 
 
 ## Full Courses
@@ -284,6 +284,7 @@
 - [Tracking Changes On Azure](https://www.youtube.com/watch?v=HfCgJ_Gk00Y)
 - [FinOps and Azure!](https://www.youtube.com/watch?v=YHUptdFtozQ)
 - [Staying Ahead of Azure Service Retirements](https://www.youtube.com/watch?v=8lfQf1YiaB4)
+- [Subscription Vending](https://www.youtube.com/watch?v=aIbtnk2F8Xo)
 
 ### Azure Workbooks & Tools
 
