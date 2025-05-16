@@ -2,6 +2,7 @@
 
 ## Recent Additions
 
+- [Dev Containers and GitHub Codespaces](https://www.youtube.com/watch?v=-D2BwSV9Pg0)
 - [Subscription Vending](https://www.youtube.com/watch?v=aIbtnk2F8Xo)
 - [Quantum Computing For Everyone](https://www.youtube.com/watch?v=x5Ohhi3YTKY)
 - [Model Context Protocol Overview](https://www.youtube.com/watch?v=1Pf2rW5FsqQ)
@@ -11,7 +12,6 @@
 - [Azure AI Foundry Overview](https://www.youtube.com/watch?v=Sq8Cq7RZM2o)
 - [Staying Ahead of Azure Service Retirements](https://www.youtube.com/watch?v=8lfQf1YiaB4)
 - [What is the AI Singularity?](https://www.youtube.com/watch?v=n816hcs-j3A)
-- [DP-600 Microsoft Fabric Analytics Engineer](https://www.youtube.com/watch?v=Bjk93hi21QM)
 
 
 ## Full Courses
@@ -396,6 +396,7 @@
 - [Azure Verified Modules Overview](https://www.youtube.com/watch?v=3FeIFHaJOtg)
 - [GitHub Actions Certification – Full Course](https://www.youtube.com/watch?v=Tz7FsunBbfQ&list=WL&index=5)
 - [Using VS Code to Write and Deploy Azure Functions](https://www.youtube.com/watch?v=lpZCwzYVNpA)
+- [Dev Containers and GitHub Codespaces](https://www.youtube.com/watch?v=-D2BwSV9Pg0)
 
 ### Harvard CS50 Courses
 - [Harvard CS50 - Full Computer Science University Course](https://www.youtube.com/watch?v=8mAITcNt710&list=WL&index=16)
