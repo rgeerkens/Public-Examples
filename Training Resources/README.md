@@ -2,6 +2,7 @@
 
 ## Recent Additions
 
+- [Subnet Level Peering Overview](https://www.youtube.com/watch?v=L4_k_HwCklE)
 - [Dev Containers and GitHub Codespaces](https://www.youtube.com/watch?v=-D2BwSV9Pg0)
 - [Subscription Vending](https://www.youtube.com/watch?v=aIbtnk2F8Xo)
 - [Quantum Computing For Everyone](https://www.youtube.com/watch?v=x5Ohhi3YTKY)
@@ -11,7 +12,6 @@
 - [Copilot Studio Per-Message Billing](https://www.youtube.com/watch?v=G2i5hw40eWU)
 - [Azure AI Foundry Overview](https://www.youtube.com/watch?v=Sq8Cq7RZM2o)
 - [Staying Ahead of Azure Service Retirements](https://www.youtube.com/watch?v=8lfQf1YiaB4)
-- [What is the AI Singularity?](https://www.youtube.com/watch?v=n816hcs-j3A)
 
 
 ## Full Courses
@@ -252,6 +252,7 @@
   - [Peered Virtual Network Address Space Modify in Microsoft Azure](https://www.youtube.com/watch?v=nldYMGd82EY)
   - [Azure Virtual Network Manager Deep Dive](https://www.youtube.com/watch?v=qNn83S55WHQ)
   - [Virtual Network Flow Logs and Encryption Overview](https://www.youtube.com/watch?v=JaAG_adPho0)
+  - [Subnet Level Peering Overview](https://www.youtube.com/watch?v=L4_k_HwCklE)
 - [Azure VMware Solution](https://learn.microsoft.com/en-us/azure/azure-vmware/)
   - [Azure VMware Solution Deep Dive](https://www.youtube.com/watch?v=cBwxLSZMN9o)
 
