@@ -2,6 +2,7 @@
 
 ## Recent Additions
 
+- [NLWeb Overview](https://www.youtube.com/watch?v=nahm6tEPrA4)
 - [Defeat Deep Fakes and Imposters with Verified ID and Face Check](https://www.youtube.com/watch?v=58j2PLW-M5k)
 - [Subnet Level Peering Overview](https://www.youtube.com/watch?v=L4_k_HwCklE)
 - [Dev Containers and GitHub Codespaces](https://www.youtube.com/watch?v=-D2BwSV9Pg0)
@@ -11,7 +12,6 @@
 - [Getting Your Data Ready For Copilot](https://www.youtube.com/watch?v=uZ-05Jg5ti0)
 - [Agentic AI](https://www.youtube.com/watch?v=UYJ539hgDS0)
 - [Copilot Studio Per-Message Billing](https://www.youtube.com/watch?v=G2i5hw40eWU)
-- [Azure AI Foundry Overview](https://www.youtube.com/watch?v=Sq8Cq7RZM2o)
 
 
 ## Full Courses
@@ -329,6 +329,7 @@
 - [Agentic AI](https://www.youtube.com/watch?v=UYJ539hgDS0)
 - [Getting Your Data Ready For Copilot](https://www.youtube.com/watch?v=uZ-05Jg5ti0)
 - [Model Context Protocol Overview](https://www.youtube.com/watch?v=1Pf2rW5FsqQ)
+- [NLWeb Overview](https://www.youtube.com/watch?v=nahm6tEPrA4)
 
 ### Office 365 Platform
 
