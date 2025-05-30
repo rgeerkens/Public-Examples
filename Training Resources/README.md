@@ -2,6 +2,7 @@
 
 ## Recent Additions
 
+- [TLS Inspection in Microsoft Entra Internet Access Deep Dive](https://www.youtube.com/watch?v=WxxHH_4vKh4&t=10s)
 - [NLWeb Overview](https://www.youtube.com/watch?v=nahm6tEPrA4)
 - [Defeat Deep Fakes and Imposters with Verified ID and Face Check](https://www.youtube.com/watch?v=58j2PLW-M5k)
 - [Subnet Level Peering Overview](https://www.youtube.com/watch?v=L4_k_HwCklE)
@@ -11,7 +12,6 @@
 - [Model Context Protocol Overview](https://www.youtube.com/watch?v=1Pf2rW5FsqQ)
 - [Getting Your Data Ready For Copilot](https://www.youtube.com/watch?v=uZ-05Jg5ti0)
 - [Agentic AI](https://www.youtube.com/watch?v=UYJ539hgDS0)
-- [Copilot Studio Per-Message Billing](https://www.youtube.com/watch?v=G2i5hw40eWU)
 
 
 ## Full Courses
@@ -96,6 +96,7 @@
   - [Continuous Access Evaluation Deep Dive - Securing Your Tokens!](https://www.youtube.com/watch?v=m3309aUKET8)
   - [Where are the keys in passkeys?](https://www.youtube.com/watch?v=HJ78T5WOpW4)
   - [Defeat Deep Fakes and Imposters with Verified ID and Face Check](https://www.youtube.com/watch?v=58j2PLW-M5k)
+  - [TLS Inspection in Microsoft Entra Internet Access Deep Dive](https://www.youtube.com/watch?v=WxxHH_4vKh4&t=10s)
 - [Azure API Manager](https://docs.microsoft.com/en-us/azure/api-management/api-management-key-concepts)
   - [Azure API Manager Automated Orchestration](https://geerkens-my.sharepoint.com/:v:/g/personal/ronny_geerkens_onmicrosoft_com/Ebys3KEacyZEi9BIjbHsad8BsnukdZ1QnKXSti6G1Czw5Q?e=JBsOgd)
   - [Azure API Management Deep Dive](https://www.youtube.com/watch?v=PXtFq5wmGt0)
