@@ -2,6 +2,7 @@
 
 ## Recent Additions
 
+- [Control PaaS Network Communications with Network Security Perimeter](https://www.youtube.com/watch?v=awIZHbJo-DM)
 - [Entra Resilience Deep Dive](https://www.youtube.com/watch?v=vf6GrILAKsE)
 - [TLS Inspection in Microsoft Entra Internet Access Deep Dive](https://www.youtube.com/watch?v=WxxHH_4vKh4&t=10s)
 - [NLWeb Overview](https://www.youtube.com/watch?v=nahm6tEPrA4)
@@ -11,7 +12,6 @@
 - [Subscription Vending](https://www.youtube.com/watch?v=aIbtnk2F8Xo)
 - [Quantum Computing For Everyone](https://www.youtube.com/watch?v=x5Ohhi3YTKY)
 - [Model Context Protocol Overview](https://www.youtube.com/watch?v=1Pf2rW5FsqQ)
-- [Getting Your Data Ready For Copilot](https://www.youtube.com/watch?v=uZ-05Jg5ti0)
 
 
 ## Full Courses
@@ -289,6 +289,7 @@
 - [FinOps and Azure!](https://www.youtube.com/watch?v=YHUptdFtozQ)
 - [Staying Ahead of Azure Service Retirements](https://www.youtube.com/watch?v=8lfQf1YiaB4)
 - [Subscription Vending](https://www.youtube.com/watch?v=aIbtnk2F8Xo)
+- [Control PaaS Network Communications with Network Security Perimeter](https://www.youtube.com/watch?v=awIZHbJo-DM)
 
 ### Azure Workbooks & Tools
 
