@@ -2,6 +2,7 @@
 
 ## Recent Additions
 
+- [MCP or A2A](https://www.youtube.com/watch?v=IMcDEvXRBkY)
 - [Control PaaS Network Communications with Network Security Perimeter](https://www.youtube.com/watch?v=awIZHbJo-DM)
 - [Entra Resilience Deep Dive](https://www.youtube.com/watch?v=vf6GrILAKsE)
 - [TLS Inspection in Microsoft Entra Internet Access Deep Dive](https://www.youtube.com/watch?v=WxxHH_4vKh4&t=10s)
@@ -11,7 +12,6 @@
 - [Dev Containers and GitHub Codespaces](https://www.youtube.com/watch?v=-D2BwSV9Pg0)
 - [Subscription Vending](https://www.youtube.com/watch?v=aIbtnk2F8Xo)
 - [Quantum Computing For Everyone](https://www.youtube.com/watch?v=x5Ohhi3YTKY)
-- [Model Context Protocol Overview](https://www.youtube.com/watch?v=1Pf2rW5FsqQ)
 
 
 ## Full Courses
@@ -333,6 +333,7 @@
 - [Getting Your Data Ready For Copilot](https://www.youtube.com/watch?v=uZ-05Jg5ti0)
 - [Model Context Protocol Overview](https://www.youtube.com/watch?v=1Pf2rW5FsqQ)
 - [NLWeb Overview](https://www.youtube.com/watch?v=nahm6tEPrA4)
+- [MCP or A2A](https://www.youtube.com/watch?v=IMcDEvXRBkY)
 
 ### Office 365 Platform
 
