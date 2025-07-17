@@ -2,6 +2,7 @@
 
 ## Recent Additions
 
+- [Artifical Intelligence and Machine Learning for Everyone](https://www.youtube.com/watch?v=C7Iu2lcoAQ4)
 - [MCP or A2A](https://www.youtube.com/watch?v=IMcDEvXRBkY)
 - [Control PaaS Network Communications with Network Security Perimeter](https://www.youtube.com/watch?v=awIZHbJo-DM)
 - [Entra Resilience Deep Dive](https://www.youtube.com/watch?v=vf6GrILAKsE)
@@ -11,7 +12,6 @@
 - [Subnet Level Peering Overview](https://www.youtube.com/watch?v=L4_k_HwCklE)
 - [Dev Containers and GitHub Codespaces](https://www.youtube.com/watch?v=-D2BwSV9Pg0)
 - [Subscription Vending](https://www.youtube.com/watch?v=aIbtnk2F8Xo)
-- [Quantum Computing For Everyone](https://www.youtube.com/watch?v=x5Ohhi3YTKY)
 
 
 ## Full Courses
@@ -334,6 +334,7 @@
 - [Model Context Protocol Overview](https://www.youtube.com/watch?v=1Pf2rW5FsqQ)
 - [NLWeb Overview](https://www.youtube.com/watch?v=nahm6tEPrA4)
 - [MCP or A2A](https://www.youtube.com/watch?v=IMcDEvXRBkY)
+- [Artifical Intelligence and Machine Learning for Everyone](https://www.youtube.com/watch?v=C7Iu2lcoAQ4)
 
 ### Office 365 Platform
 
