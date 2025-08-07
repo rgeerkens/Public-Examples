@@ -2,6 +2,8 @@
 
 ## Recent Additions
 
+- [App Gateway for Containers WEB APPLICATION FIREWALL](https://www.youtube.com/watch?v=CSD1qQN2R2k)
+- [Entra Group Source Of Authority Conversion](https://www.youtube.com/watch?v=VpRDtulXcUw)
 - [MCP & A2A - Why Business Leaders Should Care](https://www.youtube.com/watch?v=s8xJTAu5icM)
 - [Choosing Your First AI Application](https://www.youtube.com/watch?v=0Ly34nFESQk)
 - [Artifical Intelligence and Machine Learning for Everyone](https://www.youtube.com/watch?v=C7Iu2lcoAQ4)
@@ -10,8 +12,6 @@
 - [Entra Resilience Deep Dive](https://www.youtube.com/watch?v=vf6GrILAKsE)
 - [TLS Inspection in Microsoft Entra Internet Access Deep Dive](https://www.youtube.com/watch?v=WxxHH_4vKh4&t=10s)
 - [NLWeb Overview](https://www.youtube.com/watch?v=nahm6tEPrA4)
-- [Defeat Deep Fakes and Imposters with Verified ID and Face Check](https://www.youtube.com/watch?v=58j2PLW-M5k)
-- [Subnet Level Peering Overview](https://www.youtube.com/watch?v=L4_k_HwCklE)
 
 
 ## Full Courses
@@ -98,6 +98,7 @@
   - [Defeat Deep Fakes and Imposters with Verified ID and Face Check](https://www.youtube.com/watch?v=58j2PLW-M5k)
   - [TLS Inspection in Microsoft Entra Internet Access Deep Dive](https://www.youtube.com/watch?v=WxxHH_4vKh4&t=10s)
   - [Entra Resilience Deep Dive](https://www.youtube.com/watch?v=vf6GrILAKsE)
+  - [Entra Group Source Of Authority Conversion](https://www.youtube.com/watch?v=VpRDtulXcUw)
 - [Azure API Manager](https://docs.microsoft.com/en-us/azure/api-management/api-management-key-concepts)
   - [Azure API Manager Automated Orchestration](https://geerkens-my.sharepoint.com/:v:/g/personal/ronny_geerkens_onmicrosoft_com/Ebys3KEacyZEi9BIjbHsad8BsnukdZ1QnKXSti6G1Czw5Q?e=JBsOgd)
   - [Azure API Management Deep Dive](https://www.youtube.com/watch?v=PXtFq5wmGt0)
@@ -109,6 +110,7 @@
   - [Azure Application Gateway Deep Dive](https://www.youtube.com/watch?v=B3O6bXu-NbM)
   - [Azure Application Gateway for Containers Solution](https://www.youtube.com/watch?v=slCjHV8z9Wk)
   - [Application Gateway TCP and TLS Flows](https://www.youtube.com/watch?v=ahw50aQvB6o)
+  - [App Gateway for Containers WEB APPLICATION FIREWALL](https://www.youtube.com/watch?v=CSD1qQN2R2k)
 - [Azure ARC](https://docs.microsoft.com/en-us/azure/azure-arc/overview)
   - [The Purpose Of Azure ARC](https://www.youtube.com/watch?v=cW6_rvDYSHg&t=18s)
   - [Bare Metal And Azure ARC](https://www.youtube.com/watch?v=405qOUBnbsg)
