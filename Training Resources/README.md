@@ -2,6 +2,8 @@
 
 ## Recent Additions
 
+- [SQL Database in Microsoft Fabric](https://www.youtube.com/watch?v=ycq7r-ngOBI)
+- [Using GPT-5 on Microsoft](https://www.youtube.com/watch?v=360I_jTLI_I)
 - [App Gateway for Containers WEB APPLICATION FIREWALL](https://www.youtube.com/watch?v=CSD1qQN2R2k)
 - [Entra Group Source Of Authority Conversion](https://www.youtube.com/watch?v=VpRDtulXcUw)
 - [MCP & A2A - Why Business Leaders Should Care](https://www.youtube.com/watch?v=s8xJTAu5icM)
@@ -10,8 +12,6 @@
 - [MCP or A2A](https://www.youtube.com/watch?v=IMcDEvXRBkY)
 - [Control PaaS Network Communications with Network Security Perimeter](https://www.youtube.com/watch?v=awIZHbJo-DM)
 - [Entra Resilience Deep Dive](https://www.youtube.com/watch?v=vf6GrILAKsE)
-- [TLS Inspection in Microsoft Entra Internet Access Deep Dive](https://www.youtube.com/watch?v=WxxHH_4vKh4&t=10s)
-- [NLWeb Overview](https://www.youtube.com/watch?v=nahm6tEPrA4)
 
 
 ## Full Courses
@@ -163,6 +163,7 @@
   - [ExpressRoute Metro - Higher Availability for ExpressRoute Circuits](https://www.youtube.com/watch?v=fPL28RUMOyI)
 - [Microsoft Fabric](https://learn.microsoft.com/en-us/fabric/get-started/microsoft-fabric-overview)
   - [Microsoft Fabric Overview](https://www.youtube.com/watch?v=GbxVsi94DrE)
+  - [SQL Database in Microsoft Fabric](https://www.youtube.com/watch?v=ycq7r-ngOBI)
 - [Azure Firewall](https://docs.microsoft.com/en-us/azure/firewall/overview)
   - [Azure Firewall Deep Dive](https://www.youtube.com/watch?v=JiUerkqyW0g)
 - [Azure Front Door](https://docs.microsoft.com/en-us/azure/frontdoor/front-door-overview)
@@ -339,6 +340,7 @@
 - [Artifical Intelligence and Machine Learning for Everyone](https://www.youtube.com/watch?v=C7Iu2lcoAQ4)
 - [Choosing Your First AI Application](https://www.youtube.com/watch?v=0Ly34nFESQk)
 - [MCP & A2A - Why Business Leaders Should Care](https://www.youtube.com/watch?v=s8xJTAu5icM)
+- [Using GPT-5 on Microsoft](https://www.youtube.com/watch?v=360I_jTLI_I)
 
 ### Office 365 Platform
 
