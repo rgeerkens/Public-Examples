@@ -2,6 +2,7 @@
 
 ## Recent Additions
 
+- [Azure File Sync Managed Identity](https://www.youtube.com/watch?v=xoUCZj4ZMRs)
 - [SQL Database in Microsoft Fabric](https://www.youtube.com/watch?v=ycq7r-ngOBI)
 - [Using GPT-5 on Microsoft](https://www.youtube.com/watch?v=360I_jTLI_I)
 - [App Gateway for Containers WEB APPLICATION FIREWALL](https://www.youtube.com/watch?v=CSD1qQN2R2k)
@@ -11,7 +12,6 @@
 - [Artifical Intelligence and Machine Learning for Everyone](https://www.youtube.com/watch?v=C7Iu2lcoAQ4)
 - [MCP or A2A](https://www.youtube.com/watch?v=IMcDEvXRBkY)
 - [Control PaaS Network Communications with Network Security Perimeter](https://www.youtube.com/watch?v=awIZHbJo-DM)
-- [Entra Resilience Deep Dive](https://www.youtube.com/watch?v=vf6GrILAKsE)
 
 
 ## Full Courses
@@ -164,6 +164,8 @@
 - [Microsoft Fabric](https://learn.microsoft.com/en-us/fabric/get-started/microsoft-fabric-overview)
   - [Microsoft Fabric Overview](https://www.youtube.com/watch?v=GbxVsi94DrE)
   - [SQL Database in Microsoft Fabric](https://www.youtube.com/watch?v=ycq7r-ngOBI)
+- [Azure Files](https://learn.microsoft.com/en-us/azure/storage/files/)
+  - [Azure File Sync Managed Identity](https://www.youtube.com/watch?v=xoUCZj4ZMRs)
 - [Azure Firewall](https://docs.microsoft.com/en-us/azure/firewall/overview)
   - [Azure Firewall Deep Dive](https://www.youtube.com/watch?v=JiUerkqyW0g)
 - [Azure Front Door](https://docs.microsoft.com/en-us/azure/frontdoor/front-door-overview)
