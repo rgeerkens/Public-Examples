@@ -2,6 +2,7 @@
 
 ## Recent Additions
 
+- [Azure Service Groups - Flexible Resource Organization](https://www.youtube.com/watch?v=wurJ2LKmDs4)
 - [Azure File Sync Managed Identity](https://www.youtube.com/watch?v=xoUCZj4ZMRs)
 - [SQL Database in Microsoft Fabric](https://www.youtube.com/watch?v=ycq7r-ngOBI)
 - [Using GPT-5 on Microsoft](https://www.youtube.com/watch?v=360I_jTLI_I)
@@ -11,7 +12,6 @@
 - [Choosing Your First AI Application](https://www.youtube.com/watch?v=0Ly34nFESQk)
 - [Artifical Intelligence and Machine Learning for Everyone](https://www.youtube.com/watch?v=C7Iu2lcoAQ4)
 - [MCP or A2A](https://www.youtube.com/watch?v=IMcDEvXRBkY)
-- [Control PaaS Network Communications with Network Security Perimeter](https://www.youtube.com/watch?v=awIZHbJo-DM)
 
 
 ## Full Courses
@@ -225,6 +225,8 @@
   - [System Center Operations Manager Managed Instance](https://www.youtube.com/watch?v=XCVroOEzu50)
 - [Azure Sentinel](https://docs.microsoft.com/en-us/azure/sentinel/overview)
   - [Microsoft Sentinel Bootcamp](https://www.youtube.com/watch?v=NJlaqBaqahc)
+- [Azure Service Groups](https://learn.microsoft.com/en-us/azure/governance/service-groups/overview)
+  - [Azure Service Groups - Flexible Resource Organization](https://www.youtube.com/watch?v=wurJ2LKmDs4)
 - [Azure Service Health](https://learn.microsoft.com/nl-nl/azure/service-health/)
   - [Setting up Service Health Alerts](https://www.youtube.com/watch?v=KwQBBvyOblk)
   - [Bulk Enabling Service Health Alerts](https://www.youtube.com/watch?v=OMfznjNeL0A)
