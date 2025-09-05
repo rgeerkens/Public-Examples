@@ -2,6 +2,7 @@
 
 ## Recent Additions
 
+- [Zero Trust Workshop](https://www.youtube.com/watch?v=xVWr1ml47_g)
 - [Azure Service Groups - Flexible Resource Organization](https://www.youtube.com/watch?v=wurJ2LKmDs4)
 - [Azure File Sync Managed Identity](https://www.youtube.com/watch?v=xoUCZj4ZMRs)
 - [SQL Database in Microsoft Fabric](https://www.youtube.com/watch?v=ycq7r-ngOBI)
@@ -11,7 +12,6 @@
 - [MCP & A2A - Why Business Leaders Should Care](https://www.youtube.com/watch?v=s8xJTAu5icM)
 - [Choosing Your First AI Application](https://www.youtube.com/watch?v=0Ly34nFESQk)
 - [Artifical Intelligence and Machine Learning for Everyone](https://www.youtube.com/watch?v=C7Iu2lcoAQ4)
-- [MCP or A2A](https://www.youtube.com/watch?v=IMcDEvXRBkY)
 
 
 ## Full Courses
@@ -396,6 +396,7 @@
 - [Safe Deployment Practices](https://www.youtube.com/watch?v=sDkY-pG6LCc)
 - [Top Five Security Tips](https://www.youtube.com/watch?v=JYWR5GoF3vM)
 - [Quantum Computing For Everyone](https://www.youtube.com/watch?v=x5Ohhi3YTKY)
+- [Zero Trust Workshop](https://www.youtube.com/watch?v=xVWr1ml47_g)
 
 ### Infrastructure As Code
 
