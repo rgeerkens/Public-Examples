@@ -2,6 +2,7 @@
 
 ## Recent Additions
 
+- [Connect Clouds In Azure](https://www.youtube.com/watch?v=VKaribNs6MA)
 - [Zero Trust Workshop](https://www.youtube.com/watch?v=xVWr1ml47_g)
 - [Azure Service Groups - Flexible Resource Organization](https://www.youtube.com/watch?v=wurJ2LKmDs4)
 - [Azure File Sync Managed Identity](https://www.youtube.com/watch?v=xoUCZj4ZMRs)
@@ -11,7 +12,6 @@
 - [Entra Group Source Of Authority Conversion](https://www.youtube.com/watch?v=VpRDtulXcUw)
 - [MCP & A2A - Why Business Leaders Should Care](https://www.youtube.com/watch?v=s8xJTAu5icM)
 - [Choosing Your First AI Application](https://www.youtube.com/watch?v=0Ly34nFESQk)
-- [Artifical Intelligence and Machine Learning for Everyone](https://www.youtube.com/watch?v=C7Iu2lcoAQ4)
 
 
 ## Full Courses
@@ -297,6 +297,7 @@
 - [Staying Ahead of Azure Service Retirements](https://www.youtube.com/watch?v=8lfQf1YiaB4)
 - [Subscription Vending](https://www.youtube.com/watch?v=aIbtnk2F8Xo)
 - [Control PaaS Network Communications with Network Security Perimeter](https://www.youtube.com/watch?v=awIZHbJo-DM)
+- [Connect Clouds In Azure](https://www.youtube.com/watch?v=VKaribNs6MA)
 
 ### Azure Workbooks & Tools
 
