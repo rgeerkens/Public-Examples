@@ -2,6 +2,7 @@
 
 ## Recent Additions
 
+- [Windows Hotpatch Overview](https://www.youtube.com/watch?v=VzOsw5NjgtY)
 - [Connect Clouds In Azure](https://www.youtube.com/watch?v=VKaribNs6MA)
 - [Zero Trust Workshop](https://www.youtube.com/watch?v=xVWr1ml47_g)
 - [Azure Service Groups - Flexible Resource Organization](https://www.youtube.com/watch?v=wurJ2LKmDs4)
@@ -11,7 +12,6 @@
 - [App Gateway for Containers WEB APPLICATION FIREWALL](https://www.youtube.com/watch?v=CSD1qQN2R2k)
 - [Entra Group Source Of Authority Conversion](https://www.youtube.com/watch?v=VpRDtulXcUw)
 - [MCP & A2A - Why Business Leaders Should Care](https://www.youtube.com/watch?v=s8xJTAu5icM)
-- [Choosing Your First AI Application](https://www.youtube.com/watch?v=0Ly34nFESQk)
 
 
 ## Full Courses
@@ -258,6 +258,7 @@
   - [Azure VM Isolation Options](https://www.youtube.com/watch?v=aL63LSZT480)
   - [Azure VM Internet Access Options](https://www.youtube.com/watch?v=9f826wanFtw)
   - [Using Ephemeral OS Disks in Azure](https://www.youtube.com/watch?v=vyqRWxOSxJE)
+  - [Windows Hotpatch Overview](https://www.youtube.com/watch?v=VzOsw5NjgtY)
 - [Azure Virtual Network (vNet)](https://docs.microsoft.com/en-us/azure/virtual-network/virtual-networks-overview)
   - [Peered Virtual Network Address Space Modify in Microsoft Azure](https://www.youtube.com/watch?v=nldYMGd82EY)
   - [Azure Virtual Network Manager Deep Dive](https://www.youtube.com/watch?v=qNn83S55WHQ)
