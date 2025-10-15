@@ -2,6 +2,7 @@
 
 ## Recent Additions
 
+- [Changing the User Source of Authority from AD to Entra ID](https://www.youtube.com/watch?v=QnY-D5bdh4Y)
 - [Windows Hotpatch Overview](https://www.youtube.com/watch?v=VzOsw5NjgtY)
 - [Connect Clouds In Azure](https://www.youtube.com/watch?v=VKaribNs6MA)
 - [Zero Trust Workshop](https://www.youtube.com/watch?v=xVWr1ml47_g)
@@ -11,7 +12,6 @@
 - [Using GPT-5 on Microsoft](https://www.youtube.com/watch?v=360I_jTLI_I)
 - [App Gateway for Containers WEB APPLICATION FIREWALL](https://www.youtube.com/watch?v=CSD1qQN2R2k)
 - [Entra Group Source Of Authority Conversion](https://www.youtube.com/watch?v=VpRDtulXcUw)
-- [MCP & A2A - Why Business Leaders Should Care](https://www.youtube.com/watch?v=s8xJTAu5icM)
 
 
 ## Full Courses
@@ -99,6 +99,7 @@
   - [TLS Inspection in Microsoft Entra Internet Access Deep Dive](https://www.youtube.com/watch?v=WxxHH_4vKh4&t=10s)
   - [Entra Resilience Deep Dive](https://www.youtube.com/watch?v=vf6GrILAKsE)
   - [Entra Group Source Of Authority Conversion](https://www.youtube.com/watch?v=VpRDtulXcUw)
+  - [Changing the User Source of Authority from AD to Entra ID](https://www.youtube.com/watch?v=QnY-D5bdh4Y)
 - [Azure API Manager](https://docs.microsoft.com/en-us/azure/api-management/api-management-key-concepts)
   - [Azure API Manager Automated Orchestration](https://geerkens-my.sharepoint.com/:v:/g/personal/ronny_geerkens_onmicrosoft_com/Ebys3KEacyZEi9BIjbHsad8BsnukdZ1QnKXSti6G1Czw5Q?e=JBsOgd)
   - [Azure API Management Deep Dive](https://www.youtube.com/watch?v=PXtFq5wmGt0)
