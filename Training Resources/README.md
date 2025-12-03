@@ -2,6 +2,7 @@
 
 ## Recent Additions
 
+- [AB-900 Study Cram - Copilot and Agent Administration Fundamentals](https://www.youtube.com/watch?v=DUydgD7SkEo)
 - [Changing the User Source of Authority from AD to Entra ID](https://www.youtube.com/watch?v=QnY-D5bdh4Y)
 - [Windows Hotpatch Overview](https://www.youtube.com/watch?v=VzOsw5NjgtY)
 - [Connect Clouds In Azure](https://www.youtube.com/watch?v=VKaribNs6MA)
@@ -11,7 +12,6 @@
 - [SQL Database in Microsoft Fabric](https://www.youtube.com/watch?v=ycq7r-ngOBI)
 - [Using GPT-5 on Microsoft](https://www.youtube.com/watch?v=360I_jTLI_I)
 - [App Gateway for Containers WEB APPLICATION FIREWALL](https://www.youtube.com/watch?v=CSD1qQN2R2k)
-- [Entra Group Source Of Authority Conversion](https://www.youtube.com/watch?v=VpRDtulXcUw)
 
 
 ## Full Courses
@@ -35,6 +35,7 @@
 - [AZ-700 Designing And Implement Azure Networking - Full Course](https://www.youtube.com/playlist?list=PLlVtbbG169nGeFODKRZhjqdSxFpSPXVOa)
 - [AZ-700 Designing And Implement Azure Networking - Summary](https://www.youtube.com/watch?v=nVZYDhB_M64)
 - [MS-700 Managing Microsoft Teams - Full Course](https://www.youtube.com/watch?v=-Gs3dmS-jnE)
+- [AB-900 Study Cram - Copilot and Agent Administration Fundamentals](https://www.youtube.com/watch?v=DUydgD7SkEo)
 - [AI-900 Azure Artifical Intelligence Fundamentals](https://www.youtube.com/watch?v=E9aarWMLJw0)
 - [AI-900 - Learning About Generative AI](https://www.youtube.com/watch?v=Ch6KE7KxHGM)
 - [AI-900 Study Cram v2 - The Non-Generative AI bits](https://www.youtube.com/watch?v=bTkUTkXrqOQ)
