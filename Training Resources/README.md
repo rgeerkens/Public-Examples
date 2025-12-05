@@ -2,6 +2,7 @@
 
 ## Recent Additions
 
+- [Entra Synced Passkeys and Passkey Profiles](https://www.youtube.com/watch?v=e0FPn-gJeO4)
 - [AB-900 Study Cram - Copilot and Agent Administration Fundamentals](https://www.youtube.com/watch?v=DUydgD7SkEo)
 - [Changing the User Source of Authority from AD to Entra ID](https://www.youtube.com/watch?v=QnY-D5bdh4Y)
 - [Windows Hotpatch Overview](https://www.youtube.com/watch?v=VzOsw5NjgtY)
@@ -11,7 +12,6 @@
 - [Azure File Sync Managed Identity](https://www.youtube.com/watch?v=xoUCZj4ZMRs)
 - [SQL Database in Microsoft Fabric](https://www.youtube.com/watch?v=ycq7r-ngOBI)
 - [Using GPT-5 on Microsoft](https://www.youtube.com/watch?v=360I_jTLI_I)
-- [App Gateway for Containers WEB APPLICATION FIREWALL](https://www.youtube.com/watch?v=CSD1qQN2R2k)
 
 
 ## Full Courses
@@ -101,6 +101,7 @@
   - [Entra Resilience Deep Dive](https://www.youtube.com/watch?v=vf6GrILAKsE)
   - [Entra Group Source Of Authority Conversion](https://www.youtube.com/watch?v=VpRDtulXcUw)
   - [Changing the User Source of Authority from AD to Entra ID](https://www.youtube.com/watch?v=QnY-D5bdh4Y)
+  - [Entra Synced Passkeys and Passkey Profiles](https://www.youtube.com/watch?v=e0FPn-gJeO4)
 - [Azure API Manager](https://docs.microsoft.com/en-us/azure/api-management/api-management-key-concepts)
   - [Azure API Manager Automated Orchestration](https://geerkens-my.sharepoint.com/:v:/g/personal/ronny_geerkens_onmicrosoft_com/Ebys3KEacyZEi9BIjbHsad8BsnukdZ1QnKXSti6G1Czw5Q?e=JBsOgd)
   - [Azure API Management Deep Dive](https://www.youtube.com/watch?v=PXtFq5wmGt0)
