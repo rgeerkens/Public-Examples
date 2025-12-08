@@ -470,6 +470,7 @@
 - [Azure Tips And Tricks](https://www.youtube.com/playlist?list=PLLasX02E8BPCNCK8Thcxu-Y-XcBUbhFWC)
 - [Azure Reddit](https://www.reddit.com/r/AZURE/)
 - [The Microsoft 425 Show](https://www.youtube.com/@425show/videos)
+- [Baeke Info](https://baeke.info/post-overview/)
 
 ## Good Github Repositories
 
