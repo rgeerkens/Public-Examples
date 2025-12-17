@@ -2,6 +2,7 @@
 
 ## Recent Additions
 
+- [Using Foundry's Model Router to Simplify Optimal AI Model Selection](https://www.youtube.com/watch?v=xQRjb7V8OCg)
 - [Using Logic Apps as MCP Servers for your AI Application](https://www.youtube.com/watch?v=9z7x0u99J9s)
 - [Entra Synced Passkeys and Passkey Profiles](https://www.youtube.com/watch?v=e0FPn-gJeO4)
 - [AB-900 Study Cram - Copilot and Agent Administration Fundamentals](https://www.youtube.com/watch?v=DUydgD7SkEo)
@@ -11,7 +12,6 @@
 - [Zero Trust Workshop](https://www.youtube.com/watch?v=xVWr1ml47_g)
 - [Azure Service Groups - Flexible Resource Organization](https://www.youtube.com/watch?v=wurJ2LKmDs4)
 - [Azure File Sync Managed Identity](https://www.youtube.com/watch?v=xoUCZj4ZMRs)
-- [SQL Database in Microsoft Fabric](https://www.youtube.com/watch?v=ycq7r-ngOBI)
 
 
 ## Full Courses
@@ -351,6 +351,7 @@
 - [MCP & A2A - Why Business Leaders Should Care](https://www.youtube.com/watch?v=s8xJTAu5icM)
 - [Using GPT-5 on Microsoft](https://www.youtube.com/watch?v=360I_jTLI_I)
 - [Using Logic Apps as MCP Servers for your AI Application](https://www.youtube.com/watch?v=9z7x0u99J9s)
+- [Using Foundry's Model Router to Simplify Optimal AI Model Selection](https://www.youtube.com/watch?v=xQRjb7V8OCg)
 
 ### Office 365 Platform
 
