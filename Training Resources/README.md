@@ -2,6 +2,7 @@
 
 ## Recent Additions
 
+- [Stanford - Large Language Models](https://www.youtube.com/playlist?list=PLoROMvodv4rObv1FMizXqumgVVdzX4_05) 
 - [Stanford CS224R - Deep Reinforcement](https://www.youtube.com/playlist?list=PLoROMvodv4rPwxE0ONYRa_itZFdaKCylL)
 - [Stanford CS230 - Deep Learning](https://www.youtube.com/playlist?list=PLoROMvodv4rNRRGdS0rBbXOUGA0wjdh1X)
 - [Using Foundry's Model Router to Simplify Optimal AI Model Selection](https://www.youtube.com/watch?v=xQRjb7V8OCg)
@@ -11,8 +12,6 @@
 - [Changing the User Source of Authority from AD to Entra ID](https://www.youtube.com/watch?v=QnY-D5bdh4Y)
 - [Windows Hotpatch Overview](https://www.youtube.com/watch?v=VzOsw5NjgtY)
 - [Connect Clouds In Azure](https://www.youtube.com/watch?v=VKaribNs6MA)
-- [Zero Trust Workshop](https://www.youtube.com/watch?v=xVWr1ml47_g)
-- [Azure Service Groups - Flexible Resource Organization](https://www.youtube.com/watch?v=wurJ2LKmDs4)
 
 
 ## Full Courses
@@ -432,6 +431,7 @@
 ### Stanford CS50 Courses
 - [Stanford CS230 - Deep Learning](https://www.youtube.com/playlist?list=PLoROMvodv4rNRRGdS0rBbXOUGA0wjdh1X)
 - [Stanford CS224R - Deep Reinforcement](https://www.youtube.com/playlist?list=PLoROMvodv4rPwxE0ONYRa_itZFdaKCylL)
+- [Stanford - Large Language Models](https://www.youtube.com/playlist?list=PLoROMvodv4rObv1FMizXqumgVVdzX4_05) 
 
 ## Books
 
