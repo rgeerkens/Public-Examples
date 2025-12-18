@@ -2,6 +2,7 @@
 
 ## Recent Additions
 
+- [Stanford CS230: Deep Learning](https://www.youtube.com/playlist?list=PLoROMvodv4rNRRGdS0rBbXOUGA0wjdh1X)
 - [Using Foundry's Model Router to Simplify Optimal AI Model Selection](https://www.youtube.com/watch?v=xQRjb7V8OCg)
 - [Using Logic Apps as MCP Servers for your AI Application](https://www.youtube.com/watch?v=9z7x0u99J9s)
 - [Entra Synced Passkeys and Passkey Profiles](https://www.youtube.com/watch?v=e0FPn-gJeO4)
@@ -11,7 +12,6 @@
 - [Connect Clouds In Azure](https://www.youtube.com/watch?v=VKaribNs6MA)
 - [Zero Trust Workshop](https://www.youtube.com/watch?v=xVWr1ml47_g)
 - [Azure Service Groups - Flexible Resource Organization](https://www.youtube.com/watch?v=wurJ2LKmDs4)
-- [Azure File Sync Managed Identity](https://www.youtube.com/watch?v=xoUCZj4ZMRs)
 
 
 ## Full Courses
@@ -427,6 +427,9 @@
 ### Harvard CS50 Courses
 - [Harvard CS50 - Full Computer Science University Course](https://www.youtube.com/watch?v=8mAITcNt710&list=WL&index=16)
 - [Harvard CS50 - Artificial Intelligence With Python](https://www.youtube.com/watch?v=5NgNicANyqM&list=WL&index=3)
+
+### Stanford CS50 Courses
+- [Stanford CS230: Deep Learning](https://www.youtube.com/playlist?list=PLoROMvodv4rNRRGdS0rBbXOUGA0wjdh1X)
 
 ## Books
 
