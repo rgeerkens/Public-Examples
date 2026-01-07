@@ -2,6 +2,7 @@
 
 ## Recent Additions
 
+- [Copilot Studio: Generate Word Document Grounded In Knowledge](https://www.youtube.com/watch?v=g6SsJdbgSeM)
 - [Entra Account Recovery](https://www.youtube.com/watch?v=WYji1oV7GQI)
 - [Stanford - Large Language Models](https://www.youtube.com/playlist?list=PLoROMvodv4rObv1FMizXqumgVVdzX4_05) 
 - [Stanford CS224R - Deep Reinforcement](https://www.youtube.com/playlist?list=PLoROMvodv4rPwxE0ONYRa_itZFdaKCylL)
@@ -11,7 +12,6 @@
 - [Entra Synced Passkeys and Passkey Profiles](https://www.youtube.com/watch?v=e0FPn-gJeO4)
 - [AB-900 Study Cram - Copilot and Agent Administration Fundamentals](https://www.youtube.com/watch?v=DUydgD7SkEo)
 - [Changing the User Source of Authority from AD to Entra ID](https://www.youtube.com/watch?v=QnY-D5bdh4Y)
-- [Windows Hotpatch Overview](https://www.youtube.com/watch?v=VzOsw5NjgtY)
 
 
 ## Full Courses
@@ -353,6 +353,7 @@
 - [Using GPT-5 on Microsoft](https://www.youtube.com/watch?v=360I_jTLI_I)
 - [Using Logic Apps as MCP Servers for your AI Application](https://www.youtube.com/watch?v=9z7x0u99J9s)
 - [Using Foundry's Model Router to Simplify Optimal AI Model Selection](https://www.youtube.com/watch?v=xQRjb7V8OCg)
+- [Copilot Studio: Generate Word Document Grounded In Knowledge](https://www.youtube.com/watch?v=g6SsJdbgSeM)
 
 ### Office 365 Platform
 
