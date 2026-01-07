@@ -480,6 +480,7 @@
 - [Azure Reddit](https://www.reddit.com/r/AZURE/)
 - [The Microsoft 425 Show](https://www.youtube.com/@425show/videos)
 - [Baeke Info](https://baeke.info/post-overview/)
+- [Matthew Devaney](https://www.youtube.com/@matthewdevaney3912/videos)
 
 ## Good Github Repositories
 
