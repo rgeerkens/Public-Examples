@@ -2,6 +2,7 @@
 
 ## Recent Additions
 
+- [What Quantum Safe Is and Why We Need It to Stay Secure](https://www.youtube.com/watch?v=5--yBhgDrXM)
 - [Copilot Studio: Generate Word Document Grounded In Knowledge](https://www.youtube.com/watch?v=g6SsJdbgSeM)
 - [Entra Account Recovery](https://www.youtube.com/watch?v=WYji1oV7GQI)
 - [Stanford - Large Language Models](https://www.youtube.com/playlist?list=PLoROMvodv4rObv1FMizXqumgVVdzX4_05) 
@@ -11,7 +12,6 @@
 - [Using Logic Apps as MCP Servers for your AI Application](https://www.youtube.com/watch?v=9z7x0u99J9s)
 - [Entra Synced Passkeys and Passkey Profiles](https://www.youtube.com/watch?v=e0FPn-gJeO4)
 - [AB-900 Study Cram - Copilot and Agent Administration Fundamentals](https://www.youtube.com/watch?v=DUydgD7SkEo)
-- [Changing the User Source of Authority from AD to Entra ID](https://www.youtube.com/watch?v=QnY-D5bdh4Y)
 
 
 ## Full Courses
@@ -406,6 +406,7 @@
 - [Top Five Security Tips](https://www.youtube.com/watch?v=JYWR5GoF3vM)
 - [Quantum Computing For Everyone](https://www.youtube.com/watch?v=x5Ohhi3YTKY)
 - [Zero Trust Workshop](https://www.youtube.com/watch?v=xVWr1ml47_g)
+- [What Quantum Safe Is and Why We Need It to Stay Secure](https://www.youtube.com/watch?v=5--yBhgDrXM)
 
 ### Infrastructure As Code
 
