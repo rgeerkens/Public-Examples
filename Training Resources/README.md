@@ -2,6 +2,7 @@
 
 ## Recent Additions
 
+- [Azure State Of The Union 2026](https://www.youtube.com/watch?v=FDRuQVG30Bo)
 - [Deep Dive into Foundry IQ](https://www.youtube.com/watch?v=uDVkcZwB0EU)
 - [What Quantum Safe Is and Why We Need It to Stay Secure](https://www.youtube.com/watch?v=5--yBhgDrXM)
 - [Copilot Studio: Generate Word Document Grounded In Knowledge](https://www.youtube.com/watch?v=g6SsJdbgSeM)
@@ -11,7 +12,6 @@
 - [Stanford CS230 - Deep Learning](https://www.youtube.com/playlist?list=PLoROMvodv4rNRRGdS0rBbXOUGA0wjdh1X)
 - [Using Foundry's Model Router to Simplify Optimal AI Model Selection](https://www.youtube.com/watch?v=xQRjb7V8OCg)
 - [Using Logic Apps as MCP Servers for your AI Application](https://www.youtube.com/watch?v=9z7x0u99J9s)
-- [Entra Synced Passkeys and Passkey Profiles](https://www.youtube.com/watch?v=e0FPn-gJeO4)
 
 
 ## Full Courses
@@ -303,6 +303,7 @@
 - [Subscription Vending](https://www.youtube.com/watch?v=aIbtnk2F8Xo)
 - [Control PaaS Network Communications with Network Security Perimeter](https://www.youtube.com/watch?v=awIZHbJo-DM)
 - [Connect Clouds In Azure](https://www.youtube.com/watch?v=VKaribNs6MA)
+- [Azure State Of The Union 2026](https://www.youtube.com/watch?v=FDRuQVG30Bo)
 
 ### Azure Workbooks & Tools
 
