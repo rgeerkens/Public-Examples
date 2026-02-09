@@ -2,6 +2,7 @@
 
 ## Recent Additions
 
+- [Microsoft IQ Overview](https://www.youtube.com/watch?v=1ri8HSbN4q4)
 - [Azure State Of The Union 2026](https://www.youtube.com/watch?v=FDRuQVG30Bo)
 - [Deep Dive into Foundry IQ](https://www.youtube.com/watch?v=uDVkcZwB0EU)
 - [What Quantum Safe Is and Why We Need It to Stay Secure](https://www.youtube.com/watch?v=5--yBhgDrXM)
@@ -11,7 +12,6 @@
 - [Stanford CS224R - Deep Reinforcement](https://www.youtube.com/playlist?list=PLoROMvodv4rPwxE0ONYRa_itZFdaKCylL)
 - [Stanford CS230 - Deep Learning](https://www.youtube.com/playlist?list=PLoROMvodv4rNRRGdS0rBbXOUGA0wjdh1X)
 - [Using Foundry's Model Router to Simplify Optimal AI Model Selection](https://www.youtube.com/watch?v=xQRjb7V8OCg)
-- [Using Logic Apps as MCP Servers for your AI Application](https://www.youtube.com/watch?v=9z7x0u99J9s)
 
 
 ## Full Courses
@@ -356,6 +356,7 @@
 - [Using Foundry's Model Router to Simplify Optimal AI Model Selection](https://www.youtube.com/watch?v=xQRjb7V8OCg)
 - [Copilot Studio: Generate Word Document Grounded In Knowledge](https://www.youtube.com/watch?v=g6SsJdbgSeM)
 - [Deep Dive into Foundry IQ](https://www.youtube.com/watch?v=uDVkcZwB0EU)
+- [Microsoft IQ Overview](https://www.youtube.com/watch?v=1ri8HSbN4q4)
 
 ### Office 365 Platform
 
