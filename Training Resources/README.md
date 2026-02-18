@@ -2,6 +2,7 @@
 
 ## Recent Additions
 
+- [NAT Gateway v2 Overview](https://www.youtube.com/watch?v=I9HPGJUjq2Q)
 - [Microsoft IQ Overview](https://www.youtube.com/watch?v=1ri8HSbN4q4)
 - [Azure State Of The Union 2026](https://www.youtube.com/watch?v=FDRuQVG30Bo)
 - [Deep Dive into Foundry IQ](https://www.youtube.com/watch?v=uDVkcZwB0EU)
@@ -11,7 +12,6 @@
 - [Stanford - Large Language Models](https://www.youtube.com/playlist?list=PLoROMvodv4rObv1FMizXqumgVVdzX4_05) 
 - [Stanford CS224R - Deep Reinforcement](https://www.youtube.com/playlist?list=PLoROMvodv4rPwxE0ONYRa_itZFdaKCylL)
 - [Stanford CS230 - Deep Learning](https://www.youtube.com/playlist?list=PLoROMvodv4rNRRGdS0rBbXOUGA0wjdh1X)
-- [Using Foundry's Model Router to Simplify Optimal AI Model Selection](https://www.youtube.com/watch?v=xQRjb7V8OCg)
 
 
 ## Full Courses
@@ -202,6 +202,8 @@
   - [Microsoft Azure Monitor Agent and Data Collection Rule Overview](https://www.youtube.com/watch?v=Z1zDlXCwI9k)
   - [Kusto Query Language Overview](https://www.youtube.com/watch?v=Pl8n6GaWEo0)
   - [Azure Monitor Logs](https://www.youtube.com/watch?v=tkNHafWEKKQ)
+- [Azure NAT Gateway](https://learn.microsoft.com/en-us/azure/nat-gateway/nat-overview)
+  - [NAT Gateway v2 Overview](https://www.youtube.com/watch?v=I9HPGJUjq2Q)
 - [Azure Netapp Files](https://docs.microsoft.com/en-us/azure/azure-netapp-files/azure-netapp-files-introduction)
   - [Azure NetApp Files Deep Dive](https://www.youtube.com/watch?v=OwajZ48Pa0c)
 - [Azure Policy](https://docs.microsoft.com/en-us/azure/governance/policy/overview)
