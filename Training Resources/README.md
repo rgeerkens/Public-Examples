@@ -2,6 +2,7 @@
 
 ## Recent Additions
 
+- [Agent 365 and Agent ID Overview](https://www.youtube.com/watch?v=WTcyL68qTo8)
 - [NAT Gateway v2 Overview](https://www.youtube.com/watch?v=I9HPGJUjq2Q)
 - [Microsoft IQ Overview](https://www.youtube.com/watch?v=1ri8HSbN4q4)
 - [Azure State Of The Union 2026](https://www.youtube.com/watch?v=FDRuQVG30Bo)
@@ -11,7 +12,6 @@
 - [Entra Account Recovery](https://www.youtube.com/watch?v=WYji1oV7GQI)
 - [Stanford - Large Language Models](https://www.youtube.com/playlist?list=PLoROMvodv4rObv1FMizXqumgVVdzX4_05) 
 - [Stanford CS224R - Deep Reinforcement](https://www.youtube.com/playlist?list=PLoROMvodv4rPwxE0ONYRa_itZFdaKCylL)
-- [Stanford CS230 - Deep Learning](https://www.youtube.com/playlist?list=PLoROMvodv4rNRRGdS0rBbXOUGA0wjdh1X)
 
 
 ## Full Courses
@@ -359,6 +359,7 @@
 - [Copilot Studio: Generate Word Document Grounded In Knowledge](https://www.youtube.com/watch?v=g6SsJdbgSeM)
 - [Deep Dive into Foundry IQ](https://www.youtube.com/watch?v=uDVkcZwB0EU)
 - [Microsoft IQ Overview](https://www.youtube.com/watch?v=1ri8HSbN4q4)
+- [Agent 365 and Agent ID Overview](https://www.youtube.com/watch?v=WTcyL68qTo8)
 
 ### Office 365 Platform
 
