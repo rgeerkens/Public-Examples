@@ -2,6 +2,7 @@
 
 ## Recent Additions
 
+- [ExpressRoute Gateway Scalable](https://www.youtube.com/watch?v=2OVNx2quVP0)
 - [Agent 365 and Agent ID Overview](https://www.youtube.com/watch?v=WTcyL68qTo8)
 - [NAT Gateway v2 Overview](https://www.youtube.com/watch?v=I9HPGJUjq2Q)
 - [Microsoft IQ Overview](https://www.youtube.com/watch?v=1ri8HSbN4q4)
@@ -11,7 +12,6 @@
 - [Copilot Studio: Generate Word Document Grounded In Knowledge](https://www.youtube.com/watch?v=g6SsJdbgSeM)
 - [Entra Account Recovery](https://www.youtube.com/watch?v=WYji1oV7GQI)
 - [Stanford - Large Language Models](https://www.youtube.com/playlist?list=PLoROMvodv4rObv1FMizXqumgVVdzX4_05) 
-- [Stanford CS224R - Deep Reinforcement](https://www.youtube.com/playlist?list=PLoROMvodv4rPwxE0ONYRa_itZFdaKCylL)
 
 
 ## Full Courses
@@ -165,6 +165,7 @@
   - [ExpressRoute Deep Dive](https://www.youtube.com/watch?v=oevwZZ1YFS0)
   - [Understanding ExpressRoute Latency](https://www.youtube.com/watch?v=OQu472BgI4Y)
   - [ExpressRoute Metro - Higher Availability for ExpressRoute Circuits](https://www.youtube.com/watch?v=fPL28RUMOyI)
+  - [ExpressRoute Gateway Scalable](https://www.youtube.com/watch?v=2OVNx2quVP0)
 - [Microsoft Fabric](https://learn.microsoft.com/en-us/fabric/get-started/microsoft-fabric-overview)
   - [Microsoft Fabric Overview](https://www.youtube.com/watch?v=GbxVsi94DrE)
   - [SQL Database in Microsoft Fabric](https://www.youtube.com/watch?v=ycq7r-ngOBI)
