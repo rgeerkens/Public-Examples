@@ -2,6 +2,7 @@
 
 ## Recent Additions
 
+- [Getting Started with GitHub Copilot CLI and Work IQ](https://www.youtube.com/watch?v=tQlNq8bH674)
 - [Getting Started with M365 Copilot](https://www.youtube.com/watch?v=WiNcWsyENU4)
 - [ExpressRoute Gateway Scalable](https://www.youtube.com/watch?v=2OVNx2quVP0)
 - [Agent 365 and Agent ID Overview](https://www.youtube.com/watch?v=WTcyL68qTo8)
@@ -11,7 +12,6 @@
 - [Deep Dive into Foundry IQ](https://www.youtube.com/watch?v=uDVkcZwB0EU)
 - [What Quantum Safe Is and Why We Need It to Stay Secure](https://www.youtube.com/watch?v=5--yBhgDrXM)
 - [Copilot Studio: Generate Word Document Grounded In Knowledge](https://www.youtube.com/watch?v=g6SsJdbgSeM)
-- [Entra Account Recovery](https://www.youtube.com/watch?v=WYji1oV7GQI)
 
 
 ## Full Courses
@@ -362,6 +362,7 @@
 - [Microsoft IQ Overview](https://www.youtube.com/watch?v=1ri8HSbN4q4)
 - [Agent 365 and Agent ID Overview](https://www.youtube.com/watch?v=WTcyL68qTo8)
 - [Getting Started with M365 Copilot](https://www.youtube.com/watch?v=WiNcWsyENU4)
+- [Getting Started with GitHub Copilot CLI and Work IQ](https://www.youtube.com/watch?v=tQlNq8bH674)
 
 ### Office 365 Platform
 
