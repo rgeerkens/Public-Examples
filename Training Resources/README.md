@@ -23,7 +23,6 @@
 - [AZ-104 Azure Administrator - Hands-On Approach](https://www.youtube.com/watch?v=I1zvntPHNMk)
 - [AZ-104 Azure Administrator - Summary](https://www.youtube.com/watch?v=VOod_VNgdJk)
 - [AZ-204 Azure Developer - Full Course](https://www.youtube.com/watch?v=jZx8PMQjobk)
-- [GH-300 Github Copilot](https://www.youtube.com/playlist?list=PLahhVEj9XNTd8lE7clFGR1el35zaBmJbS)
 - [SC-300 Microsoft Identity and Access Administrator - Full Course](https://www.youtube.com/playlist?list=PLlVtbbG169nGj4rfaMUQiKiBZNDlxoo0y)
 - [SC-300 Microsoft Identity and Access Administrator - Summary](https://www.youtube.com/watch?v=LGpgqRVG65g)
 - [AZ-305 Designing Microsoft Azure Infrastructure Solutions - Full Course](https://www.youtube.com/playlist?list=PLlVtbbG169nHSnaP4ae33yQUI3zcmP5nP)
@@ -49,6 +48,10 @@
 - [SC-900 Microsoft Security, Compliance And Identity Fundamentals](https://www.youtube.com/watch?v=-FJqb60wPSY)
 - [Azure Master Class v2](https://www.youtube.com/playlist?list=PLlVtbbG169nGccbp8VSpAozu3w9xSQJoY)
 - [GitHub Actions Certification – Full Course](https://www.youtube.com/watch?v=Tz7FsunBbfQ&list=WL&index=5)
+
+## Microsoft Learn Modules
+- [GH-300 Github Copilot](https://www.youtube.com/playlist?list=PLahhVEj9XNTd8lE7clFGR1el35zaBmJbS)
+
 
 ## Deep Dive Content
 
