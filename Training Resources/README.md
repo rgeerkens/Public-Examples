@@ -2,6 +2,7 @@
 
 ## Recent Additions
 
+- [GH-300 Github Copilot](https://www.youtube.com/playlist?list=PLahhVEj9XNTd8lE7clFGR1el35zaBmJbS)
 - [Picking the right Agent Builder solution](https://www.youtube.com/watch?v=WUgujz0y1K4)
 - [Getting Started with GitHub Copilot CLI and Work IQ](https://www.youtube.com/watch?v=tQlNq8bH674)
 - [Getting Started with M365 Copilot](https://www.youtube.com/watch?v=WiNcWsyENU4)
@@ -11,7 +12,6 @@
 - [Microsoft IQ Overview](https://www.youtube.com/watch?v=1ri8HSbN4q4)
 - [Azure State Of The Union 2026](https://www.youtube.com/watch?v=FDRuQVG30Bo)
 - [Deep Dive into Foundry IQ](https://www.youtube.com/watch?v=uDVkcZwB0EU)
-- [What Quantum Safe Is and Why We Need It to Stay Secure](https://www.youtube.com/watch?v=5--yBhgDrXM)
 
 
 ## Full Courses
@@ -23,6 +23,7 @@
 - [AZ-104 Azure Administrator - Hands-On Approach](https://www.youtube.com/watch?v=I1zvntPHNMk)
 - [AZ-104 Azure Administrator - Summary](https://www.youtube.com/watch?v=VOod_VNgdJk)
 - [AZ-204 Azure Developer - Full Course](https://www.youtube.com/watch?v=jZx8PMQjobk)
+- [GH-300 Github Copilot](https://www.youtube.com/playlist?list=PLahhVEj9XNTd8lE7clFGR1el35zaBmJbS)
 - [SC-300 Microsoft Identity and Access Administrator - Full Course](https://www.youtube.com/playlist?list=PLlVtbbG169nGj4rfaMUQiKiBZNDlxoo0y)
 - [SC-300 Microsoft Identity and Access Administrator - Summary](https://www.youtube.com/watch?v=LGpgqRVG65g)
 - [AZ-305 Designing Microsoft Azure Infrastructure Solutions - Full Course](https://www.youtube.com/playlist?list=PLlVtbbG169nHSnaP4ae33yQUI3zcmP5nP)
