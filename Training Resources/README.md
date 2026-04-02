@@ -2,6 +2,7 @@
 
 ## Recent Additions
 
+- [Work IQ Overview](https://www.youtube.com/watch?v=gTupe7ou5xI)
 - [Copilot Cowork Walkthrough](https://www.youtube.com/watch?v=3jewNNMCxA8)
 - [Overview of Entra Backup and Recovery](https://www.youtube.com/watch?v=72nowrDIlQU)
 - [GH-300 Github Copilot](https://www.youtube.com/playlist?list=PLahhVEj9XNTd8lE7clFGR1el35zaBmJbS)
@@ -11,8 +12,6 @@
 - [ExpressRoute Gateway Scalable](https://www.youtube.com/watch?v=2OVNx2quVP0)
 - [Agent 365 and Agent ID Overview](https://www.youtube.com/watch?v=WTcyL68qTo8)
 - [NAT Gateway v2 Overview](https://www.youtube.com/watch?v=I9HPGJUjq2Q)
-- [Microsoft IQ Overview](https://www.youtube.com/watch?v=1ri8HSbN4q4)
-- [Azure State Of The Union 2026](https://www.youtube.com/watch?v=FDRuQVG30Bo)
 
 
 ## Full Courses
@@ -371,6 +370,7 @@
 - [Getting Started with GitHub Copilot CLI and Work IQ](https://www.youtube.com/watch?v=tQlNq8bH674)
 - [Picking the right Agent Builder solution](https://www.youtube.com/watch?v=WUgujz0y1K4)
 - [Copilot Cowork Walkthrough](https://www.youtube.com/watch?v=3jewNNMCxA8)
+- [Work IQ Overview](https://www.youtube.com/watch?v=gTupe7ou5xI)
 
 ### Office 365 Platform
 
