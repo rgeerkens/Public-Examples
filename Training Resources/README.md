@@ -2,6 +2,7 @@
 
 ## Recent Additions
 
+- [Entra ID Integrated SFTP](https://www.youtube.com/watch?v=pzPqnTHxNPU)
 - [Work IQ Overview](https://www.youtube.com/watch?v=gTupe7ou5xI)
 - [Copilot Cowork Walkthrough](https://www.youtube.com/watch?v=3jewNNMCxA8)
 - [Overview of Entra Backup and Recovery](https://www.youtube.com/watch?v=72nowrDIlQU)
@@ -11,7 +12,6 @@
 - [Getting Started with M365 Copilot](https://www.youtube.com/watch?v=WiNcWsyENU4)
 - [ExpressRoute Gateway Scalable](https://www.youtube.com/watch?v=2OVNx2quVP0)
 - [Agent 365 and Agent ID Overview](https://www.youtube.com/watch?v=WTcyL68qTo8)
-- [NAT Gateway v2 Overview](https://www.youtube.com/watch?v=I9HPGJUjq2Q)
 
 
 ## Full Courses
@@ -108,6 +108,7 @@
   - [Entra Synced Passkeys and Passkey Profiles](https://www.youtube.com/watch?v=e0FPn-gJeO4)
   - [Entra Account Recovery](https://www.youtube.com/watch?v=WYji1oV7GQI)
   - [Overview of Entra Backup and Recovery](https://www.youtube.com/watch?v=72nowrDIlQU)
+  - [Entra ID Integrated SFTP](https://www.youtube.com/watch?v=pzPqnTHxNPU)
 - [Azure API Manager](https://docs.microsoft.com/en-us/azure/api-management/api-management-key-concepts)
   - [Azure API Manager Automated Orchestration](https://geerkens-my.sharepoint.com/:v:/g/personal/ronny_geerkens_onmicrosoft_com/Ebys3KEacyZEi9BIjbHsad8BsnukdZ1QnKXSti6G1Czw5Q?e=JBsOgd)
   - [Azure API Management Deep Dive](https://www.youtube.com/watch?v=PXtFq5wmGt0)
