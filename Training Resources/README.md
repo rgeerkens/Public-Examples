@@ -12,7 +12,6 @@
 - [Picking the right Agent Builder solution](https://www.youtube.com/watch?v=WUgujz0y1K4)
 - [Getting Started with GitHub Copilot CLI and Work IQ](https://www.youtube.com/watch?v=tQlNq8bH674)
 - [Getting Started with M365 Copilot](https://www.youtube.com/watch?v=WiNcWsyENU4)
-- [ExpressRoute Gateway Scalable](https://www.youtube.com/watch?v=2OVNx2quVP0)
 
 
 ## Full Courses
