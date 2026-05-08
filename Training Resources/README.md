@@ -2,6 +2,7 @@
 
 ## Recent Additions
 
+- [How to change model behavior! Context engineering, fine-tuning and more](https://www.youtube.com/watch?v=oqbKWwUhh4Y)
 - [Post Quantum Cryptography (PQC) overview and why you should care!](https://www.youtube.com/watch?v=QQMLzxqJlMA)
 - [Entra ID Integrated SFTP](https://www.youtube.com/watch?v=pzPqnTHxNPU)
 - [Work IQ Overview](https://www.youtube.com/watch?v=gTupe7ou5xI)
@@ -372,6 +373,7 @@
 - [Picking the right Agent Builder solution](https://www.youtube.com/watch?v=WUgujz0y1K4)
 - [Copilot Cowork Walkthrough](https://www.youtube.com/watch?v=3jewNNMCxA8)
 - [Work IQ Overview](https://www.youtube.com/watch?v=gTupe7ou5xI)
+- [How to change model behavior! Context engineering, fine-tuning and more](https://www.youtube.com/watch?v=oqbKWwUhh4Y)
 
 ### Office 365 Platform
 
