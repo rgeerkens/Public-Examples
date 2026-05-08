@@ -2,6 +2,7 @@
 
 ## Recent Additions
 
+- [Post Quantum Cryptography (PQC) overview and why you should care!](https://www.youtube.com/watch?v=QQMLzxqJlMA)
 - [Entra ID Integrated SFTP](https://www.youtube.com/watch?v=pzPqnTHxNPU)
 - [Work IQ Overview](https://www.youtube.com/watch?v=gTupe7ou5xI)
 - [Copilot Cowork Walkthrough](https://www.youtube.com/watch?v=3jewNNMCxA8)
@@ -11,7 +12,6 @@
 - [Getting Started with GitHub Copilot CLI and Work IQ](https://www.youtube.com/watch?v=tQlNq8bH674)
 - [Getting Started with M365 Copilot](https://www.youtube.com/watch?v=WiNcWsyENU4)
 - [ExpressRoute Gateway Scalable](https://www.youtube.com/watch?v=2OVNx2quVP0)
-- [Agent 365 and Agent ID Overview](https://www.youtube.com/watch?v=WTcyL68qTo8)
 
 
 ## Full Courses
@@ -425,6 +425,7 @@
 - [Quantum Computing For Everyone](https://www.youtube.com/watch?v=x5Ohhi3YTKY)
 - [Zero Trust Workshop](https://www.youtube.com/watch?v=xVWr1ml47_g)
 - [What Quantum Safe Is and Why We Need It to Stay Secure](https://www.youtube.com/watch?v=5--yBhgDrXM)
+- [Post Quantum Cryptography (PQC) overview and why you should care!](https://www.youtube.com/watch?v=QQMLzxqJlMA)
 
 ### Infrastructure As Code
 
