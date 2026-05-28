@@ -2,6 +2,7 @@
 
 ## Recent Additions
 
+- [Understanding and Using AI Skills](https://www.youtube.com/watch?v=X9n5EYoWdNk)
 - [How to change model behavior! Context engineering, fine-tuning and more](https://www.youtube.com/watch?v=oqbKWwUhh4Y)
 - [Post Quantum Cryptography (PQC) overview and why you should care!](https://www.youtube.com/watch?v=QQMLzxqJlMA)
 - [Entra ID Integrated SFTP](https://www.youtube.com/watch?v=pzPqnTHxNPU)
@@ -11,7 +12,6 @@
 - [GH-300 Github Copilot](https://www.youtube.com/playlist?list=PLahhVEj9XNTd8lE7clFGR1el35zaBmJbS)
 - [Picking the right Agent Builder solution](https://www.youtube.com/watch?v=WUgujz0y1K4)
 - [Getting Started with GitHub Copilot CLI and Work IQ](https://www.youtube.com/watch?v=tQlNq8bH674)
-- [Getting Started with M365 Copilot](https://www.youtube.com/watch?v=WiNcWsyENU4)
 
 
 ## Full Courses
@@ -373,6 +373,7 @@
 - [Copilot Cowork Walkthrough](https://www.youtube.com/watch?v=3jewNNMCxA8)
 - [Work IQ Overview](https://www.youtube.com/watch?v=gTupe7ou5xI)
 - [How to change model behavior! Context engineering, fine-tuning and more](https://www.youtube.com/watch?v=oqbKWwUhh4Y)
+- [Understanding and Using AI Skills](https://www.youtube.com/watch?v=X9n5EYoWdNk)
 
 ### Office 365 Platform
 
