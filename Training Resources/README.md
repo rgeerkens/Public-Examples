@@ -2,6 +2,7 @@
 
 ## Recent Additions
 
+- [AI-901 Microsoft Azure AI Fundamentals Study Cram](https://www.youtube.com/watch?v=a-yuXz_uV30&pp=0gcJCQ0LAYcqIYzv)
 - [Understanding and Using AI Skills](https://www.youtube.com/watch?v=X9n5EYoWdNk)
 - [How to change model behavior! Context engineering, fine-tuning and more](https://www.youtube.com/watch?v=oqbKWwUhh4Y)
 - [Post Quantum Cryptography (PQC) overview and why you should care!](https://www.youtube.com/watch?v=QQMLzxqJlMA)
@@ -11,7 +12,6 @@
 - [Overview of Entra Backup and Recovery](https://www.youtube.com/watch?v=72nowrDIlQU)
 - [GH-300 Github Copilot](https://www.youtube.com/playlist?list=PLahhVEj9XNTd8lE7clFGR1el35zaBmJbS)
 - [Picking the right Agent Builder solution](https://www.youtube.com/watch?v=WUgujz0y1K4)
-- [Getting Started with GitHub Copilot CLI and Work IQ](https://www.youtube.com/watch?v=tQlNq8bH674)
 
 
 ## Full Courses
@@ -39,6 +39,7 @@
 - [AI-900 Azure Artifical Intelligence Fundamentals](https://www.youtube.com/watch?v=E9aarWMLJw0)
 - [AI-900 - Learning About Generative AI](https://www.youtube.com/watch?v=Ch6KE7KxHGM)
 - [AI-900 Study Cram v2 - The Non-Generative AI bits](https://www.youtube.com/watch?v=bTkUTkXrqOQ)
+- [AI-901 Microsoft Azure AI Fundamentals Study Cram](https://www.youtube.com/watch?v=a-yuXz_uV30&pp=0gcJCQ0LAYcqIYzv)
 - [AZ-900 Azure Fundamentals - Full Course](https://www.youtube.com/playlist?list=PLlVtbbG169nED0_vMEniWBQjSoxTsBYS3)
 - [AZ-900 Azure Fundamentals - Hands-On Approach](https://www.youtube.com/watch?v=j26eNpUU0zM)
 - [AZ-900 Azure Fundamentals - Summary](https://www.youtube.com/watch?v=tQp1YkB2Tgs)
