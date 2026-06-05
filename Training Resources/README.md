@@ -2,6 +2,7 @@
 
 ## Recent Additions
 
+- [Azure File Shares Resource](https://www.youtube.com/watch?v=GLVbQ1k5RmE)
 - [AI-901 Microsoft Azure AI Fundamentals Study Cram](https://www.youtube.com/watch?v=a-yuXz_uV30&pp=0gcJCQ0LAYcqIYzv)
 - [Understanding and Using AI Skills](https://www.youtube.com/watch?v=X9n5EYoWdNk)
 - [How to change model behavior! Context engineering, fine-tuning and more](https://www.youtube.com/watch?v=oqbKWwUhh4Y)
@@ -11,7 +12,6 @@
 - [Copilot Cowork Walkthrough](https://www.youtube.com/watch?v=3jewNNMCxA8)
 - [Overview of Entra Backup and Recovery](https://www.youtube.com/watch?v=72nowrDIlQU)
 - [GH-300 Github Copilot](https://www.youtube.com/playlist?list=PLahhVEj9XNTd8lE7clFGR1el35zaBmJbS)
-- [Picking the right Agent Builder solution](https://www.youtube.com/watch?v=WUgujz0y1K4)
 
 
 ## Full Courses
@@ -178,6 +178,7 @@
   - [SQL Database in Microsoft Fabric](https://www.youtube.com/watch?v=ycq7r-ngOBI)
 - [Azure Files](https://learn.microsoft.com/en-us/azure/storage/files/)
   - [Azure File Sync Managed Identity](https://www.youtube.com/watch?v=xoUCZj4ZMRs)
+  - [Azure File Shares Resource](https://www.youtube.com/watch?v=GLVbQ1k5RmE)
 - [Azure Firewall](https://docs.microsoft.com/en-us/azure/firewall/overview)
   - [Azure Firewall Deep Dive](https://www.youtube.com/watch?v=JiUerkqyW0g)
 - [Azure Front Door](https://docs.microsoft.com/en-us/azure/frontdoor/front-door-overview)
