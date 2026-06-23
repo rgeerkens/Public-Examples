@@ -2,6 +2,7 @@
 
 ## Recent Additions
 
+- [Overview Of WebIQ](https://www.youtube.com/watch?v=YpUSm0_7Lgs)
 - [Azure Files Identity Update](https://www.youtube.com/watch?v=sXNyXRgQTPs)
 - [Azure File Shares Resource](https://www.youtube.com/watch?v=GLVbQ1k5RmE)
 - [AI-901 Microsoft Azure AI Fundamentals Study Cram](https://www.youtube.com/watch?v=a-yuXz_uV30&pp=0gcJCQ0LAYcqIYzv)
@@ -11,7 +12,6 @@
 - [Entra ID Integrated SFTP](https://www.youtube.com/watch?v=pzPqnTHxNPU)
 - [Work IQ Overview](https://www.youtube.com/watch?v=gTupe7ou5xI)
 - [Copilot Cowork Walkthrough](https://www.youtube.com/watch?v=3jewNNMCxA8)
-- [Overview of Entra Backup and Recovery](https://www.youtube.com/watch?v=72nowrDIlQU)
 
 
 ## Full Courses
@@ -377,6 +377,7 @@
 - [Work IQ Overview](https://www.youtube.com/watch?v=gTupe7ou5xI)
 - [How to change model behavior! Context engineering, fine-tuning and more](https://www.youtube.com/watch?v=oqbKWwUhh4Y)
 - [Understanding and Using AI Skills](https://www.youtube.com/watch?v=X9n5EYoWdNk)
+- [Overview Of WebIQ](https://www.youtube.com/watch?v=YpUSm0_7Lgs)
 
 ### Office 365 Platform
 
