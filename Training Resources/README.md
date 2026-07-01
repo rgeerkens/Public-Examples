@@ -2,6 +2,7 @@
 
 ## Recent Additions
 
+- [Copilot Cowork Usage Overview](https://www.youtube.com/watch?v=qXPTJDgbbPg)
 - [Overview Of WebIQ](https://www.youtube.com/watch?v=YpUSm0_7Lgs)
 - [Azure Files Identity Update](https://www.youtube.com/watch?v=sXNyXRgQTPs)
 - [Azure File Shares Resource](https://www.youtube.com/watch?v=GLVbQ1k5RmE)
@@ -11,7 +12,6 @@
 - [Post Quantum Cryptography (PQC) overview and why you should care!](https://www.youtube.com/watch?v=QQMLzxqJlMA)
 - [Entra ID Integrated SFTP](https://www.youtube.com/watch?v=pzPqnTHxNPU)
 - [Work IQ Overview](https://www.youtube.com/watch?v=gTupe7ou5xI)
-- [Copilot Cowork Walkthrough](https://www.youtube.com/watch?v=3jewNNMCxA8)
 
 
 ## Full Courses
@@ -378,6 +378,7 @@
 - [How to change model behavior! Context engineering, fine-tuning and more](https://www.youtube.com/watch?v=oqbKWwUhh4Y)
 - [Understanding and Using AI Skills](https://www.youtube.com/watch?v=X9n5EYoWdNk)
 - [Overview Of WebIQ](https://www.youtube.com/watch?v=YpUSm0_7Lgs)
+- [Copilot Cowork Usage Overview](https://www.youtube.com/watch?v=qXPTJDgbbPg)
 
 ### Office 365 Platform
 
