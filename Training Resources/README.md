@@ -2,6 +2,7 @@
 
 ## Recent Additions
 
+- [Quick Introduction to Windows Sandbox](https://www.youtube.com/watch?v=v7crnKhSLws)
 - [Copilot Cowork Usage Overview](https://www.youtube.com/watch?v=qXPTJDgbbPg)
 - [Overview Of WebIQ](https://www.youtube.com/watch?v=YpUSm0_7Lgs)
 - [Azure Files Identity Update](https://www.youtube.com/watch?v=sXNyXRgQTPs)
@@ -11,7 +12,6 @@
 - [How to change model behavior! Context engineering, fine-tuning and more](https://www.youtube.com/watch?v=oqbKWwUhh4Y)
 - [Post Quantum Cryptography (PQC) overview and why you should care!](https://www.youtube.com/watch?v=QQMLzxqJlMA)
 - [Entra ID Integrated SFTP](https://www.youtube.com/watch?v=pzPqnTHxNPU)
-- [Work IQ Overview](https://www.youtube.com/watch?v=gTupe7ou5xI)
 
 
 ## Full Courses
@@ -398,6 +398,7 @@
 - [Windows Local Administrator Password Solution (LAPS)](https://www.youtube.com/watch?v=QkLwZI76SN4)
 - [Windows/SQL 2012 End-Of-Life Options](https://www.youtube.com/watch?v=AU1ywaQ3ejg)
 - [Hyper-V Overview](https://www.youtube.com/watch?v=CqgsJzn3uXM)
+- [Quick Introduction to Windows Sandbox](https://www.youtube.com/watch?v=v7crnKhSLws)
 
 ### Container Courses
 
