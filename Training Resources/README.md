@@ -2,6 +2,7 @@
 
 ## Recent Additions
 
+- [Standard Service Endpoint Overview](https://www.youtube.com/watch?v=HK6irXQNv2o)
 - [Quick Introduction to Windows Sandbox](https://www.youtube.com/watch?v=v7crnKhSLws)
 - [Copilot Cowork Usage Overview](https://www.youtube.com/watch?v=qXPTJDgbbPg)
 - [Overview Of WebIQ](https://www.youtube.com/watch?v=YpUSm0_7Lgs)
@@ -11,7 +12,6 @@
 - [Understanding and Using AI Skills](https://www.youtube.com/watch?v=X9n5EYoWdNk)
 - [How to change model behavior! Context engineering, fine-tuning and more](https://www.youtube.com/watch?v=oqbKWwUhh4Y)
 - [Post Quantum Cryptography (PQC) overview and why you should care!](https://www.youtube.com/watch?v=QQMLzxqJlMA)
-- [Entra ID Integrated SFTP](https://www.youtube.com/watch?v=pzPqnTHxNPU)
 
 
 ## Full Courses
@@ -241,6 +241,8 @@
   - [System Center Operations Manager Managed Instance](https://www.youtube.com/watch?v=XCVroOEzu50)
 - [Azure Sentinel](https://docs.microsoft.com/en-us/azure/sentinel/overview)
   - [Microsoft Sentinel Bootcamp](https://www.youtube.com/watch?v=NJlaqBaqahc)
+- [Azure Service Endpoints](https://learn.microsoft.com/en-us/azure/virtual-network/virtual-network-service-endpoints-overview) 
+  - [Standard Service Endpoint Overview](https://www.youtube.com/watch?v=HK6irXQNv2o) 
 - [Azure Service Groups](https://learn.microsoft.com/en-us/azure/governance/service-groups/overview)
   - [Azure Service Groups - Flexible Resource Organization](https://www.youtube.com/watch?v=wurJ2LKmDs4)
 - [Azure Service Health](https://learn.microsoft.com/nl-nl/azure/service-health/)
