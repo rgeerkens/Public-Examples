@@ -2,6 +2,7 @@
 
 ## Recent Additions
 
+- [AI-901 Introduction To AI In Azure](https://www.youtube.com/playlist?list=PLahhVEj9XNTfH73kzXxgQe8_hiOmH_foL)
 - [Standard Service Endpoint Overview](https://www.youtube.com/watch?v=HK6irXQNv2o)
 - [Quick Introduction to Windows Sandbox](https://www.youtube.com/watch?v=v7crnKhSLws)
 - [Copilot Cowork Usage Overview](https://www.youtube.com/watch?v=qXPTJDgbbPg)
@@ -11,7 +12,6 @@
 - [AI-901 Microsoft Azure AI Fundamentals Study Cram](https://www.youtube.com/watch?v=a-yuXz_uV30&pp=0gcJCQ0LAYcqIYzv)
 - [Understanding and Using AI Skills](https://www.youtube.com/watch?v=X9n5EYoWdNk)
 - [How to change model behavior! Context engineering, fine-tuning and more](https://www.youtube.com/watch?v=oqbKWwUhh4Y)
-- [Post Quantum Cryptography (PQC) overview and why you should care!](https://www.youtube.com/watch?v=QQMLzxqJlMA)
 
 
 ## Full Courses
@@ -52,6 +52,7 @@
 
 ## Microsoft Learn Modules
 - [GH-300 Github Copilot](https://www.youtube.com/playlist?list=PLahhVEj9XNTd8lE7clFGR1el35zaBmJbS)
+- [AI-901 Introduction To AI In Azure](https://www.youtube.com/playlist?list=PLahhVEj9XNTfH73kzXxgQe8_hiOmH_foL)
 
 
 ## Deep Dive Content
