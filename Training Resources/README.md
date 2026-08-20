@@ -2,6 +2,7 @@
 
 ## Recent Additions
 
+- [AI-103 Develop AI Apps and Agents on Azure Study Cram](https://www.youtube.com/watch?v=WK2BvjOYTCQ)
 - [AI-901 Introduction To AI In Azure](https://www.youtube.com/playlist?list=PLahhVEj9XNTfH73kzXxgQe8_hiOmH_foL)
 - [Standard Service Endpoint Overview](https://www.youtube.com/watch?v=HK6irXQNv2o)
 - [Quick Introduction to Windows Sandbox](https://www.youtube.com/watch?v=v7crnKhSLws)
@@ -11,13 +12,13 @@
 - [Azure File Shares Resource](https://www.youtube.com/watch?v=GLVbQ1k5RmE)
 - [AI-901 Microsoft Azure AI Fundamentals Study Cram](https://www.youtube.com/watch?v=a-yuXz_uV30&pp=0gcJCQ0LAYcqIYzv)
 - [Understanding and Using AI Skills](https://www.youtube.com/watch?v=X9n5EYoWdNk)
-- [How to change model behavior! Context engineering, fine-tuning and more](https://www.youtube.com/watch?v=oqbKWwUhh4Y)
 
 
 ## Full Courses
 
 - [SC-100 Cybersecurity Architect Expert Certification - Summary](https://www.youtube.com/watch?v=2Qu5gQjNQh4)
 - [AI-102 Azure AI Engineer Associate Certification - Summary](https://www.youtube.com/watch?v=I7fdWafTcPY)
+- [AI-103 Develop AI Apps and Agents on Azure Study Cram](https://www.youtube.com/watch?v=WK2BvjOYTCQ)
 - [AZ-104 Azure Administrator - Full Course](https://www.youtube.com/playlist?list=PLlVtbbG169nGlGPWs9xaLKT1KfwqREHbs)
 - [AZ-104 Administrator Associate Study Cram v2](https://www.youtube.com/watch?v=0Knf9nub4-k)
 - [AZ-104 Azure Administrator - Hands-On Approach](https://www.youtube.com/watch?v=I1zvntPHNMk)
