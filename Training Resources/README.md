@@ -2,6 +2,7 @@
 
 ## Recent Additions
 
+- [Project Perception - Cybersecurity at the speed of AI](https://www.youtube.com/watch?v=hYjgSu-77pA)
 - [AI-103 Develop AI Apps and Agents on Azure Study Cram](https://www.youtube.com/watch?v=WK2BvjOYTCQ)
 - [AI-901 Introduction To AI In Azure](https://www.youtube.com/playlist?list=PLahhVEj9XNTfH73kzXxgQe8_hiOmH_foL)
 - [Standard Service Endpoint Overview](https://www.youtube.com/watch?v=HK6irXQNv2o)
@@ -11,7 +12,6 @@
 - [Azure Files Identity Update](https://www.youtube.com/watch?v=sXNyXRgQTPs)
 - [Azure File Shares Resource](https://www.youtube.com/watch?v=GLVbQ1k5RmE)
 - [AI-901 Microsoft Azure AI Fundamentals Study Cram](https://www.youtube.com/watch?v=a-yuXz_uV30&pp=0gcJCQ0LAYcqIYzv)
-- [Understanding and Using AI Skills](https://www.youtube.com/watch?v=X9n5EYoWdNk)
 
 
 ## Full Courses
@@ -383,6 +383,7 @@
 - [Understanding and Using AI Skills](https://www.youtube.com/watch?v=X9n5EYoWdNk)
 - [Overview Of WebIQ](https://www.youtube.com/watch?v=YpUSm0_7Lgs)
 - [Copilot Cowork Usage Overview](https://www.youtube.com/watch?v=qXPTJDgbbPg)
+- [Project Perception - Cybersecurity at the speed of AI](https://www.youtube.com/watch?v=hYjgSu-77pA)
 
 ### Office 365 Platform
 
