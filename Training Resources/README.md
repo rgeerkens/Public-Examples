@@ -2,6 +2,7 @@
 
 ## Recent Additions
 
+- [Microsoft DLP Full Course](https://www.youtube.com/watch?v=y2NTyY5wehY)
 - [Passkeys in Microsoft 365 - Full Admin Course](https://www.youtube.com/watch?v=atCxVqllCUA)
 - [Project Perception - Cybersecurity at the speed of AI](https://www.youtube.com/watch?v=hYjgSu-77pA)
 - [AI-103 Develop AI Apps and Agents on Azure Study Cram](https://www.youtube.com/watch?v=WK2BvjOYTCQ)
@@ -11,7 +12,6 @@
 - [Copilot Cowork Usage Overview](https://www.youtube.com/watch?v=qXPTJDgbbPg)
 - [Overview Of WebIQ](https://www.youtube.com/watch?v=YpUSm0_7Lgs)
 - [Azure Files Identity Update](https://www.youtube.com/watch?v=sXNyXRgQTPs)
-- [Azure File Shares Resource](https://www.youtube.com/watch?v=GLVbQ1k5RmE)
 
 
 ## Full Courses
@@ -231,6 +231,7 @@
 - [Microsoft Purview](https://learn.microsoft.com/en-us/purview/purview)
   - [Microsoft Purview Overview](https://www.youtube.com/watch?v=nfP7t8jy0aE)
   - [Microsoft Purview Sensitivity Labels](https://www.youtube.com/watch?v=6O-JjLVT_wQ&list=WL&index=3)
+  - [Microsoft DLP Full Course](https://www.youtube.com/watch?v=y2NTyY5wehY)
 - [Azure Regions](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/ready/azure-setup-guide/regions)
   - [Using Multiple Azure Regions](https://www.youtube.com/watch?v=qZ6cwTpQc54)
   - [Increasing Resiliency Within A Region](https://www.youtube.com/watch?v=P8uyAK2UMFs)
