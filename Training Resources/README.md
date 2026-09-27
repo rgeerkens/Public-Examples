@@ -2,6 +2,7 @@
 
 ## Recent Additions
 
+- [Passkeys in Microsoft 365 - Full Admin Course](https://www.youtube.com/watch?v=atCxVqllCUA)
 - [Project Perception - Cybersecurity at the speed of AI](https://www.youtube.com/watch?v=hYjgSu-77pA)
 - [AI-103 Develop AI Apps and Agents on Azure Study Cram](https://www.youtube.com/watch?v=WK2BvjOYTCQ)
 - [AI-901 Introduction To AI In Azure](https://www.youtube.com/playlist?list=PLahhVEj9XNTfH73kzXxgQe8_hiOmH_foL)
@@ -11,7 +12,6 @@
 - [Overview Of WebIQ](https://www.youtube.com/watch?v=YpUSm0_7Lgs)
 - [Azure Files Identity Update](https://www.youtube.com/watch?v=sXNyXRgQTPs)
 - [Azure File Shares Resource](https://www.youtube.com/watch?v=GLVbQ1k5RmE)
-- [AI-901 Microsoft Azure AI Fundamentals Study Cram](https://www.youtube.com/watch?v=a-yuXz_uV30&pp=0gcJCQ0LAYcqIYzv)
 
 
 ## Full Courses
@@ -60,7 +60,7 @@
 
 ### Azure Services
 
-- [Azure Active Directory](https://docs.microsoft.com/en-us/azure/active-directory/fundamentals/active-directory-whatis)
+- [Entra ID](https://learn.microsoft.com/en-us/entra/fundamentals/what-is-entra)
   - [Azure AD Certificate-Based Authentication](https://www.youtube.com/watch?v=mjxdjTHZ8PI)
   - [Dynamic Administrative Units - Delegate Azure AD roles to a subset of objects!](https://www.youtube.com/watch?v=EcfmYRYoXqI)
   - [Azure AD Cross-Tenant Access Settings Deep Dive](https://www.youtube.com/watch?v=Ku64fo7iZ4Y)
@@ -112,6 +112,7 @@
   - [Entra Account Recovery](https://www.youtube.com/watch?v=WYji1oV7GQI)
   - [Overview of Entra Backup and Recovery](https://www.youtube.com/watch?v=72nowrDIlQU)
   - [Entra ID Integrated SFTP](https://www.youtube.com/watch?v=pzPqnTHxNPU)
+  - [Passkeys in Microsoft 365 - Full Admin Course](https://www.youtube.com/watch?v=atCxVqllCUA)
 - [Azure API Manager](https://docs.microsoft.com/en-us/azure/api-management/api-management-key-concepts)
   - [Azure API Manager Automated Orchestration](https://geerkens-my.sharepoint.com/:v:/g/personal/ronny_geerkens_onmicrosoft_com/Ebys3KEacyZEi9BIjbHsad8BsnukdZ1QnKXSti6G1Czw5Q?e=JBsOgd)
   - [Azure API Management Deep Dive](https://www.youtube.com/watch?v=PXtFq5wmGt0)
