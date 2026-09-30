@@ -2,6 +2,7 @@
 
 ## Recent Additions
 
+- [ACA Sandboxes - Isolated, secure hosting for agents](https://www.youtube.com/watch?v=43ZJtGpCYbU)
 - [Microsoft DLP Full Course](https://www.youtube.com/watch?v=y2NTyY5wehY)
 - [Passkeys in Microsoft 365 - Full Admin Course](https://www.youtube.com/watch?v=atCxVqllCUA)
 - [Project Perception - Cybersecurity at the speed of AI](https://www.youtube.com/watch?v=hYjgSu-77pA)
@@ -11,7 +12,6 @@
 - [Quick Introduction to Windows Sandbox](https://www.youtube.com/watch?v=v7crnKhSLws)
 - [Copilot Cowork Usage Overview](https://www.youtube.com/watch?v=qXPTJDgbbPg)
 - [Overview Of WebIQ](https://www.youtube.com/watch?v=YpUSm0_7Lgs)
-- [Azure Files Identity Update](https://www.youtube.com/watch?v=sXNyXRgQTPs)
 
 
 ## Full Courses
@@ -155,6 +155,8 @@
 - [Azure Confidential Computing](https://docs.microsoft.com/en-us/azure/confidential-computing/overview)
   - [Confidential Computing Deep Dive](https://www.youtube.com/watch?v=ZnoFOTbRvRg)
   - [Generation 2 VM and Trusted Launch](https://www.youtube.com/watch?v=SnfBV-YjDWw)
+- [Azure Container Appq](https://learn.microsoft.com/en-us/azure/container-apps/overview)
+  - [ACA Sandboxes - Isolated, secure hosting for agents](https://www.youtube.com/watch?v=43ZJtGpCYbU)
 - [Azure Container Storage](https://learn.microsoft.com/en-us/azure/storage/container-storage/container-storage-introduction)
   - [Azure Container Storage Solution](https://www.youtube.com/watch?v=mXH7FUIfoMs)
 - [Azure Data Explorer-ADX](https://learn.microsoft.com/en-us/azure/data-explorer/data-explorer-overview)
