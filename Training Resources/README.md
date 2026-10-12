@@ -2,6 +2,7 @@
 
 ## Recent Additions
 
+- [Looking at the new Copilot "Super App"](https://www.youtube.com/watch?v=YSFSR8d58Bk)
 - [ACA Sandboxes - Isolated, secure hosting for agents](https://www.youtube.com/watch?v=43ZJtGpCYbU)
 - [Microsoft DLP Full Course](https://www.youtube.com/watch?v=y2NTyY5wehY)
 - [Passkeys in Microsoft 365 - Full Admin Course](https://www.youtube.com/watch?v=atCxVqllCUA)
@@ -11,7 +12,6 @@
 - [Standard Service Endpoint Overview](https://www.youtube.com/watch?v=HK6irXQNv2o)
 - [Quick Introduction to Windows Sandbox](https://www.youtube.com/watch?v=v7crnKhSLws)
 - [Copilot Cowork Usage Overview](https://www.youtube.com/watch?v=qXPTJDgbbPg)
-- [Overview Of WebIQ](https://www.youtube.com/watch?v=YpUSm0_7Lgs)
 
 
 ## Full Courses
@@ -388,6 +388,7 @@
 - [Overview Of WebIQ](https://www.youtube.com/watch?v=YpUSm0_7Lgs)
 - [Copilot Cowork Usage Overview](https://www.youtube.com/watch?v=qXPTJDgbbPg)
 - [Project Perception - Cybersecurity at the speed of AI](https://www.youtube.com/watch?v=hYjgSu-77pA)
+- [Looking at the new Copilot "Super App"](https://www.youtube.com/watch?v=YSFSR8d58Bk)
 
 ### Office 365 Platform
 
