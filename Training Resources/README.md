@@ -2,6 +2,7 @@
 
 ## Recent Additions
 
+- [Quick overview of Conditional Access Policy Plans](https://www.youtube.com/watch?v=BPuEMmylXzM)
 - [MXC - Containing agents on your local machine](https://www.youtube.com/watch?v=oejDOONIfIs)
 - [Why do AI Agents Fail](https://www.youtube.com/watch?v=xKgY5vnzjMQ)
 - [Looking at the new Copilot "Super App"](https://www.youtube.com/watch?v=YSFSR8d58Bk)
@@ -11,7 +12,6 @@
 - [Project Perception - Cybersecurity at the speed of AI](https://www.youtube.com/watch?v=hYjgSu-77pA)
 - [AI-103 Develop AI Apps and Agents on Azure Study Cram](https://www.youtube.com/watch?v=WK2BvjOYTCQ)
 - [AI-901 Introduction To AI In Azure](https://www.youtube.com/playlist?list=PLahhVEj9XNTfH73kzXxgQe8_hiOmH_foL)
-- [Standard Service Endpoint Overview](https://www.youtube.com/watch?v=HK6irXQNv2o)
 
 
 ## Full Courses
@@ -152,6 +152,7 @@
   - [Conditional Access Filters and Templates](https://www.youtube.com/watch?v=PwBg3J4PSCA)
   - [Using Conditional Access with Authentication Flows](https://www.youtube.com/watch?v=A1-kSuLLNLI)
   - [Applying Conditional Access Policy to M365 and Security Copilots](https://www.youtube.com/watch?v=kdkwbI4R4Sc)
+  - [Quick overview of Conditional Access Policy Plans](https://www.youtube.com/watch?v=BPuEMmylXzM)
 - [Azure Confidential Computing](https://docs.microsoft.com/en-us/azure/confidential-computing/overview)
   - [Confidential Computing Deep Dive](https://www.youtube.com/watch?v=ZnoFOTbRvRg)
   - [Generation 2 VM and Trusted Launch](https://www.youtube.com/watch?v=SnfBV-YjDWw)
