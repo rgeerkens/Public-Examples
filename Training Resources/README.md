@@ -2,6 +2,7 @@
 
 ## Recent Additions
 
+- [17 agents, one SDLC: How Levi Strauss reimagined development on GitHub](https://www.youtube.com/watch?v=-GpxKKgoWWg)
 - [Quick overview of Conditional Access Policy Plans](https://www.youtube.com/watch?v=BPuEMmylXzM)
 - [MXC - Containing agents on your local machine](https://www.youtube.com/watch?v=oejDOONIfIs)
 - [Why do AI Agents Fail](https://www.youtube.com/watch?v=xKgY5vnzjMQ)
@@ -11,7 +12,6 @@
 - [Passkeys in Microsoft 365 - Full Admin Course](https://www.youtube.com/watch?v=atCxVqllCUA)
 - [Project Perception - Cybersecurity at the speed of AI](https://www.youtube.com/watch?v=hYjgSu-77pA)
 - [AI-103 Develop AI Apps and Agents on Azure Study Cram](https://www.youtube.com/watch?v=WK2BvjOYTCQ)
-- [AI-901 Introduction To AI In Azure](https://www.youtube.com/playlist?list=PLahhVEj9XNTfH73kzXxgQe8_hiOmH_foL)
 
 
 ## Full Courses
@@ -392,6 +392,7 @@
 - [Looking at the new Copilot "Super App"](https://www.youtube.com/watch?v=YSFSR8d58Bk)
 - [Why do AI Agents Fail](https://www.youtube.com/watch?v=xKgY5vnzjMQ)
 - [MXC - Containing agents on your local machine](https://www.youtube.com/watch?v=oejDOONIfIs)
+- [17 agents, one SDLC: How Levi Strauss reimagined development on GitHub](https://www.youtube.com/watch?v=-GpxKKgoWWg)
 
 ### Office 365 Platform
 
