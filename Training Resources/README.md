@@ -2,6 +2,7 @@
 
 ## Recent Additions
 
+- [Azure Enclave - Isolated, Secure and Compliant by Default](https://www.youtube.com/watch?v=pVlM5ScV5OA)
 - [17 agents, one SDLC: How Levi Strauss reimagined development on GitHub](https://www.youtube.com/watch?v=-GpxKKgoWWg)
 - [Quick overview of Conditional Access Policy Plans](https://www.youtube.com/watch?v=BPuEMmylXzM)
 - [MXC - Containing agents on your local machine](https://www.youtube.com/watch?v=oejDOONIfIs)
@@ -11,7 +12,6 @@
 - [Microsoft DLP Full Course](https://www.youtube.com/watch?v=y2NTyY5wehY)
 - [Passkeys in Microsoft 365 - Full Admin Course](https://www.youtube.com/watch?v=atCxVqllCUA)
 - [Project Perception - Cybersecurity at the speed of AI](https://www.youtube.com/watch?v=hYjgSu-77pA)
-- [AI-103 Develop AI Apps and Agents on Azure Study Cram](https://www.youtube.com/watch?v=WK2BvjOYTCQ)
 
 
 ## Full Courses
@@ -174,6 +174,8 @@
   - [Private Endpoint DNS Exploration](https://www.youtube.com/watch?v=rXbamGNz-xQ)
 - [Azure Elastic San](https://learn.microsoft.com/en-us/azure/storage/elastic-san/elastic-san-introduction)
   - [Azure Elastic SAN Deep Dive](https://www.youtube.com/watch?v=RQqcQW4GikA)
+- [Azure Enclave](https://learn.microsoft.com/en-us/azure/enclave/what-azure-enclave)
+  - [Azure Enclave - Isolated, Secure and Compliant by Default](https://www.youtube.com/watch?v=pVlM5ScV5OA)
 - [Azure ExpressRoute](https://docs.microsoft.com/en-gb/azure/expressroute/expressroute-introduction)
   - [ExpressRoute Deep Dive](https://www.youtube.com/watch?v=oevwZZ1YFS0)
   - [Understanding ExpressRoute Latency](https://www.youtube.com/watch?v=OQu472BgI4Y)
